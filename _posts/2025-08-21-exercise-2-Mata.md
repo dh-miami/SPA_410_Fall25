@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Analisis de un proyecto DH - Analysis of a DH project"
+title: "Analisis de un proyecto DH - Civil War Washington"
 author: "Skye Mata"
 date: 2025-08-22
 exercise: "Ejercicio 2 Proyecto HD - Exercise 2 DH Project"
