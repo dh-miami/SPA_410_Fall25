@@ -30,7 +30,7 @@ permalink: /class-2.html
 
 > En este curso, incluimos bajo el concepto de escrituras biográficas un amplio repertorio de formas narrativas que relatan vidas humanas, incluyendo, entre otros, autobiografías, biografías, colecciones biográficas, memorias, cartas, diarios, testimonios, retratos literarios o ensayos personales. Más que un género literario cerrado, las escrituras biográficas constituyen una práctica cultural que permite explorar la construcción de la identidad, la memoria, la fama, el poder y la representación del yo y del otro, reflejando las convenciones sociales de cada época.
 
-* Importnate: Cómo se construye la identidad a través del tiempo y las culturas. 
+* Importante: Cómo se construye la identidad a través del tiempo y las culturas. 
 
 **11:30-11:40AM**
 
@@ -39,7 +39,8 @@ permalink: /class-2.html
 * Definición:   
 
 > Digital Humanities research and teaching takes place at the intersection of digital technologies and humanities. DH aims to produce and use applications and models that make possible new kinds of teaching and research, both in the humanities and in computer science (and its allied technologies). DH also studies the impact of these techniques on cultural heritage, memory institutions, libraries, archives and digital culture.   
-    Melissa Terras, Quantifying Digital Humanities, [https://blogs.ucl.ac.uk/dh/2012/01/20/infographic-quantifying-digital-humanities/](https://blogs.ucl.ac.uk/dh/2012/01/20/infographic-quantifying-digital-humanities/)   
+    Melissa Terras, Quantifying Digital Humanities, [https://blogs.ucl.ac.uk/dh/2012/01/20/infographic-quantifying-digital-humanities/](https://blogs.ucl.ac.uk/dh/2012/01/20/infographic-quantifying-digital-humanities/) 
+
 * Intentar traducir la definición del inglés al español.   
 * Disciplina de dificil definición: [https://whatisdigitalhumanities.com/](https://whatisdigitalhumanities.com/) 
 
@@ -66,7 +67,7 @@ En grupos, escoger un proyecto e intentad responder a estas preguntas:
 
 * Creación de un nuevo documento donde colgar el Ejercicio 2 (mismos pasos que el Ejercicio 1).  
 * Seguir el template: [https://github.com/dh-miami/SPA\_410\_Fall25/blob/main/\_posts/2025-08-21-exercise-2-template.md](https://github.com/dh-miami/SPA_410_Fall25/blob/main/_posts/2025-08-21-exercise-2-template.md)   
-* Create new file \> modificar contenido \> “Commit changes” (mensaje descriptivo).   
+* Create new file > modificar contenido > “Commit changes” (mensaje descriptivo).   
 * Breve introducción a markdown: [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
 
 
