@@ -38,8 +38,7 @@ permalink: /class-2.html
 * ¿Qué sabemos de las Humanidades Digitales / Digital Humanities?    
 * Definición:   
 
-> Digital Humanities research and teaching takes place at the intersection of digital technologies and humanities. DH aims to produce and use applications and models that make possible new kinds of teaching and research, both in the humanities and in computer science (and its allied technologies). DH also studies the impact of these techniques on cultural heritage, memory institutions, libraries, archives and digital culture.   
-    Melissa Terras, Quantifying Digital Humanities, [https://blogs.ucl.ac.uk/dh/2012/01/20/infographic-quantifying-digital-humanities/](https://blogs.ucl.ac.uk/dh/2012/01/20/infographic-quantifying-digital-humanities/) 
+> Digital Humanities research and teaching takes place at the intersection of digital technologies and humanities. DH aims to produce and use applications and models that make possible new kinds of teaching and research, both in the humanities and in computer science (and its allied technologies). DH also studies the impact of these techniques on cultural heritage, memory institutions, libraries, archives and digital culture. (Melissa Terras, Quantifying Digital Humanities, [https://blogs.ucl.ac.uk/dh/2012/01/20/infographic-quantifying-digital-humanities/](https://blogs.ucl.ac.uk/dh/2012/01/20/infographic-quantifying-digital-humanities/))
 
 * Intentar traducir la definición del inglés al español.   
 * Disciplina de dificil definición: [https://whatisdigitalhumanities.com/](https://whatisdigitalhumanities.com/) 
