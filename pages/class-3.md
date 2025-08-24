@@ -1,6 +1,7 @@
 ---
 title: Class 3
 layout: page
+date: 2025-08-26
 permalink: /class-3.html
 ---
 
