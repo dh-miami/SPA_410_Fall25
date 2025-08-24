@@ -5,7 +5,7 @@ date: 2025-08-26
 permalink: /class-3.html
 ---
 
-## Class 3 -
+## Class 3 - Introduction to Digital Literacy and Life Writing (II)
 
 **11:00AM** 
 
@@ -42,7 +42,7 @@ A partir del proyecto elegido, discutid estas preguntas (ejemplos de las estudia
 
 **11:55AM**
 
-A través de esta [plantilla](https://docs.google.com/spreadsheets/d/1J5GAloe_nFeOwAX9t413r6xBFG3_9bkmUVk_xNXwA1g/edit?gid=1447384171#gid=1447384171) (About > Important Links), se añaden los metadatos de los autores y las obras que estudiaremos en clase. Se trata de una hoja de cálculo (spreadsheet), done aparecen diferentes campos:
+A través de esta [plantilla](https://docs.google.com/spreadsheets/d/1J5GAloe_nFeOwAX9t413r6xBFG3_9bkmUVk_xNXwA1g/edit?gid=1447384171#gid=1447384171) (About > Important Links), se añaden los metadatos de los autores y las obras que estudiaremos en clase. Se trata de una hoja de cálculo (spreadsheet), donde aparecen diferentes campos:
 
 - objectid
 - filename
@@ -64,7 +64,7 @@ A través de esta [plantilla](https://docs.google.com/spreadsheets/d/1J5GAloe_nF
 
 Más información sobre los metadatos [aquí](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/). 
 
-Cada estudiante debe elegir uno de los autores que estudiaremos en el curso [SPA_410_Fall25 > Authors](https://dh-miami.github.io/SPA_410_Fall25/guamanpoma.html) y leer atentamente la presentación que se ofrece. A partir de aquí, debéis identificar el texto que se utilizará para el curso (edición, página web), aislar todas las informaciones posibles y añadirlas a la [hoja de cálculo]((https://docs.google.com/spreadsheets/d/1J5GAloe_nFeOwAX9t413r6xBFG3_9bkmUVk_xNXwA1g/edit?gid=1447384171#gid=1447384171)). 
+Cada estudiante debe elegir uno de los autores que estudiaremos en el curso [SPA_410_Fall25 > Authors](https://dh-miami.github.io/SPA_410_Fall25/) y leer atentamente la presentación que se ofrece. A partir de aquí, debéis identificar el texto que se utilizará para el curso (edición, página web), aislar todas las informaciones posibles y añadirlas a la [hoja de cálculo]((https://docs.google.com/spreadsheets/d/1J5GAloe_nFeOwAX9t413r6xBFG3_9bkmUVk_xNXwA1g/edit?gid=1447384171#gid=1447384171)). 
 
    
 ### Para la próxima clase: 
