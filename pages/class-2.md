@@ -72,4 +72,9 @@ En grupos, escoger un proyecto e intentad responder a estas preguntas:
 
 ### Para la próxima clase: 
 
-* Ejercicio 2: Navegar la lista  de proyectos, y escribir un breve análisis de uno de ellos. 
+* Ejercicio 2: Navegar la lista  de proyectos, y escribir un breve análisis de uno de ellos.
+* Visualizar en casa el video [What is DH?](https://drive.google.com/drive/u/0/folders/1Jqp_42Q1pe0FVAAZA5pxW-lqY23dZD3A) y responder a estas preguntas: 
+  - ¿Qué son las HD según este video?
+  - ¿Cómo pensáis que las HD pueden conectarse con formas biográficas?
+  - ¿Qué tipos de aproximaciones (*approaches*) se mencionan en este video?
+* Completar las entradas del [glosario](https://docs.google.com/spreadsheets/d/1rUv_R7LcZBp4Vfi6BkVObJfMa_c5l0L1VbCepJZAnrQ/edit?gid=0#gid=0) que hicisteis en clase. 
