@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Leonor López de Córdoba – Mapa Interactivo</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        #map {
+            height: 600px;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Leonor López de Córdoba: Mapa de su vida / Life Map</h2>
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        const map = L.map('map').setView([38.5, -4.5], 6); // Centered on southern Spain
+
+        // Add OpenStreetMap tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 18,
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        // Data: [Lat, Lon, "Popup content"]
+        const events = [
+            [37.8882, -4.7794, "<b>c. 1362</b><br>Born in Córdoba / Nace en Córdoba"],
+            [37.3828, -5.9732, "<b>c. 1370s</b><br>Exiled to Sevilla with her family / Exilio en Sevilla"],
+            [38.4021, -4.8780, "<b>1369</b><br>Death of Pedro I in Montiel; rise of Trastámaras / Muerte de Pedro I"],
+            [37.1834, -5.9361, "<b>1371</b><br>Execution of Leonor’s father / Ejecución del padre"],
+            [37.2899, -5.6366, "<b>1371–c.1379</b><br>Imprisoned in Carmona / Encarcelamiento en Carmona"],
+            [37.8882, -4.7794, "<b>c. 1380</b><br>Returns to Córdoba / Regreso a Córdoba"],
+            [37.8831, -4.7634, "<b>c. 1400</b><br>Writes the Memorias / Escritura de las Memorias"],
+            [37.9839, -4.6320, "<b>Post-1406</b><br>Exile after Queen Catalina dismisses her / Destierro por Catalina"],
+            [37.8882, -4.7794, "<b>c. 1430</b><br>Death in Córdoba / Muerte en Córdoba"]
+        ];
+
+        // Add markers to the map
+        events.forEach(([lat, lon, text]) => {
+            L.marker([lat, lon]).addTo(map).bindPopup(text);
+        });
+    </script>
+</body>
+
+</html>
