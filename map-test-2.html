@@ -1,41 +1,61 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 
 <head>
-    <title>Leonor López de Córdoba – Mapa Interactivo</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mapa Interactivo: Leonor López de Córdoba</title>
+
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
 
     <!-- PapaParse -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+
+    <style>
+        body {
+            font-family: system-ui, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h2 {
+            text-align: center;
+            margin: 1rem;
+        }
+
+        #map {
+            height: 600px;
+            width: 100%;
+        }
+    </style>
 </head>
 
 <body>
-    <h2>Leonor López de Córdoba: Mapa de su vida / Life Map</h2>
-    <div id="map" style="height: 600px;"></div>
+    <h2>Mapa Interactivo: La Vida de Leonor López de Córdoba</h2>
+    <div id="map"></div>
 
     <!-- Leaflet JS -->
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script>
-        // Crear el mapa
-        var map = L.map('map').setView([37.8882, -4.7794], 6); // Vista inicial en Córdoba
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
-        // Capa base
+    <script>
+        // Crear el mapa y centrarlo en Córdoba
+        var map = L.map('map').setView([37.8882, -4.7794], 6); // Córdoba, España
+
+        // Añadir capa base de OpenStreetMap
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            maxZoom: 18,
-            attribution: '© OpenStreetMap contributors'
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 18
         }).addTo(map);
 
-        // Cargar datos CSV usando PapaParse
-        Papa.parse('/data/leonor_map_data.csv', {
+        // Cargar datos desde CSV con PapaParse
+        Papa.parse('_data/leonor_map_data.csv', {
             download: true,
             header: true,
             complete: function (results) {
                 results.data.forEach(function (row) {
                     if (row.latitude && row.longitude) {
-                        var marker = L.marker([row.latitude, row.longitude]).addTo(map);
+                        var marker = L.marker([parseFloat(row.latitude), parseFloat(row.longitude)]).addTo(map);
                         marker.bindPopup(
                             `<strong>${row.title}</strong><br><em>${row.year}</em><br><p>${row.description}</p>`
                         );
@@ -44,10 +64,6 @@
             }
         });
     </script>
-
-    <!-- Leaflet JS -->
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-
 </body>
 
 </html>
