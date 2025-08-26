@@ -8,7 +8,7 @@ permalink: /class-4.html
 
 **11:00AM**
 - Video [What is DATA?](https://drive.google.com/drive/folders/1Jqp_42Q1pe0FVAAZA5pxW-lqY23dZD3A)(HarvardEdx).
-- Idea of tge neutrality of data:
+- Idea of the neutrality of data:
    - Lisa Gitelman, *Raw Data is an Oxymoron" (2013) - Data is never raw, but always shaped: 
 
 > In *Raw Data Is an Oxymoron* (2013), Lisa Gitelman argues that data is never truly **“raw”**, it is always cooked or shaped by the contexts, tools, and assumptions under which it is collected, formatted, and interpreted. Data is not a neutral or pre-existing fact, but a **cultural and scholarly construct**. What we call "raw data" is always the result of choices: what to collect, how to structure it, and for what purpose. Therefore, “raw data” is an oxymoron because data is always already processed. This idea is central in DH and data ethics because it highlights the **need for critical reflection on how data is created and used**, especially in scholarly work.
