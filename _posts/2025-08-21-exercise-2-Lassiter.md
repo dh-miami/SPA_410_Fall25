@@ -5,7 +5,7 @@ author: "Lauren Lassiter"
 date: 2025-08-21
 exercise: "Ejercicio 2 Proyecto HD - Exercise 2 DH Project"
 ---
-## 🟨 Ejercicio 2: Explorar Proyectos Digitales sobre escrituras biográficas
+Ejercicio 2: Cultures of Knowldge: Lauren Lassiter
 
 El sitio web que se llama [Cultures of Knowledge](https://www.culturesofknowledge.org/?page_id=28) tiene cartas y correspondencia de 1550 a 1750 en un base de datos. El sitio explica la dificultad de compilar todas las correspondencias de una persona por la distancia geográfica. Es imposible que una sola persona recopile todos los documentos y por eso este catálogo es muy efectivo. Un segundo problema es la diferencia entre idiomas y la necesidad de traducción. Las correspondencias pueden abarcar muchos temas, períodos de tiempo y perspectivas. Para la tecnología, ellos usan una aplicación que se llama EMLO-Collect donde las personas en archivos o bibliotecas pueden añadir nuevo contento e información. También, EMLO-edit es una manera de manipular y perfeccionar los documentos. El código está disponible en GitHub y el sitio incluye un enlace para accederlo. Hay una sección que explica todas las tecnologías y los elementos de EMLO. 
 
