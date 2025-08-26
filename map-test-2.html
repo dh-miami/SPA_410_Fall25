@@ -94,8 +94,8 @@
                         const div = document.createElement("div");
                         div.className = "entry";
                         div.innerHTML = `
-            <strong>${row.title}</strong><br>
             <em>${row.year} – ${row.place}</em><br>
+            <strong>${row.title}</strong><br>            
             ${row.description}
             ${row.image ? `<br><img src="${row.image}" alt="${row.title}">` : ""}
           `;
