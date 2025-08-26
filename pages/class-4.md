@@ -2,7 +2,7 @@
 title: Class 3
 layout: page
 date: 2025-08-28
-permalink: /class-3.html
+permalink: /class-4.html
 ---
 ## Class 4 - Introduction to Digital Literacy and Life Writing (II)
 
