@@ -1,113 +1,66 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-    <meta charset="utf-8" />
-    <title>Mapa interactivo de Leonor</title>
+    <meta charset="UTF-8" />
+    <title>Leonor López de Córdoba — Mapa Biográfico</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Leaflet CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
     <style>
         body {
             margin: 0;
             padding: 0;
-            display: flex;
-            height: 100vh;
             font-family: sans-serif;
         }
 
-        #sidebar {
-            width: 30%;
-            overflow-y: auto;
-            padding: 1rem;
-            border-right: 1px solid #ccc;
-            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-            background: #fafafa;
-        }
-
         #map {
-            width: 70%;
-            height: 100%;
+            width: 100vw;
+            height: 100vh;
         }
 
-        .event-item {
-            margin-bottom: 1rem;
-            cursor: pointer;
-        }
-
-        .event-item:hover {
-            background-color: #e8e8e8;
-        }
-
-        .event-title {
-            font-weight: bold;
-        }
-
-        .event-img {
+        .leaflet-popup-content img {
+            margin-top: 8px;
             max-width: 100%;
-            margin-top: 0.5rem;
-            border-radius: 4px;
+            height: auto;
+            border-radius: 8px;
         }
     </style>
 </head>
 
 <body>
 
-    <div id="sidebar">
-        <h2>Eventos en la vida de Leonor</h2>
-        <div id="eventList"></div>
-    </div>
-
     <div id="map"></div>
 
     <!-- Leaflet JS -->
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <!-- PapaParse -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 
     <script>
-        // Inicia el mapa
-        const map = L.map('map').setView([37.88, -4.78], 6);
+        // Create the map
+        const map = L.map('map').setView([38.5, -4.0], 6); // Centered on Spain
 
-        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap'
+        // Add a tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
         }).addTo(map);
 
-        const eventListDiv = document.getElementById('eventList');
-        const markers = [];
-
-        Papa.parse('assets/data/leonor_map_data.csv', {
+        // Load CSV data using PapaParse
+        Papa.parse("assets/data/leonor_map_data.csv", {
             download: true,
             header: true,
             complete: function (results) {
-                results.data.forEach(function (row, index) {
-                    if (row.lat && row.lon) {
-                        // Añade marcador
-                        const marker = L.marker([row.lat, row.lon])
-                            .addTo(map)
-                            .bindPopup(`<b>${row.evento}</b><br>${row.fecha}<br>${row.descripcion}`);
-
-                        markers.push(marker);
-
-                        // Añade al panel lateral
-                        const item = document.createElement('div');
-                        item.className = 'event-item';
-                        item.innerHTML = `
-              <div class="event-title">${row.evento} (${row.fecha})</div>
-              <div>${row.descripcion}</div>
-              ${row.imagen ? `<img class="event-img" src="${row.imagen}" alt="Imagen de ${row.evento}">` : ''}
-            `;
-
-                        // Al hacer clic en el texto, enfocar el mapa
-                        item.addEventListener('click', function () {
-                            map.setView([row.lat, row.lon], 8);
-                            marker.openPopup();
-                        });
-
-                        eventListDiv.appendChild(item);
+                results.data.forEach(function (row) {
+                    if (row.latitude && row.longitude) {
+                        const marker = L.marker([parseFloat(row.latitude), parseFloat(row.longitude)]).addTo(map);
+                        let popup = `<strong>${row.title}</strong><br><em>${row.year}</em><br>${row.description}`;
+                        if (row.image && row.image.trim() !== "") {
+                            popup += `<br><img src="${row.image}" alt="Imagen relacionada con ${row.title}" width="200" />`;
+                        }
+                        marker.bindPopup(popup);
                     }
                 });
             }
