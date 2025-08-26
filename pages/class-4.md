@@ -17,7 +17,31 @@ permalink: /class-4.html
 > “Data” implies that information is given, objective, and neutral. “Capta,” from the Latin *capere* (“to take”), implies that information is captured, actively interpreted, selected, and constructed. Drucker emphasizes that in the humanities, knowledge is constructed, situated, and subjective, not simply “collected” like a sample from nature. It is a call to remain aware of the interpretive frameworks behind any representation of information.
 
 **11:15AM**
+A través de esta [plantilla](https://docs.google.com/spreadsheets/d/1J5GAloe_nFeOwAX9t413r6xBFG3_9bkmUVk_xNXwA1g/edit?gid=1447384171#gid=1447384171) (About > Important Links), se añaden los metadatos de los autores y las obras que estudiaremos en clase. Se trata de una hoja de cálculo (spreadsheet), donde aparecen diferentes campos:
 
+- objectid
+- filename
+- title
+- creator
+- date
+- description
+- subject 
+- location
+- latitude 
+- longitude 
+- source 
+- format original 
+- type
+- identifier 
+- language
+- rights 
+- rightstatement 
+
+Más información sobre los metadatos [aquí](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/). 
+
+Cada estudiante debe elegir uno de los autores que estudiaremos en el curso [SPA_410_Fall25 > Authors](https://dh-miami.github.io/SPA_410_Fall25/) y leer atentamente la presentación que se ofrece. A partir de aquí, debéis identificar el texto que se utilizará para el curso (edición, página web), aislar todas las informaciones posibles y añadirlas a la [hoja de cálculo]((https://docs.google.com/spreadsheets/d/1J5GAloe_nFeOwAX9t413r6xBFG3_9bkmUVk_xNXwA1g/edit?gid=1447384171#gid=1447384171)). 
+
+**11:40AM**
 ### Ejercicio en clase 
 
 A partir de esta presentación sobre datos, a continuación tienes un texto reelaborado, y escrito en tercera persona, sobre la biografía de Leonor López de Córdoba. Intenta extraer aquellas informaciones que consideráis que podrían ser transformadas en datos estructurados para ser explorados y procesados posteriormente por un proyecto digital. 
@@ -55,4 +79,4 @@ Completa la siguiente tabla extrayendo los datos que se pueden identificar en el
 
 - Lectura del dossier sobre Leonor.
 - Video "Mujeres en la historia".
-- Completar la tabla cronológica para el Timeline.  
+- Empezar a recopilar datos para la tabla cronológica para el Timeline.  
