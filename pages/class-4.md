@@ -8,11 +8,16 @@ permalink: /class-4.html
 
 **11:00AM**
 - Video [What is DATA?](https://drive.google.com/drive/folders/1Jqp_42Q1pe0FVAAZA5pxW-lqY23dZD3A)(HarvardEdx).
-- Idea of the neutrality of data:
-   - Lisa Gitelman, *Raw Data is an Oxymoron" (2013) - Data is never raw, but always shaped: 
+- Idea de la neutralidad de los datos
+   - Lisa Gitelman, *Raw Data is an Oxymoron" (2013)
+- Data is never raw, but always shaped: 
 
 > In *Raw Data Is an Oxymoron* (2013), Lisa Gitelman argues that data is never truly **“raw”**, it is always cooked or shaped by the contexts, tools, and assumptions under which it is collected, formatted, and interpreted. Data is not a neutral or pre-existing fact, but a **cultural and scholarly construct**. What we call "raw data" is always the result of choices: what to collect, how to structure it, and for what purpose. Therefore, “raw data” is an oxymoron because data is always already processed. This idea is central in DH and data ethics because it highlights the **need for critical reflection on how data is created and used**, especially in scholarly work.
-- Johanna Drucker, "Humanities Approaches to Graphical Display" (2011) - Data is never given, but always taken, so call it capta:
+
+> En Raw Data Is an Oxymoron (2013), Lisa Gitelman sostiene que los datos nunca son verdaderamente **“crudos”** ("burtos"); siempre están cocinados o moldeados por los contextos, herramientas y principios bajo los cuales se recogen, se formatean y se interpretan. Los datos no son hechos neutrales ni preexistentes, sino una **construcción cultural y académica**. Lo que llamamos “datos crudos” es siempre el resultado de decisiones: qué recolectar, cómo estructurarlo y con qué propósito. Por ello, “datos crudos” es un oxímoron, ya que los datos siempre están ya procesados. Esta idea es central en las Humanidades Digitales y en la ética de los datos, porque subraya la necesidad de una reflexión crítica sobre cómo se crean y se usan los datos, especialmente en el trabajo académico.
+
+- Johanna Drucker, "Humanities Approaches to Graphical Display" (2011)
+   - Data is never given, but always taken, so call it *capta*:
 
 > “Data” implies that information is given, objective, and neutral. “Capta,” from the Latin *capere* (“to take”), implies that information is captured, actively interpreted, selected, and constructed. Drucker emphasizes that in the humanities, knowledge is constructed, situated, and subjective, not simply “collected” like a sample from nature. It is a call to remain aware of the interpretive frameworks behind any representation of information.
 
