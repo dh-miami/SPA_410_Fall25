@@ -80,6 +80,9 @@ Completa la siguiente tabla extrayendo los datos que se pueden identificar en el
 
 ---
 
+Aquí está la [hoja de cálculo leonor_map_data.csv](https://docs.google.com/spreadsheets/d/1umgD4Pp-t0WndBGQ4xmeVaVdvsxtYJnZTHrocTJYtWo/edit?usp=sharing) que completaremos todas juntas. 
+
+
 **Para la próxima clase**
 
 - Lectura del dossier sobre Leonor.
