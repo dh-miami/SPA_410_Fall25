@@ -15,6 +15,18 @@ In our course, we will engage closely with her *Memorias*, tracing the events Le
 
 We will use this online freely available edition: López de Córdoba, Leonor. Memorias. Edited by María-Milagros Rivera Garretas and Christopher C. Oechler, Open Educational Resources, no. 6, 2018. <https://cupola.gettysburg.edu/oer/6>
 
+## StoryMap of her life
+
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://rawcdn.githack.com/dh-miami/SPA_410_Fall25/HEAD/map-test-2.html" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+    allowfullscreen 
+    loading="lazy">
+  </iframe>
+</div>
+
+
 # Resources and links 
 
 - "[Leonor López de Córdoba](https://www.rtve.es/play/videos/mujeres-en-la-historia/mujeres-historia-leonor-lopez-cordoba/512066/)." *Mujeres en la historia*, RTVE (1998) (Registration needed).
