@@ -86,5 +86,5 @@ Aquí está la [hoja de cálculo leonor_map_data.csv](https://docs.google.com/sp
 **Para la próxima clase**
 
 - Lectura del dossier sobre Leonor.
-- Video "Mujeres en la historia".
+- Video "[Mujeres en la historia](https://www.rtve.es/play/videos/mujeres-en-la-historia/mujeres-historia-leonor-lopez-cordoba/827016/)".
 - Empezar a recopilar datos para la tabla cronológica para el Timeline.  
