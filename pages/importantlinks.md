@@ -10,3 +10,7 @@ For all the links below, make sure you are logged into your UMiami Google accoun
 * Link to edit our **glossary** spreadsheet: [https://docs.google.com/spreadsheets/d/1rUv_R7LcZBp4Vfi6BkVObJfMa_c5l0L1VbCepJZAnrQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1rUv_R7LcZBp4Vfi6BkVObJfMa_c5l0L1VbCepJZAnrQ/edit?usp=sharing)
 * Link to edit our **full metadata** spreadsheet: [https://docs.google.com/spreadsheets/d/1J5GAloe_nFeOwAX9t413r6xBFG3_9bkmUVk_xNXwA1g/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1J5GAloe_nFeOwAX9t413r6xBFG3_9bkmUVk_xNXwA1g/edit?usp=sharing)
 * Link to our **Blackboard with readings**: 
+
+## Leonor López de Córdoba 
+
+*  Link to edit the spreadsheet of the StoryMap of her life: [https://docs.google.com/spreadsheets/d/1umgD4Pp-t0WndBGQ4xmeVaVdvsxtYJnZTHrocTJYtWo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1umgD4Pp-t0WndBGQ4xmeVaVdvsxtYJnZTHrocTJYtWo/edit?usp=sharing)
