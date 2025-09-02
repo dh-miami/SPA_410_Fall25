@@ -6,33 +6,34 @@ permalink: /class-5.html
 ---
 ## Class 5 - Leonor López de Córdoba (1)
 
-**11:00A - Housekeeping**
+### 11:00A - Housekeeping
 
 - Ejericio 1 y Ejercicio 2. 
-- ChatGPT específico para los estudiantes. 
+- [Tutor Virtual de Escritura SPA 410 / MLL 410](https://chatgpt.com/g/g-68b605449acc81919dd930cca91e8551-tutor-virtual-de-escritura-spa-410-mll-410) para los estudiantes. 
 - Objetivo: Enfocarse en el proceso de escritura y mejorar su español (no solo no cometer errores). 
 - Escritura personal > Feedback del tutor virtual > Reescritura. 
-- También pueden hacer citas con nosotros (Zoom) o ir al Tutor de español. 
-- Link al Chat en los “Important Links”. 
-- Recordad añadir términos en nuestro glosario. 
+- También pueden hacer citas con nosotros (Zoom) o ir al [Tutor de español](https://mll.as.miami.edu/mll-labs/tutoring-hours/index.html). 
+- Link al Chat en los “[Important Links](https://dh-miami.github.io/SPA_410_Fall25/importantlinks.html)”. 
+- Recordad añadir términos en nuestro [Glosario](https://docs.google.com/spreadsheets/d/1rUv_R7LcZBp4Vfi6BkVObJfMa_c5l0L1VbCepJZAnrQ/edit?gid=0#gid=0). 
 
-**11:05 - Lectura de texto de Leonor y el documental Mujeres en la Historia**
+### 11:05 - Lectura de texto de Leonor y el documental Mujeres en la Historia
 
 - Discusión sobre el documental [Leonor López de Córdoba (Mujeres en la Historia)](https://www.rtve.es/play/videos/mujeres-en-la-historia/mujeres-historia-leonor-lopez-cordoba/827016/). 
 - Abrid la [plantilla del StoryMap](https://docs.google.com/spreadsheets/d/1umgD4Pp-t0WndBGQ4xmeVaVdvsxtYJnZTHrocTJYtWo/edit?gid=0#gid=0) para añadir informaciones relevantes desde nuestra discusión. 
-- ¿En qué época vivió Leonor y cuál es el contexto político al momento de nacer? 
-![Genealogía de Pedro I "el Cruel" o "el Justiciero"](http://reyesmedievales.esy.es/geneacastilla/pedro1.jpg)
+- ¿En qué época vivió Leonor y cuál es el contexto político al momento de nacer? (PDF enviado por la profesora).
+  
+![Genealogía de Pedro I el Cruel o el Justiciero](http://reyesmedievales.esy.es/geneacastilla/pedro1.jpg)
 
-### Invocación 
+#### Invocación 
 
--  Parr. 1 - 2: ¿Por qué comienza Leonor su historia de esta manera?  
+- Parr. 1 - 2: ¿Por qué comienza Leonor su historia de esta manera?  
 - Parr. 3-4:  (“Yo, doña Leonor López de Córdoba…”) Se introduce a ella y a toda su familia, su linaje, las riquezas, y la razón por la que escribe.  
 - ¿Crees que en la edad media esta podía ser una estrategía para justificar su autoridad, legitimidad y su estatus moral?
 - ¿Qué tono utiliza Leonor? (humilde, asertivo, piadoso, etc.) 
 
-### ¿Dice la verdad Leonor?**
-    * Parr. 12: la muerte de su padre, Martín López de Córdoba.
-    * ¿Qué tipo de muerte se describe? ¿una muerte honrosa o deshonrosa?
+#### ¿Dice la verdad Leonor?**
+- Parr. 12: la muerte de su padre, Martín López de Córdoba.
+- ¿Qué tipo de muerte se describe? ¿una muerte honrosa o deshonrosa?
 
 En el documental aparecen diferentes opiniones al respecto. ¿Quien dice qué? 
 
@@ -70,14 +71,11 @@ Ver fragmento del Documental:
 **La llegada de su marido y el inicio de la recuperación de la posición de Leonor**
 
 [20:21] 
-> Y mandó en su testamento el rey don Enrique que nos tornasen todo lo nuestro, y yo quedé en Córdoba en casa de mi señora tía y mi marido fue a demandar lo suyo porque a él quedáronle muchos bienes de su padre y madre. Y los que tenían sus bienes no atendieron sus demandas. Al cabo de 7 años un conocido lo vio en Badajoz y le dijo que yo estaba muy bien andante. Mi marido cabalgó encima de su mula que valía muy pocos dineros, y lo que traía vestido no valía 30 maravedís, y entróse por la puerta de la casa de mi señora tía.
-
-> [29:12] La vida de Leonor se alteró con la llegada de su marido.
-La vida de Leonor se alteró con la llegada de su marido. Mientras estuvo sola no le importó vivir de la caridad de su familia, pero ahora era distinto: necesitaba un hogar propio. Su tía les cedió una casa junto a la suya. Leonor dice en su autobiografía que todas las noches rezaba 300 avemarías a la Virgen para que la autorizasen a abrir un postigo que permitiese el acceso directo desde su casa a la de su tía sin salir al exterior, no quería que la viesen cómo iba a comer a la mesa de sus parientes. Leonor se avergonzaba de su situación de indigencia y cuenta que un día, cuando iba a comenzar la obra, se encontró con que su tía se había arrepentido y ya no la dejaba abrir el postigo:
-
-> criadas suyas le havían buelto su corazón que no lo hiziese, y fui tan desconsolada que perdí la paciencia y la que me hizo más contradición con mi señora mi tía se murió en mis manos comiéndose la lengua.
-
->[27:59] Da la impresión de que doña Leonor estrangula a la criada. Si fue así, la verdad es que el hecho no tiene la más mínima relevancia, ni en el plano jurídico, ni en el religioso, ni en el moral. Para entender esto tenemos que situarnos no solo en la mentalidad del siglo XIV, sino en la mentalidad de la nobleza: la criada le ha hecho una gran afrenta al impedirle ocultar su pobreza, al tenerla que hacer pública, y eso para un noble es insufrible absolutamente. La nobleza es incompatible con la pobreza, porque la riqueza es premio de la virtud del noble, por lo tanto hay que tener este elemento muy en cuenta para comprender también las constantes alusiones que doña Leonor hace en sus memorias a la riqueza que tuvo, a la que no tiene y a la que espera volver a tener. Esto no es afán de lucro, no es el afán de lucro burgués, que va abriéndose camino a partir ya de esta época, el afán de doña Leonor es el honor. Solamente que la riqueza es un medio para mantener ese honor, por lo tanto esto también explica su intensa vida religiosa en esta época, pidiéndole a Dios no por su alma, sino bienes de fortuna. En realidad también hay que entender qué es un Dios a la manera medieval, con muy pocas exigencias de carácter evangélico, es como un rey que exige vasallaje a cambio de mercedes.
+> Y mandó en su testamento el rey don Enrique que nos tornasen todo lo nuestro, y yo quedé en Córdoba en casa de mi señora tía y mi marido fue a demandar lo suyo porque a él quedáronle muchos bienes de su padre y madre. Y los que tenían sus bienes no atendieron sus demandas. Al cabo de 7 años un conocido lo vio en Badajoz y le dijo que yo estaba muy bien andante. Mi marido cabalgó encima de su mula que valía muy pocos dineros, y lo que traía vestido no valía 30 maravedís, y entróse por la puerta de la casa de mi señora tía.<br/>
+[29:12] La vida de Leonor se alteró con la llegada de su marido.
+La vida de Leonor se alteró con la llegada de su marido. Mientras estuvo sola no le importó vivir de la caridad de su familia, pero ahora era distinto: necesitaba un hogar propio. Su tía les cedió una casa junto a la suya. Leonor dice en su autobiografía que todas las noches rezaba 300 avemarías a la Virgen para que la autorizasen a abrir un postigo que permitiese el acceso directo desde su casa a la de su tía sin salir al exterior, no quería que la viesen cómo iba a comer a la mesa de sus parientes. Leonor se avergonzaba de su situación de indigencia y cuenta que un día, cuando iba a comenzar la obra, se encontró con que su tía se había arrepentido y ya no la dejaba abrir el postigo:<br/>
+>> criadas suyas le havían buelto su corazón que no lo hiziese, y fui tan desconsolada que perdí la paciencia y la que me hizo más contradición con mi señora mi tía se murió en mis manos comiéndose la lengua.<br/>
+[27:59] Da la impresión de que doña Leonor estrangula a la criada. Si fue así, la verdad es que el hecho no tiene la más mínima relevancia, ni en el plano jurídico, ni en el religioso, ni en el moral. Para entender esto tenemos que situarnos no solo en la mentalidad del siglo XIV, sino en la mentalidad de la nobleza: la criada le ha hecho una gran afrenta al impedirle ocultar su pobreza, al tenerla que hacer pública, y eso para un noble es insufrible absolutamente. La nobleza es incompatible con la pobreza, porque la riqueza es premio de la virtud del noble, por lo tanto hay que tener este elemento muy en cuenta para comprender también las constantes alusiones que doña Leonor hace en sus memorias a la riqueza que tuvo, a la que no tiene y a la que espera volver a tener. Esto no es afán de lucro, no es el afán de lucro burgués, que va abriéndose camino a partir ya de esta época, el afán de doña Leonor es el honor. Solamente que la riqueza es un medio para mantener ese honor, por lo tanto esto también explica su intensa vida religiosa en esta época, pidiéndole a Dios no por su alma, sino bienes de fortuna. En realidad también hay que entender qué es un Dios a la manera medieval, con muy pocas exigencias de carácter evangélico, es como un rey que exige vasallaje a cambio de mercedes.
 
 - ¿Por qué quiere abrir un postigo hacia la casa de su tía? 
 - ¿Qué pasó con la criada?
@@ -89,7 +87,7 @@ La vida de Leonor se alteró con la llegada de su marido. Mientras estuvo sola n
 - En inglés y en español. 
 - Un texto de al menos 700 palabras. 
 - Hacer algo de investigación. 
-- Recursos con otras lecturas: https://archbio.miami.edu/works/memorias 
+- Recursos con otras lecturas: <https://archbio.miami.edu/works/memorias> 
 - Este es un borrador de la [hoja de cálculo](https://docs.google.com/spreadsheets/d/1umgD4Pp-t0WndBGQ4xmeVaVdvsxtYJnZTHrocTJYtWo/edit?gid=0#gid=0) que utilizaremos para crear nuestro Storymap. Las filas que hemos añadido son solo un ejemplo de lo que se podría incluir. Recordad: para acceder a las hojas de cálculo del Goodle Drive debéis siempre hacer login con vuestras credenciales de UM. 
 - ¿Qué época de la vida de Leonor os gustaría escribir? ¿Cuáles faltan? 
 
