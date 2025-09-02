@@ -31,7 +31,7 @@ permalink: /class-5.html
 - ¿Crees que en la edad media esta podía ser una estrategía para justificar su autoridad, legitimidad y su estatus moral?
 - ¿Qué tono utiliza Leonor? (humilde, asertivo, piadoso, etc.) 
 
-#### ¿Dice la verdad Leonor?**
+#### ¿Dice la verdad Leonor?
 - Parr. 12: la muerte de su padre, Martín López de Córdoba.
 - ¿Qué tipo de muerte se describe? ¿una muerte honrosa o deshonrosa?
 
