@@ -72,7 +72,7 @@ Ya durante sus años en las Atarazanas de Sevilla la mayor parte de los familiar
 Mientras tanto, Leonor había mandado a Alonso (el huérfano) a Écija, y al volver, éste regresa con la peste.  Pide a un viejo servidor de su padre que lo vele, y se contagian mortalmente 13 personas. (Parr. 32). 
 Al no haber nadie más que vele al enfermo Alonso, manda a su hijo mayor, el cual poco después acaba mueriendo (Parr. 34). 
 
-Parr. 35: La mujer de su primo, Teresa Fernández Carrillo, se enfada, culpa a Leonor, y echa de su casa al hijo de Leonor, mandando que lo entierren fuera de la villa (acto deshonroso). Teresa acaba también convenciento a su tía para echar a Leonor, y su tía acata la deción (Parr. 37). 
+La mujer de su primo, Teresa Fernández Carrillo, se enfada, culpa a Leonor, y echa de su casa al hijo de Leonor, mandando que lo entierren fuera de la villa (Parr. 35). Teresa acaba también convenciento a su tía para echar a Leonor, y su tía acata la deción (Parr. 37). 
 
 Cuando Leonor termina sus *Memorias* debía ser hacia el año 1401. A partir de ese momento, Leonor se convertirá en una figura importante en la corte castellana. Desde 1390, Enrique III reinaba con la reina Catalina de Lancaster, con la que Leonor tenía muy buena relación. Sobre todo a partir de la muerte del rey Enrique III (1406), Leonor se convierte en la valida de la reina regente. Su hijo Juan II (1405-1454) todavía era menor de edad. En la corte, el gran poder que obtuvo Leonor no era bien visto, y muchos fueron sus enemigos, algunos muy poderosos como Fernando de Antequera, hermano de Enrique III, tío del infante, y futuro rey de la Corona de Aragón. 
 
@@ -80,15 +80,11 @@ Lee esta carta de la Reina Catalina escrita a Leonor y reflexiona sobre el paper
 
 Carta de la Reina Doña Catalina á Doña Leonor López de Córdoba
 					
-> Yo la sin ventura Reina de Castilla y Leon, madre del Rey y Señor, tutora y regidora de los Reynos, envio mucha salud a vos, la muy amada y deseada madre Doña Leonor López, mi dueña, hija del Maestre Don Martín López, que Dios perdone, como aquella que mucho os  amo y aprecio y de quien mucho fío, os hago saber como el Rey, mi hijo, y yo y las Infantas , mis hijas, somos sanos y en buena disposición nuestras personas, Dios load. 
-
-> Os lo envío a decir, porque soy cierta que ello os placerá, por lo que os ruego que lo más continuamente que vos pudieráis, me certifiqueis de vuestra salud y vida y de Doña Leonor Gutierrez, vuestra hija y mi sobrina, en lo qual ya sabeis quanto placer y consolación me haceis. 
-
-> Otrosí, sabed que Don Juan, nuestro hijo, está bien sano. Otrosí, sabed que el pleito que él ha con el conde, su hermano, que está en buenos términos y tiene muy buenos letrados que le ayudan y sed cierta que yo trabajaré para que su derecho le sea bien guardado y verdaderamente. 
-
-> Dada en Valladolid a nueve días del mes de diciembre.
-						
-> VUESTRA LEAL FIJA
+<blockquote>Yo la sin ventura Reina de Castilla y Leon, madre del Rey y Señor, tutora y regidora de los Reynos, envio mucha salud a vos, la muy amada y deseada madre Doña Leonor López, mi dueña, hija del Maestre Don Martín López, que Dios perdone, como aquella que mucho os  amo y aprecio y de quien mucho fío, os hago saber como el Rey, mi hijo, y yo y las Infantas , mis hijas, somos sanos y en buena disposición nuestras personas, Dios load. <br/>
+Os lo envío a decir, porque soy cierta que ello os placerá, por lo que os ruego que lo más continuamente que vos pudieráis, me certifiqueis de vuestra salud y vida y de Doña Leonor Gutierrez, vuestra hija y mi sobrina, en lo qual ya sabeis quanto placer y consolación me haceis. <br/>
+Otrosí, sabed que Don Juan, nuestro hijo, está bien sano. Otrosí, sabed que el pleito que él ha con el conde, su hermano, que está en buenos términos y tiene muy buenos letrados que le ayudan y sed cierta que yo trabajaré para que su derecho le sea bien guardado y verdaderamente. <br/>
+Dada en Valladolid a nueve días del mes de diciembre.<br/>
+VUESTRA LEAL FIJA </blockquote>
 
 (Adapación de Castro 1902: 120).
 			
