@@ -38,5 +38,5 @@ En casa:
 - Incorporad una imagen significativa que acompañe el texto (libre de derechos o con la fuente citada).
 - Asociad el texto a un lugar geográfico específico (ciudad, castillo, región, etc.) e indicad su latitud y longitud. Esta información se añadirá a la [hoja de cálculo](https://docs.google.com/spreadsheets/d/1umgD4Pp-t0WndBGQ4xmeVaVdvsxtYJnZTHrocTJYtWo/edit?gid=0#gid=0) compartida en Google Drive para generar el mapa.
 - Entrega de versión final: jueves 11 de septiembre, 2025
-- Para dudas sobre estilo y gramática en español, podéis consultar al Tutor Virtual desarrollado para el curso.
+- Para dudas sobre estilo y gramática en español, podéis consultar al [Tutor Virtual](https://chatgpt.com/g/g-68b605449acc81919dd930cca91e8551-tutor-virtual-de-escritura-spa-410-mll-410) desarrollado para el curso. Recordad que, después de la sesión, debéis exportar la conversación en .txt, .pdf, o .doc a la carpeta [Chat_Feedback](https://drive.google.com/drive/folders/1rm2p7-4qau5OVx8_3MkHiBj2MgzgrkXv?usp=drive_link). 
 
