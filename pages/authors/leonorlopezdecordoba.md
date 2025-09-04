@@ -23,11 +23,11 @@ López de Córdoba, Leonor. *Memorias*. Editado por María-Milagros Rivera Garre
 
 ### StoryMap de su vida  
 
-[Ver StoryMap completo](https://rawcdn.githack.com/dh-miami/SPA_410_Fall25/HEAD/mapa-leonor-lopez-de-cordoba-es.html)
+[Ver StoryMap completo](https://dh-miami.github.io/SPA_410_Fall25/mapa-leonor-lopez-de-cordoba-es.html)
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">  
   <iframe   
-    src="https://rawcdn.githack.com/dh-miami/SPA_410_Fall25/HEAD/mapa-leonor-lopez-de-cordoba-es.html"   
+    src="https://dh-miami.github.io/SPA_410_Fall25/mapa-leonor-lopez-de-cordoba-es.html"   
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"   
     allowfullscreen   
     loading="lazy">  
@@ -55,11 +55,11 @@ We will use this online freely available edition: López de Córdoba, Leonor. Me
 
 ### StoryMap of her life
 
-[View full StoryMap](https://rawcdn.githack.com/dh-miami/SPA_410_Fall25/HEAD/mapa-leonor-lopez-de-cordoba-en.html)
+[View full StoryMap](https://dh-miami.github.io/SPA_410_Fall25/mapa-leonor-lopez-de-cordoba-en.html)
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
-    src="https://rawcdn.githack.com/dh-miami/SPA_410_Fall25/HEAD/mapa-leonor-lopez-de-cordoba-en.html" 
+    src="https://dh-miami.github.io/SPA_410_Fall25/mapa-leonor-lopez-de-cordoba-en.html" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
     allowfullscreen 
     loading="lazy">
