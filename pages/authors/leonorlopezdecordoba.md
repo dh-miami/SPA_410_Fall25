@@ -4,12 +4,11 @@ layout: page
 permalink: /leonorlopezdecordoba.html
 ---
 
-[🇪🇸 Español](#español) | [🇬🇧 English](#english)
-
 # Leonor López de Córdoba (c. 1362 - c. 1430), *Memorias* (c. 1400)
 
 ![Archiletras](https://www.archiletras.com/wp-content/uploads/2022/08/Leonor-lopez-de-cordoba-1255x400-1661249548.jpg)
 
+[🇪🇸 Español](#español) \| [🇬🇧 English](#english)
 
 ## Español
 
