@@ -34,6 +34,7 @@ En casa:
 
 - Deberéis investigar fuentes secundarias (revisad la sección de [recursos en la sección dedicada a Leonor](https://dh-miami.github.io/SPA_410_Fall25/leonorlopezdecordoba.html)) para profundizar y enriquecer vuestro enfoque.
 - Redactad un texto final entre 500 y 700 palabras, ampliando y mejorando el borrador original.
+- El texto debe ofrecerse en español y en inglés. 
 - Incorporad una imagen significativa que acompañe el texto (libre de derechos o con la fuente citada).
 - Asociad el texto a un lugar geográfico específico (ciudad, castillo, región, etc.) e indicad su latitud y longitud. Esta información se añadirá a la [hoja de cálculo](https://docs.google.com/spreadsheets/d/1umgD4Pp-t0WndBGQ4xmeVaVdvsxtYJnZTHrocTJYtWo/edit?gid=0#gid=0) compartida en Google Drive para generar el mapa.
 - Entrega de versión final: jueves 11 de septiembre, 2025
