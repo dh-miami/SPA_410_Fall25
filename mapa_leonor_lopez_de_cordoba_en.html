@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Map of Leonor López de Córdoba</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            margin: 0;
+            font-family: sans-serif;
+            display: flex;
+            height: 100vh;
+        }
+        #sidebar {
+            width: 30%;
+            max-width: 400px;
+            overflow-y: auto;
+            padding: 1em;
+            border-right: 1px solid #ccc;
+            background: #f9f9f9;
+        }
+        .entry {
+            margin-bottom: 1.5em;
+            cursor: pointer;
+            padding: 0.5em;
+            border-radius: 8px;
+            transition: background 0.2s;
+        }
+        .entry:hover { background: #e0f0ff; }
+        .entry img {
+            margin-top: 0.5em;
+            max-width: 100%;
+            border-radius: 6px;
+        }
+        /* Markdown styling */
+        .description p { margin: 0.5em 0; }
+        .description h1, .description h2, .description h3 {
+            margin: 0.5em 0;
+            font-weight: bold;
+        }
+        .description h1 { font-size: 1.2em; }
+        .description h2 { font-size: 1.1em; }
+        .description h3 { font-size: 1em; }
+        .description strong { font-weight: bold; }
+        .description em { font-style: italic; }
+        .description ul, .description ol {
+            margin: 0.5em 0;
+            padding-left: 1.5em;
+        }
+        .description blockquote {
+            margin: 0.5em 0;
+            padding-left: 1em;
+            border-left: 3px solid #ccc;
+            font-style: italic;
+        }
+        .description code {
+            background: #f0f0f0;
+            padding: 0.2em 0.4em;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+        .description pre {
+            background: #f0f0f0;
+            padding: 0.5em;
+            border-radius: 6px;
+            overflow-x: auto;
+            font-family: monospace;
+        }
+        .description a {
+            color: #0066cc;
+            text-decoration: underline;
+        }
+        #map { flex-grow: 1; }
+        .loading {
+            font-style: italic;
+            color: #555;
+            margin-top: 1em;
+        }
+    </style>
+</head>
+<body>
+    <div id="sidebar">
+        <h2>Events in the Life of Leonor</h2>
+        <div id="entries">
+            <p class="loading">Loading...</p>
+        </div>
+    </div>
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- SheetJS (ODS support) -->
+    <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+    <!-- Marked.js for Markdown parsing -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+
+    <script>
+        const map = L.map('map').setView([38.5, -4.0], 6);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        const markers = [];
+
+        // Safely render markdown
+        function renderMarkdown(text) {
+            if (!text) return '';
+            try {
+                return marked.parse(text);
+            } catch (error) {
+                console.warn('Markdown parsing error:', error);
+                return text;
+            }
+        }
+
+        // ODS URL (Google Sheets published as ODS)
+        const odsUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTFwmXAhPGSTe_vO_JGkmHx1k9lf-ZPnvnzZgl18i5cmbQPcon7Wdqf4G0Fk8IRktmiigVaB8_wjPVb/pub?output=ods";
+
+        async function fetchEnglishSheet() {
+            const res = await fetch(odsUrl);
+            if (!res.ok) throw new Error(`Failed to fetch ODS: ${res.status}`);
+            const buffer = await res.arrayBuffer();
+            const workbook = XLSX.read(new Uint8Array(buffer), { type: "array" });
+
+            const sheet = workbook.Sheets["English"];
+            if (!sheet) {
+                alert("No tab named 'English' was found");
+                return [];
+            }
+            return XLSX.utils.sheet_to_json(sheet);
+        }
+
+        async function initialize() {
+            const container = document.getElementById("entries");
+            container.innerHTML = `<p class="loading">Loading...</p>`; // show loading
+
+            const rows = await fetchEnglishSheet();
+            container.innerHTML = ""; // clear loading once ready
+
+            rows.forEach((row) => {
+                if (row.latitude && row.longitude) {
+                    const renderedDescription = renderMarkdown(row.description);
+
+                    // Add marker
+                    const marker = L.marker([parseFloat(row.latitude), parseFloat(row.longitude)]).addTo(map);
+                    marker.bindPopup(`
+                        <strong>${row.title}</strong><br>
+                        <em>${row.year}</em><br>
+                        <div class="description">${renderedDescription}</div>
+                    `);
+                    markers.push(marker);
+
+                    // Add sidebar entry
+                    const div = document.createElement("div");
+                    div.className = "entry";
+                    div.innerHTML = `
+                        <em>${row.year} – ${row.place}</em><br>
+                        <strong>${row.title}</strong><br>
+                        <div class="description">${renderedDescription}</div>
+                        ${row.image ? `<br><img src="${row.image}" alt="${row.title}">` : ""}
+                    `;
+                    div.addEventListener("click", () => {
+                        map.setView([parseFloat(row.latitude), parseFloat(row.longitude)], 8);
+                        marker.openPopup();
+                    });
+
+                    container.appendChild(div);
+                }
+            });
+        }
+
+        initialize();
+    </script>
+</body>
+</html>
