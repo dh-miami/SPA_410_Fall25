@@ -3,7 +3,7 @@ layout: page
 title: "Instrucciones Proyecto Leonor"
 author: "Susanna Alles Torrent"
 date: 2025-09-03
-exercise: "Leonor López de Córdoba"
+exercise: "Autores: Leonor López de Córdoba"
 ---
 
 # Primer Proyecto: Mapa interactivo sobre la vida de Leonor López de Córdoba
