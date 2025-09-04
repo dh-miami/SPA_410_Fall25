@@ -8,7 +8,7 @@ permalink: /leonorlopezdecordoba.html
 
 ![Archiletras](https://www.archiletras.com/wp-content/uploads/2022/08/Leonor-lopez-de-cordoba-1255x400-1661249548.jpg)
 
-[En Español](#español) \| [In English](#english)
+[Leer en Español](#español) \| [Read in English](#english)
 
 ## Español
 
