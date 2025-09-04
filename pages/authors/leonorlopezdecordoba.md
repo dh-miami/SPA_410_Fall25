@@ -23,6 +23,8 @@ López de Córdoba, Leonor. *Memorias*. Editado por María-Milagros Rivera Garre
 
 ### StoryMap de su vida  
 
+[Ver StoryMap completo](https://rawcdn.githack.com/dh-miami/SPA_410_Fall25/HEAD/mapa-leonor-lopez-de-cordoba-en.html)
+
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">  
   <iframe   
     src="https://rawcdn.githack.com/dh-miami/SPA_410_Fall25/HEAD/mapa-leonor-lopez-de-cordoba-es.html"   
@@ -52,6 +54,8 @@ In our course, we will engage closely with her *Memorias*, tracing the events Le
 We will use this online freely available edition: López de Córdoba, Leonor. Memorias. Edited by María-Milagros Rivera Garretas and Christopher C. Oechler, Open Educational Resources, no. 6, 2018. <https://cupola.gettysburg.edu/oer/6>
 
 ### StoryMap of her life
+
+[View full StoryMap](https://rawcdn.githack.com/dh-miami/SPA_410_Fall25/HEAD/mapa-leonor-lopez-de-cordoba-en.html)
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
