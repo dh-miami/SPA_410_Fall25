@@ -23,7 +23,7 @@ López de Córdoba, Leonor. *Memorias*. Editado por María-Milagros Rivera Garre
 
 ### StoryMap de su vida  
 
-[Ver StoryMap completo](https://rawcdn.githack.com/dh-miami/SPA_410_Fall25/HEAD/mapa-leonor-lopez-de-cordoba-en.html)
+[Ver StoryMap completo](https://rawcdn.githack.com/dh-miami/SPA_410_Fall25/HEAD/mapa-leonor-lopez-de-cordoba-es.html)
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">  
   <iframe   
