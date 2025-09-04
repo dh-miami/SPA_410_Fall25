@@ -3,6 +3,9 @@ title: Leonor López de Córdoba
 layout: page
 permalink: /leonorlopezdecordoba.html
 ---
+
+[🇪🇸 Español](#español) | [🇬🇧 English](#english)
+
 # Leonor López de Córdoba (c. 1362 - c. 1430), *Memorias* (c. 1400)
 
 ![Archiletras](https://www.archiletras.com/wp-content/uploads/2022/08/Leonor-lopez-de-cordoba-1255x400-1661249548.jpg)
@@ -66,4 +69,4 @@ We will use this online freely available edition: López de Córdoba, Leonor. Me
 - "[Leonor López de Córdoba](https://www.rtve.es/play/videos/mujeres-en-la-historia/mujeres-historia-leonor-lopez-cordoba/512066/)." *Mujeres en la historia*, RTVE (1998) (Registration needed).
 - "Leonor López de Córdoba." Wikipedia 
 - Sanmartín Bastida, Rebeca. "Leonor López de Córdoba." *Historia Hispánica*, RAE (s.d.). <https://historia-hispanica.rah.es/biografias/26701-leonor-lopez-de-cordoba>
-- Archive of Biographical Writings in Medieval and Early Modern Iberia: <https://archbio.miami.edu/people/leonor-lopez-de-cordoba> 
+- Archive of Biographical Writings in Medieval and Early Modern Iberia: <https://archbio.miami.edu/people/leonor-lopez-de-cordoba>  
