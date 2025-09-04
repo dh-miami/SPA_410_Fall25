@@ -6,7 +6,7 @@ date: 2025-09-04
 exercise: "Proyecto 1: Leonor López de Córdoba"
 ---
 
-# Primer Proyecto: Mapa interactivo sobre la vida de Leonor López de Córdoba
+# Proyecto 1: Mapa interactivo sobre la vida de Leonor López de Córdoba
 
 Este proyecto tiene como su objetivo construir una narrativa colectiva sobre el contexto histórico y la vida de Leonor López de Córdoba a partir de las Memorias que dejó escritas. Aunque el trabajo será individual, el resultado final se integrará en un proyecto digital conjunto: una narrativa enriquecida con un mapa interactivo que visualice los momentos clave de su biografía y su tiempo. 
 
