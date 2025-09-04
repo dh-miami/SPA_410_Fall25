@@ -37,6 +37,7 @@ López de Córdoba, Leonor. *Memorias*. Editado por María-Milagros Rivera Garre
 - Sanmartín Bastida, Rebeca. "Leonor López de Córdoba." *Historia Hispánica*, RAE (s.f.). <https://historia-hispanica.rah.es/biografias/26701-leonor-lopez-de-cordoba>  
 - Archivo de Escritos Biográficos en la Iberia Medieval y Moderna: <https://archbio.miami.edu/people/leonor-lopez-de-cordoba>  
 
+---
 
 ## English
 
