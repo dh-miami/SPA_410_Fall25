@@ -17,8 +17,12 @@ To enrich our discussion, we will welcome a guest speaker, [Elizabeth Cornick](h
 
 The text that we will use for our course is: Álvaro de Luna, *Virtuosas e claras mugeres* (1446). Ed. by Lola Pons Rodríguez. Segovia: Junta de Castilla y León, Fundación Instituo Castellano y Leonés de la Lengua, 2008. [Online](http://lolapons.es/wp-content/uploads/downloads/2011/10/Pons_2008_VirtuosasCM.pdf).
 
-## Resources 
+## Readings: 
 
 - "[Álvaro de Luna](https://es.wikipedia.org/wiki/%C3%81lvaro_de_Luna)" (Wikipedia)
 - "[Libro de las claras e virtuosas mugeres](https://es.wikipedia.org/wiki/Libro_de_las_claras_e_virtuosas_mugeres)" (Wikipedia)
+- Vicente Ángel Álvarez Palenzuela. "[Álvaro de Luna](https://historia-hispanica.rah.es/biografias/27650-alvaro-de-luna)." *Historia Hispánica, RAH. 
+
+## Resources: 
+
 - "[Libro de las claras e virtuosas mugeres](https://archbio.miami.edu/works/libro-de-las-claras-e-virtuosas-mugeres)." ArchBio (2024). 

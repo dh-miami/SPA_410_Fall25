@@ -37,9 +37,9 @@ López de Córdoba, Leonor. *Memorias*. Editado por María-Milagros Rivera Garre
 ### Recursos y enlaces  
 
 - "[Leonor López de Córdoba](https://www.rtve.es/play/videos/mujeres-en-la-historia/mujeres-historia-leonor-lopez-cordoba/512066/)." *Mujeres en la historia*, RTVE (1998) (requiere registro).  
-- "Leonor López de Córdoba." Wikipedia  
+- "[Leonor López de Córdoba](https://en.wikipedia.org/wiki/Leonor_L%C3%B3pez_de_C%C3%B3rdoba)" Wikipedia  
 - Sanmartín Bastida, Rebeca. "Leonor López de Córdoba." *Historia Hispánica*, RAE (s.f.). <https://historia-hispanica.rah.es/biografias/26701-leonor-lopez-de-cordoba>  
-- Archivo de Escritos Biográficos en la Iberia Medieval y Moderna: <https://archbio.miami.edu/people/leonor-lopez-de-cordoba>  
+- Archive of Biographical Writings in Medieval and Early Modern Iberia: <https://archbio.miami.edu/people/leonor-lopez-de-cordoba>  
 
 ---
 
@@ -70,6 +70,6 @@ We will use this online freely available edition: López de Córdoba, Leonor. Me
 ### Resources and links 
 
 - "[Leonor López de Córdoba](https://www.rtve.es/play/videos/mujeres-en-la-historia/mujeres-historia-leonor-lopez-cordoba/512066/)." *Mujeres en la historia*, RTVE (1998) (Registration needed).
-- "Leonor López de Córdoba." Wikipedia 
+- "[Leonor López de Córdoba](https://en.wikipedia.org/wiki/Leonor_L%C3%B3pez_de_C%C3%B3rdoba)" Wikipedia 
 - Sanmartín Bastida, Rebeca. "Leonor López de Córdoba." *Historia Hispánica*, RAE (s.d.). <https://historia-hispanica.rah.es/biografias/26701-leonor-lopez-de-cordoba>
 - Archive of Biographical Writings in Medieval and Early Modern Iberia: <https://archbio.miami.edu/people/leonor-lopez-de-cordoba>  
