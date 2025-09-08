@@ -8,7 +8,7 @@ exercise: "Introduction to Markdown"
 
 # Let’s Learn Markdown
 
-The orientations below are from [Rafa Davis' workshop](https://github.com/rafadavis/markdown-workshop/blob/master/README.md) on Markdown.
+The orientations below are from [Rafa Davis' workshop](https://github.com/rafadavis/markdown-workshop/blob/master/README.md) on Markdown. Make sure to open your [spreadsheet on Leonor López de Córdoba](https://docs.google.com/spreadsheets/d/1umgD4Pp-t0WndBGQ4xmeVaVdvsxtYJnZTHrocTJYtWo/edit?gid=0#gid=0) to implement changes on your text using Markdown!
 
 # Introduction
 
