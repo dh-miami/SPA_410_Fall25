@@ -144,12 +144,6 @@ You will get this:
 
 >*This whole sentence is italic, but this word is also **bold***.
 
-### Exercise:
-
-- Type "## Emphasis" and press *enter* to go to the next line.
-- Use the character "\*" to write something **bold**, something *italic*, and something ***bold and italic***.
-- *Write this whole sentence in italic with **these three words** in bold.*
-
 ## Block quotes:
 
 Start a line with greater than ">", press space and start writing. To write a blockquote which is longer than a paragraph, make sure to use the ">" sign in the blank line between one paragraph and the other.
