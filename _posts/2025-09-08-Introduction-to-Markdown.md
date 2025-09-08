@@ -224,3 +224,4 @@ The way to create images is:  `![text](filename.extension)`
     - If you are working with a lot of images, it might make sense to have a sub-folder of all the images you are using in this project. In that case, your link could be `![weird cat](images/cat.jpg)`
 
 - Another option is to use a link in the web. Try this: `![satisfied dog](goo.gl/uGkft3)`
+- Hint: We can add images to out folder **/assets/img/**
