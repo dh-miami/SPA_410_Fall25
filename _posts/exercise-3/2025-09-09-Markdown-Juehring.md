@@ -7,5 +7,5 @@ exercise: "Ejercicio 3 - Markdown Playground"
 ---
 
 
-#Hola
+**Hola**
 *Have a great day*
