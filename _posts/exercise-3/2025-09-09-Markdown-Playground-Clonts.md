@@ -14,7 +14,7 @@ exercise: "Ejercicio 3 - Markdown Playground"
 normal text **this is bold**
 if this were *italicized* it would look like
 
-- on
+- one
 - two
 
   
