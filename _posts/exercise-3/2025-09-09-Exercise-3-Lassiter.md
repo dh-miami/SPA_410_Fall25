@@ -6,16 +6,18 @@ date: 2025-09-08
 exercise: "Ejercicio 3 - Markdown Playground"
 ---
 
-#How to use Markdown
+# How to use Markdown
 
-##First steps
+## First steps
 
 **Buenos dias** 
 
 *Italic*
+
 **Bold**
 
 Links: 
-Leonor[(https://en.wikipedia.org/wiki/Leonor_L%C3%B3pez_de_C%C3%B3rdoba)]
 
-Puppy Dog![(https://i.shgcdn.com/6818e942-f36c-4c1e-bda2-4cc51577070a/-/format/auto/-/preview/3000x3000/-/quality/lighter/)]
+[Leonor](https://en.wikipedia.org/wiki/Leonor_L%C3%B3pez_de_C%C3%B3rdoba)
+
+![Puppy Dog](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD5VtnRGxlC5mX1pw8CR4H9WNr-_Op3Ijuo5bPisg4OHlonHc6vyrr1tVeT_2i52GfBZyq340PN8oGyyIY0aP153V8Y1NVvVQBdd_zyWETA1HWeVy6TwmjOQuCnTrrUJhDUgUR0-m6pRN922TQyTkwWFJOgSlv8XwBCku_vlYmwV97CVEnG1mbHbrzEQ/s1170/dog-fact.jpg)
