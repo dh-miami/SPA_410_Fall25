@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Introduction to Markdown"
-author: "Euge Stumm"
-date: 2025-09-08
+author: "Ruthi Daly"
+date: 2025-09-09
 exercise: "Ejercicio 3 - Introduction to Markdown"
 ---
 
