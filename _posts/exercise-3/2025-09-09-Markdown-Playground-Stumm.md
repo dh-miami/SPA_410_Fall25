@@ -17,5 +17,7 @@ exercise: "Ejercicio 3 - Markdown Playground"
 
 [Leonor de Córdoba](https://www.google.com)
 
+![Dog](https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg)
+
 
 
