@@ -15,7 +15,7 @@ exercise: "Ejercicio 3 - Introduction to Markdown"
 List
 - first line
 - second line
--  third line
+ - third line
 
 **bold**
 
