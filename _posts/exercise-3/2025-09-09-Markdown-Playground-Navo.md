@@ -15,11 +15,11 @@ exercise: "Ejercicio 3 - Markdown Playground"
 *italicize*
 
 list
--here
--is
--the
--list
-  -and nested item
+- here
+- is
+- the
+- list
+  - and nested item
 
 [Leonor de Cordoba](https://www.google.com)
 
