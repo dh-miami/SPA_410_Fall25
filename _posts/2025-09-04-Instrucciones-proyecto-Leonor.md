@@ -33,10 +33,15 @@ En casa:
 ## Paso III: Versión final, investigación y preparación del mapa 
 
 - Deberéis investigar fuentes secundarias (revisad la sección de [recursos en la sección dedicada a Leonor](https://dh-miami.github.io/SPA_410_Fall25/leonorlopezdecordoba.html)) para profundizar y enriquecer vuestro enfoque.
-- Redactad un texto final entre 500 y 700 palabras, ampliando y mejorando el borrador original.
-- El texto debe ofrecerse en español y en inglés. 
-- Incorporad una imagen significativa que acompañe el texto (libre de derechos o con la fuente citada).
-- Asociad el texto a un lugar geográfico específico (ciudad, castillo, región, etc.) e indicad su latitud y longitud. Esta información se añadirá a la [hoja de cálculo](https://docs.google.com/spreadsheets/d/1umgD4Pp-t0WndBGQ4xmeVaVdvsxtYJnZTHrocTJYtWo/edit?gid=0#gid=0) compartida en Google Drive para generar el mapa.
-- Entrega de versión final: jueves 11 de septiembre, 2025
-- Para dudas sobre estilo y gramática en español, podéis consultar al [Tutor Virtual](https://chatgpt.com/g/g-68b605449acc81919dd930cca91e8551-tutor-virtual-de-escritura-spa-410-mll-410) desarrollado para el curso. Recordad que, después de la sesión, debéis exportar la conversación en .txt, .pdf, o .doc a la carpeta [Chat_Feedback](https://drive.google.com/drive/folders/1rm2p7-4qau5OVx8_3MkHiBj2MgzgrkXv?usp=drive_link). 
+- Redactad un segundo borrador entre 500 y 700 palabras, ampliando y mejorando el borrador original, y subido al documento compartido en [Google Docs](https://docs.google.com/document/d/1nxqzmYUBlLpf7n7jYDRYSWm6MscRl-u5JC7i3-Jw3ww/edit?tab=t.0).
+- Entrega de la versión final en español: martes 16 de septiembre 2025.
+
+Una vez el texto final esté listo, subiremos toda la información a la [hoja de cálculo](https://docs.google.com/spreadsheets/d/1umgD4Pp-t0WndBGQ4xmeVaVdvsxtYJnZTHrocTJYtWo/edit?gid=0#gid=0) compartida en Google Drive para generar el mapa (se revisará en clase): 
+- Una traducción del texto en inglés. 
+- Incorporación de una imagen significativa que acompañe el texto (libre de derechos o con la fuente citada). La imagen puede o bien subirse en la carpeta de "images". 
+- Asociad el texto a un lugar geográfico específico (ciudad, castillo, región, etc.) e indicad su latitud y longitud.
+- Añadir el título de vuestra sección. 
+- Subir el texto en versión markdown. 
+
+Para dudas sobre estilo y gramática en español, podéis consultar al [Tutor Virtual](https://chatgpt.com/g/g-68b605449acc81919dd930cca91e8551-tutor-virtual-de-escritura-spa-410-mll-410) desarrollado para el curso. Recordad que, después de la sesión, debéis exportar la conversación en .txt, .pdf, o .doc a la carpeta [Chat_Feedback](https://drive.google.com/drive/folders/1rm2p7-4qau5OVx8_3MkHiBj2MgzgrkXv?usp=drive_link). 
 
