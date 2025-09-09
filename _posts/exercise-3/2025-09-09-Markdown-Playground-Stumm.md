@@ -20,6 +20,7 @@ exercise: "Ejercicio 3 - Markdown Playground"
 2. Loving
 1. Smart
 1. I love dogs
+   1. Cuddly
 
 [Leonor de Córdoba](https://www.google.com)
 
