@@ -25,6 +25,6 @@ exercise: "Proyecto 1: Leonor López de Córdoba"
 - Add
   - A list
 
->This is how to add a blockquote
+>This is how to add a blockquote.
 >
 >With two paragraphs. 
