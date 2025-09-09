@@ -13,8 +13,9 @@ exercise: "Ejercicio 3 - Introduction to Markdown"
 **Buenos días.**
 
 List
-- 
-- 
+- first line
+- second line
+-  third line
 
 **bold**
 
