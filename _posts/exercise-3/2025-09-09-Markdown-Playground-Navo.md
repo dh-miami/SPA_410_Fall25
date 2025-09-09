@@ -12,6 +12,15 @@ exercise: "Ejercicio 3 - Markdown Playground"
 
 **Buenos Dias.**
 
+*italicize*
+
+list
+-here
+-is
+-the
+-list
+  -and nested item
+
 [Leonor de Cordoba](https://www.google.com)
 
 ![dog](https://www.nylabone.com/-/media/project/oneweb/nylabone/images/dog101/10-intelligent-dog-breeds/golden-retriever-tongue-out.jpg?h=430&w=710&hash=7FEB820D235A44B76B271060E03572C7)
