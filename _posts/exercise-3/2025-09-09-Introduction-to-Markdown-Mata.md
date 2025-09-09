@@ -23,4 +23,4 @@ exercise: "Proyecto 1: Leonor López de Córdoba"
 - How
 - To
 - Add
--   A list
+  - A list
