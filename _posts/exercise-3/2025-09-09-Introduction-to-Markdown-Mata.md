@@ -15,3 +15,5 @@ exercise: "Proyecto 1: Leonor López de Córdoba"
 *Italics* is one asterisk on either side
 
 [This is how to add a link](https://www.google.com/)
+
+![This is how to add an image](https://www.petlandflorida.com/wp-content/uploads/2022/04/shutterstock_1290320698-1-scaled.jpg)
