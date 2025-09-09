@@ -20,6 +20,11 @@ list
 - the
 - list
   - and nested item
+ 
+numbered list
+1. here
+1. is
+1. the numbered list
 
 [Leonor de Cordoba](https://www.google.com)
 
