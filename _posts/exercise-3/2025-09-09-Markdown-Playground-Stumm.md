@@ -17,7 +17,7 @@ exercise: "Ejercicio 3 - Markdown Playground"
 ## Top 3 reasons I love Dogs
 
 1. Fluffy
-1. Loving
+2. Loving
 1. Smart
 1. I love dogs
 
