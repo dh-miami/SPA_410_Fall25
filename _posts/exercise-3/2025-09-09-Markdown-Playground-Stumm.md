@@ -14,6 +14,12 @@ exercise: "Ejercicio 3 - Markdown Playground"
 
 *Hola*
 
+## Top 3 reasons I love Dogs
+
+1. Fluffy
+1. Loving
+1. Smart
+1. I love dogs
 
 [Leonor de Córdoba](https://www.google.com)
 
