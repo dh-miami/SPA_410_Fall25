@@ -17,7 +17,7 @@ permalink: /class-7.html
 
 ### Para el próximo día: 
 
-- Terminar el texto sobre Leonor.
+- Terminar el texto sobre Leonor. Seguid atentamente las [Instrucciones](https://dh-miami.github.io/SPA_410_Fall25/2025/09/04/Instrucciones-proyecto-Leonor.html). 
 - Opcionalmente, podéis mandar el texto a los profesores antes del miércoles 10 a las 7pm. 
 - Subir los textos al [spreadsheet de Leonor](https://docs.google.com/spreadsheets/d/1umgD4Pp-t0WndBGQ4xmeVaVdvsxtYJnZTHrocTJYtWo/edit?gid=0#gid=0).
 
