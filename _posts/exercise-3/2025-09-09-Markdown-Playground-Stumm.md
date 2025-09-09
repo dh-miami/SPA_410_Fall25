@@ -15,7 +15,7 @@ exercise: "Ejercicio 3 - Markdown Playground"
 *Hola*
 
 
-[Leonor de Córdoba](https://wwww.google.com)
+[Leonor de Córdoba](https://www.google.com)
 
 
 
