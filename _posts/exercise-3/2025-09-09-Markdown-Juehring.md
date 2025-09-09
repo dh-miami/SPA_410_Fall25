@@ -10,9 +10,7 @@ exercise: "Ejercicio 3 - Markdown Playground"
 
 **Hola**
 *Have a great day*
--Eggs
--Milk
--Bread
+## My grocery list
 1. Eggs
 2. Milk
 3. Bread
