@@ -1,9 +1,9 @@
+---
 layout: page
 title: "Introduction to Markdown"
-author: "Ruthi Daly"
-date: 2025-09-09
+author: "Euge Stumm"
+date: 2025-09-08
 exercise: "Ejercicio 3 - Introduction to Markdown"
-
 ---
 
 # How to Use Markdown
