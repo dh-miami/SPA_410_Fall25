@@ -20,7 +20,7 @@ permalink: /class-8.html
 
 ### Introducción al nuevo tema del curso: el *Libro de las claras e virtuosas mujeres* de Álvaro de Luna (Presentación a partir del PDF). 
 
-1. Recapitulación y avance político.   
+#### Recapitulación y avance político.   
   - Constantes luchas internas entre la nobleza y la corona.   
   - Los Trastámara han consolidado su poder (Pedro I “El Cruel” > Enrique II de Trastámara “El Fratricida” > Juan I > Enrique III “El Doliente” > Juan II).   
   - En 1406, muere su padre Enrique III, y cuando Juan II tiene solo 2 años. Catalina de Lancaster se convierte en la regente del infante hasta su muerte en 1418. Fernando de Antequera, hermano de Enrique III, es co-regente.   
@@ -29,9 +29,9 @@ permalink: /class-8.html
   - Primer matrimonio de Juan II con [María de Aragón](https://es.wikipedia.org/wiki/Mar%C3%ADa_de_Arag%C3%B3n_\(reina_de_Castilla\)) (1418-1445)   
   - Segundo matrimonio con [Isabel de Portugal](https://es.wikipedia.org/wiki/Isabel_de_Portugal,_reina_de_Castilla) (1447-1454)   
 
-<img src="../assets/img/arbol_dinastia.jpg" width="20%" />
+<img src="../assets/img/arbol_dinastia.jpg" width="40%" />
       
-2. **Álvaro de Luna**  
+#### **Álvaro de Luna**  
   - Nacido alrededor de 1390, de linaje noble, Casa Luna, pero ilegítimo.   
   - Entra en la corte de Juan II desde muy joven.   
   - Es nombrado Condestable y Maestre de Santiago; se convierte en la mano derecha del rey Juan II.   
@@ -41,14 +41,14 @@ permalink: /class-8.html
   - Fue decapitado en Valladolid en 1453 por orden del rey.   
   - Su muerte marcó el fin de una era política en Castilla. 
 
-3. **Alvaro de Lunca y la cultura:** 
+#### **Alvaro de Lunca y la cultura:** 
 
 - Mecenas de las letras y protector de escritores.   
 - Promovió la literatura moral, histórica y filosófica.   
 - Participó activamente en la creación de obras literarias.   
 - Contribuyó al desarrollo del castellano como lengua de cultura. 
 
-4. **Obra propia: El *Libro de las claras e virtuosas mujeres* (1446)** 
+#### **Obra propia: El *Libro de las claras e virtuosas mujeres* (1446)** 
 
 - Escrito en el momento del inicio del declive político.   
 - El género de las colecciones biográficas (desde la Antigüedad hasta hoy en día).   
@@ -64,7 +64,7 @@ permalink: /class-8.html
     - Precedente clave en la historia del pensamiento sobre la mujer en la Península Ibérica.   
     - Etc. 
 
-5. **Papel central del concepto de virtud.** 
+#### **Papel central del concepto de virtud.** 
 
 - ¿Qué consideramos virtud hoy en día?   
 - En la Edad Media las principales virtudes eran:   
@@ -80,13 +80,13 @@ permalink: /class-8.html
     * Diligencia (latín, dīligentia) contra el pecado de Pereza.
 - ¿Qué otras virtudes podríamos considerar? 
 
-### **Lectura colectiva de una biografía: Judith**  
+#### **Lectura colectiva de una biografía: Judith**  
 
 - ¿Cuál es la historia de Judith?   
 - ¿Qué virtudes aparecen atribuidas a Judith?   
 - ¿Crees que su retrato es algo masculino? 
 
-### **El corpus biográfico**
+#### **El corpus biográfico**
 
 - El corpus de estas biografías se halla en un repositorio de GitHub: [https://github.com/susannalles/archbio/](https://github.com/susannalles/archbio/)   
 - [Corpus > TXT > Luna_LVCM](https://github.com/susannalles/archbio/tree/gh-pages/corpus/TXT/Luna_LVCM)  
@@ -95,12 +95,12 @@ permalink: /class-8.html
 - Parte del proyecto ArchBio: [https://archbio.miami.edu/](https://archbio.miami.edu/)   
 - [Libro de las *Claras e virtuoso mugeres*](https://archbio.miami.edu/works/libro-de-las-claras-e-virtuosas-mugeres)
 
-### **Objetivo del Proyecto 2**
+#### **Objetivo del Proyecto 2**
 
 * Cada estudiante deberá explorar una virtud diferente, lo cual implica que deberéis leer varias biografías que contengan esa virtud.   
 * A través de visualizaciones y/o de análisis textual, debéis realizar un texto analítico e interpretativo de los resultados. 
 
-### **Para la próxima clase:** 
+#### **Para la próxima clase:** 
 
 - Lectura de las biografías, anotándolas e identificando qué virtudes aparecen en el texto.  
 - Elegid una biografía y analizad la estrategia narrativa: ¿Cómo y através de qué acciones se define la virtud? 
@@ -108,7 +108,7 @@ permalink: /class-8.html
 
 
 
-### Proyecto 2: Álvaro de Luna, *Libro de las claras e virtuosas mugeres* (1446)
+#### Proyecto 2: Álvaro de Luna, *Libro de las claras e virtuosas mugeres* (1446)
 - Fecha de entrega 25 septiembre 2025. 
 
 
