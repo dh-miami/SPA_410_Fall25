@@ -29,7 +29,7 @@ permalink: /class-8.html
   - Primer matrimonio de Juan II con [María de Aragón](https://es.wikipedia.org/wiki/Mar%C3%ADa_de_Arag%C3%B3n_\(reina_de_Castilla\)) (1418-1445)   
   - Segundo matrimonio con [Isabel de Portugal](https://es.wikipedia.org/wiki/Isabel_de_Portugal,_reina_de_Castilla) (1447-1454)   
 
-![Árbol genealógico de la dinastia de Castilla siglos XIV y XV](assets/img/arbol_dinastia.jpg)
+![Árbol genealógico de la dinastia de Castilla siglos XIV y XV](../assets/img/arbol_dinastia.jpg)
       
 2. **Álvaro de Luna**  
   - Nacido alrededor de 1390, de linaje noble, Casa Luna, pero ilegítimo.   
