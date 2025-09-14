@@ -36,6 +36,9 @@ Para llevar a cabo esta exploración los estudiantes deben basarse en los siguie
 - Fragmentos seleccionados del Libro de las virtuosas e claras mugeres (libros bíblico, clásico y cristiano)
 - Texto pedagógico sobre la obra (disponible en el dosier de clase)
 - Visualizaciones de datos compartidas en clase (Google Colab)
+- El [Tutor de español para nuestro curso](https://chatgpt.com/g/g-68b605449acc81919dd930cca91e8551-tutor-virtual-de-escritura-spa-410-mll-410) os puede ayudar en dos cuestiones básicas: 
+    * a mejorar vuestro escrito en español. 
+    * a modernizar en español moderno otras biografías del *Libro de las virtuosas e claras mugeres*. Para ello, podéis escoger el texto de la biografía que os interese, copiarlo desde esta página <https://archbio.miami.edu/works/libro-de-las-claras-e-virtuosas-mugeres/text/> y pedir al Tutor si os puede transformar el texto medieval al español moderno. 
 
 ## Análisis de visualizaciones
 
