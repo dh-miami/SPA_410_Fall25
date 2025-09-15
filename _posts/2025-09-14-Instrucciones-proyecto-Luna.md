@@ -42,7 +42,7 @@ Vuestro trabajo debe ser abordar:
 
 ## 3. Materiales de Trabajo
 
-Para llevar a cabo esta exploración los estudiantes deben basarse en los siguientes materiales: 
+Para llevar a cabo esta exploración las estudiantes deben basarse en los siguientes materiales: 
 
 - Fragmentos seleccionados del Libro de las virtuosas e claras mugeres (libros bíblico, clásico y cristiano)
 - Texto pedagógico sobre la obra (disponible en el dosier de clase)
@@ -64,7 +64,7 @@ Durante la semana previa a la entrega, discutiremos en clase una serie de visual
 ## 4. Trabajo Escrito (individual o en parejas)
 
 ### Descripción General
-Un ensayo breve (800–1000 palabras) en el que el/la estudiante deberá:
+Un ensayo breve (800–1000 palabras) en el que la estudiante deberá:
 
 - Analizar una o dos visualizaciones de forma crítica y reflexiva.
 - Identificar y estudiar una virtud principal en el corpus del texto.
