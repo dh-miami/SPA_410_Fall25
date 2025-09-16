@@ -12,7 +12,7 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 ### Fechas Importantes
 - **Entrega de un borrador:** Sept. 23, 2025
- - Un borrador es una versión casi definitiva de tu ensayo. Esa versión debe ser lo más definitiva y completa posible. **Atención: una hoja con múltiples puntos de enumeración (*bulletpoints*) y palabras-clave no es un borrador.** 
+  - Un borrador es una versión casi definitiva de tu ensayo. Esa versión debe ser lo más definitiva y completa posible. **Atención: una hoja con múltiples puntos de enumeración (*bulletpoints*) y palabras-clave no es un borrador.** 
 - **Entrega definitiva:** Sept. 25, 2025 
 
 ### Formato
