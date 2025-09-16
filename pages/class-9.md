@@ -4,7 +4,7 @@ layout: page
 date: 2025-09-16
 permalink: /class-9.html
 ---
-## Class 8 - Álvaro de Luna, *Libro de las claras e virtuosas mugeres* (1446)
+## Class 9 - Álvaro de Luna, *Libro de las claras e virtuosas mugeres* (1446)
 
 ## Pendientes: 
 ### Proyecto Leonor 
