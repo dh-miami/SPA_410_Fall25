@@ -6,7 +6,7 @@ permalink: /class-9.html
 ---
 ## Class 9 - Álvaro de Luna, *Libro de las claras e virtuosas mugeres* (1446)
 
-## 11:00AM Pendientes: 
+## Pendientes: 
 ### Proyecto Leonor 
 - [Google Docs](https://docs.google.com/document/d/1nxqzmYUBlLpf7n7jYDRYSWm6MscRl-u5JC7i3-Jw3ww/edit?tab=t.0) con todos los textos
 - Falta conclusión. ¿Ideas?
