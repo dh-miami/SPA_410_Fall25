@@ -54,7 +54,7 @@ Lista de figuras a interpretar:
 ¿Qué nos dicen estos gráficos de barras sobre las virtudes en el siglo XV y la idea de virtud de Álvaro de Luna? 
 
 
-#### [Proyecto 2](https://dh-miami.github.io/SPA_410_Fall25/2025/09/14/Instrucciones-proyecto-Luna.html en clase). Dar ejemplos. 
+#### [Proyecto 2](https://dh-miami.github.io/SPA_410_Fall25/2025/09/14/Instrucciones-proyecto-Luna.html) 
 
 ### Para el próximo día: 
 
