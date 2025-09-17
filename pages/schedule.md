@@ -28,9 +28,9 @@ Download [syllabus and schedule in PDF](https://github.com/dh-miami/SPA_410_Fall
 | **Week 5**  |  |  |
 | **Tu., Sept. 16 [(9)](https://dh-miami.github.io/SPA_410_Fall25/class-9.html)** | **Collection of women in the 15th century (2)** Linguistic challenges. Discussion of “virtues”. Text mining reading discussion. **For next class:** Read a selection of biographies: women’s virtues compared to men. |  Experiments with Jupyter Notebooks.  |
 | **Th., Sept. 18  (10)** | **Collection of women in the 15th century (3)** Discussion: Virtues in women vs men. Guest: **Elizabeth Cornick** and her class. <span style="color:red;">Room: [Whitten Learning Center](https://maps.app.goo.gl/Bn25L573EYoTnRjTA) 184</span>  **For next class:** prepare paper From Close to Distant Reading with Voyant and/or AntConc. |  Experiments with Jupyter Notebooks: Distant reading and visualizing patterns.  |
-| **Part III: Colonial and Early Indigenous and Afro-Iberian Voices** |  |  |
 | **Week 6** |  |  |
 | **Tu., Sept. 23 (11)** | **Mujeres virtuosas (4)** Discussion on your paper From Close to Distant Reading. Introduction to Catalina de Erauso.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 1).    |  Setup your space in Collection Builder.  |
+| **Part III: Colonial and Early Indigenous and Afro-Iberian Voices** |  |  |
 | **Th., Sept. 25  (12)** | **Catalina de Erauso (1)** Close reading of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 2). |  Leaflet and spreadsheet data input.  |
 | **Week 7** |  |  |
 | **Tu., Sept. 30 (13)** | Guest speaker: [Antonio Alvarez-Ossorio Alvariño](https://uam.academia.edu/AntonioAlvarezOssorio), “Un Duende en la Corte. Ascenso y caída de Fernando de Valenzuela. Cómo construir una biografía”  **For next class**: Summary and reflection of Álvarez-Osorio's talk. |  |
