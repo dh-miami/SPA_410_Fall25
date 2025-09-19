@@ -16,7 +16,11 @@ permalink: /resources.html
 
 | **Tuesday** | 9:00 AM to 11:00 AM |  | 3:00 PM to 5:00 PM |
 
-   
+---
+
+## La Hora del Café
+
+ ![](assets/img/horadelcafe.jpg)
 ---
 
   
