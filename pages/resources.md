@@ -3,7 +3,21 @@ title: Resources
 layout: page
 permalink: /resources.html
 ---
-## Resources
+# Resources
+
+## **Fall 2025 Tutoring Schedule**
+
+**Tutoring will take place in Merrick 201**
+
+**Spanish**  
+ 
+
+| **Monday** | 11:00 AM to 5:00 PM | 
+| **Tuesday** | 9:00 AM to 11:00 AM |  | 3:00 PM to 5:00 PM |
+
+   
+---
+
   
 Other works left behind:   
 
