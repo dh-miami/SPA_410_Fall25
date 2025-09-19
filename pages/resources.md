@@ -15,13 +15,13 @@ permalink: /resources.html
 
 ---
 
-## La Hora del Café
+## La Hora del Café (Extra Credit)
 
  ![Schedule for La Hora del Café](/assets/img/horadelcafe.jpg)
  
 ---
 
-## La Mesa de Espãnol
+## La Mesa de Espãnol (Extra Credit)
 ![La Mesa de Espãnol](/assets/img/mesa_de_espanol.png)
 
 ---
