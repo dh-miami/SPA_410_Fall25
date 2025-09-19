@@ -20,7 +20,7 @@ permalink: /resources.html
 
 ## La Hora del Café
 
- ![](assets/img/horadelcafe.jpg)
+ ![](/assets/img/horadelcafe.jpg)
 ---
 
   
