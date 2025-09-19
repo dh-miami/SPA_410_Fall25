@@ -13,6 +13,7 @@ permalink: /resources.html
  
 
 | **Monday** | 11:00 AM to 5:00 PM | 
+
 | **Tuesday** | 9:00 AM to 11:00 AM |  | 3:00 PM to 5:00 PM |
 
    
