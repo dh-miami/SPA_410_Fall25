@@ -21,10 +21,10 @@ permalink: /resources.html
 ## La Hora del Café
 
  ![](/assets/img/horadelcafe.jpg)
+ 
 ---
-
   
-Other works left behind:   
+## Other works left behind:   
 
 - Juan Garrido, el conquistador negro en las Antillas, Florida, México y California,1503-1540. [https://archive.org/embed/juan-garrido-by-ricardo-alegria-1990-san-juan-puerto-rico](https://archive.org/embed/juan-garrido-by-ricardo-alegria-1990-san-juan-puerto-rico)   
 - Biographies of soldiers (c. 1500\)  
