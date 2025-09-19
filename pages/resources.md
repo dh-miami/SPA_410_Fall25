@@ -7,10 +7,7 @@ permalink: /resources.html
 
 ## **Fall 2025 Tutoring Schedule**
 
-**Tutoring will take place in Merrick 201**
-
-**Spanish**  
- 
+**Spanish Tutoring will take place in Merrick 201**
 
 | **Monday** | 11:00 AM to 5:00 PM | 
 
