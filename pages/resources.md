@@ -16,7 +16,7 @@ permalink: /resources.html
 
 ## La Hora del Café (Extra Credit)
 
- ![Schedule for La Hora del Cafe](../assets/img/horadelcafe.jpg)
+ ![Schedule for La Hora del Cafe](https://localist-images.azureedge.net/photos/50712063090915/card/618943f738b1292ea314e4f03865e98b38409b40.jpg)
  
 ---
 
