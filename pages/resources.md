@@ -20,9 +20,11 @@ permalink: /resources.html
 
 ## La Hora del Café
 
- ![](/assets/img/horadelcafe.jpg)
+ ![Schedule for La Hora del Café](/assets/img/horadelcafe.jpg)
  
 ---
+
+
   
 ## Other works left behind:   
 
