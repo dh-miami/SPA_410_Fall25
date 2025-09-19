@@ -25,7 +25,7 @@ permalink: /resources.html
 ---
 
 ## La Mesa de Espãnol
-![La Mesa de Espãnol](/assets/img/mesa_de_espanol.jpg)
+![La Mesa de Espãnol](/assets/img/mesa_de_espanol.png)
 
 ---
 
