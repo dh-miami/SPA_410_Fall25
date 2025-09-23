@@ -11,7 +11,8 @@ Taller de escritura:
 - [Google Docs para pegar ejemplos](https://docs.google.com/document/d/1uFWkKHmGAmkFMrCf8TuBCGQF1AsXlOKi20AbMNpRyGo/edit?tab=t.0).
 
 Para el jueves: 
-- Terminar vuestro texto y mandarlo a los profesores. 
+- Terminar vuestro texto y mandarlo a los profesores.
+- Leer el texto "Las masculinidades del falso camaleón: Erauso entre Cortezii y la Malitzin en la Nueva España" (en nuestro Blackboard)
 
 Recordad: 
 - Una vez el texto esté listo, deben subirse a nuestro repositorio de GitHub. Podéis usar [esta plantilla](https://github.com/dh-miami/SPA_410_Fall25/blob/main/_posts/Proyecto2_Luna/template_proyecto2.md). 
