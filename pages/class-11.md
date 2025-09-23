@@ -14,4 +14,4 @@ Para el jueves:
 - Terminar vuestro texto y mandarlo a los profesores. 
 
 Recordad: 
-- Una vez el texto esté listo, deben subirse a nuestro repositorio de GitHub. Podéis usar esta plantilla. 
+- Una vez el texto esté listo, deben subirse a nuestro repositorio de GitHub. Podéis usar [esta plantilla](template_proyecto2). 
