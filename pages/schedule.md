@@ -33,7 +33,7 @@ Download [syllabus and schedule in PDF](https://github.com/dh-miami/SPA_410_Fall
 | **Part III: Colonial and Early Indigenous and Afro-Iberian Voices** |  |  |
 | **Th., Sept. 25  (12)** | **Catalina de Erauso (1)** Close reading of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 2). |  Leaflet and spreadsheet data input.  |
 | **Week 7** |  |  |
-| **Tu., Sept. 30 (13)** | Guest speaker: [Antonio Alvarez-Ossorio Alvariño](https://uam.academia.edu/AntonioAlvarezOssorio), “Un Duende en la Corte. Ascenso y caída de Fernando de Valenzuela. Cómo construir una biografía”  **For next class**: Summary and reflection of Álvarez-Osorio's talk. |  |
+| **Tu., Sept. 30 (13)** | Guest speaker: [Antonio Alvarez-Ossorio Alvariño](https://uam.academia.edu/AntonioAlvarezOssorio), “Un duende en la Corte. Ascenso y caída de Fernando de Valenzuela. Cómo construir una biografía”  **For next class**: Summary and reflection of Álvarez-Osorio's talk. |  |
 | **Th., Oct. 2 (14)** | **Catalina de Erauso (2)** Close reading of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 3). |  Leaflet and spreadsheet data input. |
 | **Week 8**  |  |  |
 | **Tu., Oct. 7 (15)** | **Catalina de Erauso (3)** Digital storytelling of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 4). |  Leaflet and spreadsheet data input.  |
