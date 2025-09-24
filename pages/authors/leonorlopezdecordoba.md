@@ -25,7 +25,7 @@ López de Córdoba, Leonor. *Memorias*. Editado por María-Milagros Rivera Garre
 
 [Ver StoryMap completo](https://dh-miami.github.io/SPA_410_Fall25/mapa-leonor-lopez-de-cordoba-es.html)
 
-<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">  
+<div style="border: solid black 1px; position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">  
   <iframe   
     src="https://dh-miami.github.io/SPA_410_Fall25/mapa-leonor-lopez-de-cordoba-es.html"   
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"   
