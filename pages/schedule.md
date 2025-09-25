@@ -31,7 +31,7 @@ Download [syllabus and schedule in PDF](https://github.com/dh-miami/SPA_410_Fall
 | **Week 6** |  |  |
 | **Tu., Sept. 23 [(11)](https://dh-miami.github.io/SPA_410_Fall25/class-11.html)** | **Mujeres virtuosas (4)** Discussion on your paper From Close to Distant Reading. [Taller escritura](https://docs.google.com/document/d/1uFWkKHmGAmkFMrCf8TuBCGQF1AsXlOKi20AbMNpRyGo/edit?usp=sharing).  **For next class:** Finish paper.    |  Deliver Project 2 on Álvaro de Luna.  |
 | **Part III: Colonial and Early Indigenous and Afro-Iberian Voices** |  |  |
-| **Th., Sept. 25  (12)** | **Catalina de Erauso (1)** Close reading of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 2). |  Leaflet and spreadsheet data input.  |
+| **Th., Sept. 25  [(12)](https://dh-miami.github.io/SPA_410_Fall25/class-11.html)** | **Catalina de Erauso (1)** Close reading of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 2). |  Leaflet and spreadsheet data input.  |
 | **Week 7** |  |  |
 | **Tu., Sept. 30 (13)** | Guest speaker: [Antonio Alvarez-Ossorio Alvariño](https://uam.academia.edu/AntonioAlvarezOssorio), “Un duende en la Corte. Ascenso y caída de Fernando de Valenzuela. Cómo construir una biografía”  **For next class**: Summary and reflection of Álvarez-Osorio's talk. |  |
 | **Th., Oct. 2 (14)** | **Catalina de Erauso (2)** Close reading of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 3). |  Leaflet and spreadsheet data input. |
