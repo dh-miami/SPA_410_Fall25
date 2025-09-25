@@ -37,6 +37,23 @@ permalink: /class-12.html
 - Encuentro entre culturas: europea, indígena, africana.
 - Nacen nuevos modelos de transgresión, resistencia y negociación.
 
+### Las leyes de las Indias
+- Leyes y disposiciones para proteger, educar y evangelizar a los indígenas.
+- Violadas repetidamente por los colonos españoles.
+- Consecuencias desastrosas para las poblaciones indígenas. Genocidio. Algunas voces a favor: Bartolomé de las Casas.
+- Debate en la Junta de Valladolid entre 1550 y 1551 en el colegio de San Gregorio sobre la polémica de los naturales (indígenas americanos o indios). [Bartolomé de las Casas](https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas) y [Juan Ginés Sepúlveda](https://en.wikipedia.org/wiki/Juan_Gin%C3%A9s_de_Sep%C3%BAlveda) se enfrentan y defienden concepciones diferentes de concebir la conquista de América.
+
+### Conquista del Imperio Azteca
+- 1519: Hernán Cortés desembarca en VERACRUZ (México actual) y empieza la conquista del Imperio azteca en México.
+- Se alía con las tribus enemigas de los aztecas
+- La cultura maya ya estaba en decadencia. Pueblos amerindios desde méxico hasta la actual Chile y Argentina)
+- Conquista TENOCHTITLÁN, capital
+- Aprisiona a su líder, MOCTEZUMA del imperio azteca
+- Le da al nuevo territorio el nombre de NUEVA ESPAÑA
+- Papel de [Malinche](https://en.wikipedia.org/wiki/La_Malinche).
+
+![Malinche como intérprete](https://en.wikipedia.org/wiki/La_Malinche#/media/File:Cortez_&_La_Malinche.jpg)
+
 ### Conquista del Imperio Inca
 - 1531: Francisco Pizarro comienza la conquista del Perú, aprovechando la guerra civil entre los hermanos Huáscar y Atahualpa
 - Aprisiona a Atahualpa y lo ejecuta
