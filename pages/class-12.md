@@ -52,7 +52,7 @@ permalink: /class-12.html
 - Le da al nuevo territorio el nombre de NUEVA ESPAÑA
 - Papel de [Malinche](https://en.wikipedia.org/wiki/La_Malinche).
 
- <img src="https://en.wikipedia.org/wiki/La_Malinche#/media/File:Cortez_&_La_Malinche.jpg" alt="Malinche interprete" width="500" height="600"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Cortez_%26_La_Malinche.jpg" alt="Malinche interprete" width="500" height="600"> 
 
 ### Conquista del Imperio Inca
 - 1531: Francisco Pizarro comienza la conquista del Perú, aprovechando la guerra civil entre los hermanos Huáscar y Atahualpa
@@ -69,7 +69,7 @@ permalink: /class-12.html
   * Una cultura obsesionada con el honor, la sangre y el género
 - Viaje por las Américas:
 
- <img src="https://es.wikipedia.org/wiki/Catalina_de_Erauso#/media/Archivo:Travels_of_Catalina_de_Erauso_1600s_map.svg" alt="Viajes de Erauso" width="500" height="600"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Travels_of_Catalina_de_Erauso_1600s_map.svg" alt="Viajes de Erauso" width="500" height="600"> 
 
 
 
