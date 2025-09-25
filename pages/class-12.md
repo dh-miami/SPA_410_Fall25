@@ -69,7 +69,7 @@ permalink: /class-12.html
   * Una cultura obsesionada con el honor, la sangre y el género
 - Viaje por las Américas:
 
-|[Viajes de Erauso](https://es.wikipedia.org/wiki/Catalina_de_Erauso#/media/Archivo:Travels_of_Catalina_de_Erauso_1600s_map.svg)
+![Viajes de Erauso](https://es.wikipedia.org/wiki/Catalina_de_Erauso#/media/Archivo:Travels_of_Catalina_de_Erauso_1600s_map.svg)
 
 
 ## Para la próxima clase: 
