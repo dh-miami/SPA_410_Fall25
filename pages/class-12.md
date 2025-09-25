@@ -19,7 +19,7 @@ permalink: /class-12.html
 ### Final del siglo XV e inicio de la época colonial. Año crucial 1492.  
 - [Toma de Granada](https://es.wikipedia.org/wiki/Guerra_de_Granada): fin de la Reconquista y del Reino nazarí.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/La_Rendici%C3%B3n_de_Granada_-_Pradilla.jpg" alt="Rendición del rey de Granada" width="500" height="600"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/La_Rendici%C3%B3n_de_Granada_-_Pradilla.jpg" alt="Rendición del rey de Granada" width="500"> 
 
 - [Expulsión de los judíos por los Reyes Católicos](https://es.wikipedia.org/wiki/Expulsi%C3%B3n_de_los_jud%C3%ADos_de_Espa%C3%B1a).
 - [Primer viaje de Cristóbal Colón a América](https://es.wikipedia.org/wiki/Primer_viaje_de_Col%C3%B3n). > Marca el inicio del proceso de expansión ultramarina castellana.
@@ -29,11 +29,12 @@ permalink: /class-12.html
 ### Consolidación de la monarquía
 - Unificación dinástica: [Isabel I de Castilla y Fernando II de Aragón](https://es.wikipedia.org/wiki/Reyes_Cat%C3%B3licos).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Ferdinand_of_Aragon%2C_Isabella_of_Castile.jpg" alt="Reyes Católicos" width="500" height="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Ferdinand_of_Aragon%2C_Isabella_of_Castile.jpg" alt="Reyes Católicos" width="500">
 
 - Centralización del poder real.
 - Formación de una monarquía autoritaria.
 - Fundación del proyecto imperial español.
+- Cambio de las fronteras a través del tiempo: <https://geacron.com/home-en/>
 
 ### Nacimiento del Imperio español
 - El siglo XVI: auge del Imperio bajo Carlos I / V del Sacro Imperio.
@@ -64,7 +65,7 @@ permalink: /class-12.html
 - Le da al nuevo territorio el nombre de [NUEVA ESPAÑA](https://upload.wikimedia.org/wikipedia/commons/4/41/Mapa_del_Virreinato_de_la_Nueva_Espa%C3%B1a_%281794%29.svg)
 - Papel de [Malinche](https://en.wikipedia.org/wiki/La_Malinche).
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Cortez_%26_La_Malinche.jpg" alt="Malinche interprete" width="500" height="600"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Cortez_%26_La_Malinche.jpg" alt="Malinche interprete" width="500"> 
 
 ### [Conquista del Imperio Inca](https://es.wikipedia.org/wiki/Conquista_del_Imperio_incaico)
 - 1531: [Francisco Pizarro](https://en.wikipedia.org/wiki/Francisco_Pizarro) comienza la conquista del Perú, aprovechando la guerra civil entre los hermanos Huáscar y Atahualpa
@@ -72,7 +73,7 @@ permalink: /class-12.html
 - Conquista CUZCO, capital del imperio inca
 - 1535: Funda Lima, capital del nuevo Virreinato del Perú.
 
-<img src="https://acceso.ku.edu/unidad7/sucesos/img/virreinato.jpg" alt="Virreinato del Perú" width="500" height="600"> 
+<img src="https://acceso.ku.edu/unidad7/sucesos/img/virreinato.jpg" alt="Virreinato del Perú" width="500"> 
 
 ### Catalina de Erauso:
 - Vive a finales del siglo XVI e inicios del XVII.
@@ -83,7 +84,7 @@ permalink: /class-12.html
   * Una cultura obsesionada con el honor, la sangre y el género
 - Viaje por las Américas:
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Travels_of_Catalina_de_Erauso_1600s_map.svg" alt="Viajes de Erauso" width="500" height="600"> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Travels_of_Catalina_de_Erauso_1600s_map.svg" alt="Viajes de Erauso" width="500"> 
 
 
 
