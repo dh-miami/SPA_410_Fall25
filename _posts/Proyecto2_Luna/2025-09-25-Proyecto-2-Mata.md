@@ -8,7 +8,7 @@ exercise: "Proyecto 2: Álvaro de Luna"
 
 # Proyecto 2: Template para vuestro texto 
 
-![imagen](images/heatmap1.png)
+![imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthesimplecatholic.blog%2F2020%2F08%2F30%2Fwhy-the-blessed-virgin-mary-is-the-neck-of-the-body-of-christ%2F&psig=AOvVaw29N3TvyRtqKFkNTp_kAXQO&ust=1758930588091000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCODL2ZiN9Y8DFQAAAAAdAAAAABAE)
 
 Como una figura poderosa en España durante el siglo XV, surge Álvaro de Luna que se abre paso hasta lo más alto de la escena política y prevalece como mano derecha del rey Juan II durante más de treinta años. Sin embargo, durante una época caracterizada por celos políticos extremos, competencia e inestabilidad entre los nobles y reyes, Luna finalmente cae de la gracia de Juan II, y es decapitado en 1453 bajo las órdenes del mismo rey que lo había protegido y elevado durante tantos años. Antes de su muerte, compiló casi 120 autobiografías femeninas de Europa y otras partes del mundo antiguo, centrándose específicamente en sus virtudes y ofreciendo una perspectiva femenista que fue única en su tiempo. Aunque el *Libro de las claras e virtuosas mugeres* se centra en una amplia gama de virtudes, la castidad representa un tema recurrente a lo largo de la obra. Me enfoco en cómo esta virtud se manifiesta en una variedad de mujeres y cómo tiene una importancia personal para Álvaro de Luna, dada su experiencia como figura política prominente. 
 
