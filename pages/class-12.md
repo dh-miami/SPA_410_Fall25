@@ -46,11 +46,13 @@ permalink: /class-12.html
 ### Catalina de Erauso:
 - Vive a finales del siglo XVI e inicios del XVII.
 - Participa activamente en la conquista y vida colonial en América.
-- Viaje por las Américas: <https://es.wikipedia.org/wiki/Catalina_de_Erauso#/media/Archivo:Travels_of_Catalina_de_Erauso_1600s_map.svg> 
 - Su historia se enmarca en:
   * Un mundo militarizado y patriarcal
   * Un sistema colonial en expansión
   * Una cultura obsesionada con el honor, la sangre y el género
+- Viaje por las Américas:
+
+|[Viajes de Erauso](https://es.wikipedia.org/wiki/Catalina_de_Erauso#/media/Archivo:Travels_of_Catalina_de_Erauso_1600s_map.svg)
 
 
 ## Para la próxima clase: 
