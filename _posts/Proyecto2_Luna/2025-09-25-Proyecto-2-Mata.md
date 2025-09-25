@@ -6,7 +6,7 @@ date: 2025-09-25
 exercise: "Proyecto 2: Álvaro de Luna"
 ---
 
-# Proyecto 2: Template para vuestro texto 
+# El papel de la mujer casta en el *Libro de las claras e virtuosas mugeres*
 
 ![imagen](https://i0.wp.com/thesimplecatholic.blog/wp-content/uploads/2020/08/Mediatrix-of-Grace-Mary.jpg?fit=1414%2C1890&ssl=1)
 
