@@ -6,7 +6,7 @@ date: 2025-09-26
 exercise: "Proyecto 2: Álvaro de Luna"
 ---
 
-# La virtud de la paciencia representado por las mujeres de Alvaro de Luna*
+# La virtud de la paciencia representado por las mujeres de Alvaro de Luna
 
 ![imagen](https://en.wikipedia.org/wiki/File:Theodora_mosaic_-_Basilica_San_Vitale_(Ravenna)_v2.jpg)
 
