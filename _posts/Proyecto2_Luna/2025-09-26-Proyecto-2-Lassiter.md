@@ -8,7 +8,7 @@ exercise: "Proyecto 2: Álvaro de Luna"
 
 # La virtud de la paciencia representado por las mujeres de Alvaro de Luna
 
-![imagen](https://en.wikipedia.org/wiki/File:Theodora_mosaic_-_Basilica_San_Vitale_(Ravenna)_v2.jpg)
+![imagen] (https://i.pinimg.com/originals/2a/17/e9/2a17e9aeb29c2aa4da8a06e34b507c2e.jpg)
 
 
 Las biografías de Álvaro de Luna ejemplifican las virtudes de mujeres excepcionales. Cada una representa virtudes como el coraje, la fe y la templanza. La que más me interesa es la virtud de la paciencia, por su presencia innegable en varias historias a lo largo de la colección. En mi vida diaria, la paciencia es necesaria, aunque difícil, con el ritmo de vida acelerado que llevo. La paciencia es una de las virtudes más difíciles de practicar porque la capacidad de espera sin manifestar inconformidad es algo digno de admiración. En este ensayo analítico, utilizando visualizaciones y relatos medievales, explicaré el papel y la importancia de la paciencia en tres mujeres extraordinarias: Marina, Teodora y Margarita.  
