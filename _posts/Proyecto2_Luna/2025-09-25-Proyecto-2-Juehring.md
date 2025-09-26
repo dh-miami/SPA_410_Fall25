@@ -8,7 +8,7 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 # Proyecto 2: La virtud femenina como construcción política en Álvaro de Luna
 
-![Judith Slaying Holofernes - Artemisia Gentileschi](https://github.com/your-username/your-repo/blob/main/images/judith.png?raw=true)
+![Judith Slaying Holofernes - Artemisia Gentileschi](images/Judith.png)
 
 La virtud femenina como construcción política en Álvaro de Luna 
 En el Libro de las claras e virtuosas mugeres (1446), Álvaro de Luna articula virtudes femeninas como la castidad, la prudencia, el coraje y la paciencia, adaptándolas al marco bíblico, clásico o cristiano. La castidad funciona como eje central: en Judith es fuerza cívica, en Lucrecia sacrificio trágico y en Marina resistencia espiritual. La prudencia se asocia a figuras de consejo como la Reina de Saba, mientras que el coraje aparece en acciones heroicas o martiriales. Estas virtudes, lejos de ser solo valores morales, cumplen un papel político: contrarrestan la misoginia del XV y legitiman la propia imagen del autor como hombre sabio y fiel al rey. Las visualizaciones refuerzan este patrón, mostrando jerarquías claras de virtudes en cada bloque y evidenciando su función ideológica más que meramente ejemplar.
