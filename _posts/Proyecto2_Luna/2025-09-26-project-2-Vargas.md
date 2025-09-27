@@ -6,7 +6,7 @@ date: 2025-09-25
 exercise: "Proyecto 2: Alvaro de Luna"
 ---
 # La virtud de las mujeres creyentes
-La virtud de la fe es la disposición mediante la cual un ser humano se entrega libremente a las manos de Dios. La virtud de la “Fe” llama mi atención en el libro, Libro de las claras e virtuosas mugeres, de Álvaro de Luna porque aparecia como, en cada mujer, la fe se convierte en parte de su vida. La fe se manifiesta en varios personajes, pero los que elegí para este ensayo son Ana, Santa Inés y Santa Magdalena. Este análisis se centra en mostrar cómo la fe se desarrolla y se transforma en una herramienta fortaleza moral.
+La virtud de la fe es la disposición mediante la cual un ser humano se entrega libremente a las manos de Dios. La virtud de la “Fe” llama mi atención en el libro, *Libro de las claras e virtuosas mugeres*, de Álvaro de Luna porque aparecia como, en cada mujer, la fe se convierte en parte de su vida. La fe se manifiesta en varios personajes, pero los que elegí para este ensayo son Ana, Santa Inés y Santa Magdalena. Este análisis se centra en mostrar cómo la fe se desarrolla y se transforma en una herramienta fortaleza moral.
 
 El Libros de las claras e virtuosas mugeres se dividen en tres libros y contiene entre 18 a 80 biografías en cada una de ellas. Para elaborar este análisis, se utilizó un gráfico de la Figura 7 de Bar Chart Virtues. Donde se observa como a cada personaje se le atribuye diferentes virtudes. Según el gráfico, la fe ocupa quinto lugar en frecuencia de virtudes con un total 18 personajes en quienes se resalta esta virtud.
 
