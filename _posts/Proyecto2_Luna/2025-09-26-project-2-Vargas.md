@@ -7,6 +7,7 @@ exercise: "Proyecto 2: Alvaro de Luna"
 ---
 # La virtud de las mujeres creyentes
 
+![SantaMagdalena](https://img.wikioo.org/ADC/art.nsf/get_large_image_wikioo?Open&ra=8DP4GP)
 
 La virtud de la fe es la disposición mediante la cual un ser humano se entrega libremente a las manos de Dios. La virtud de la “Fe” llama mi atención en el libro, *Libro de las claras e virtuosas mugeres*, de Álvaro de Luna porque aparecia como, en cada mujer, la fe se convierte en parte de su vida. La fe se manifiesta en varios personajes, pero los que elegí para este ensayo son Ana, Santa Inés y Santa Magdalena. Este análisis se centra en mostrar cómo la fe se desarrolla y se transforma en una herramienta fortaleza moral.
 
@@ -19,5 +20,5 @@ Por otro lado, Santa Inés representa una joven cristiana cuya fe se convirtió 
 De manera distinta, Santa Magdalena se representa como una de las mujeres menos alabadas, pero cuya historia es fundamental para comprender la fe como conversión y esperanza en el perdón. La obra demuestra que, “¡O muger bienandante, a quien el redemptor de todos Cristo Jesús por sola su creencia dio tan grandes e tan magníficos beneficios! Ca todos sus pecados le perdonó, e librola de poderío del diablo, e de su amor la encendió todas fizola toda suya, e quiso posar en la su casa”, Magdalena creyó que sólo Cristo podía concederle perdon y salvacion. Su fe se manifestó en una lealtad inquebrantable, permaneciendo junto al sepulcro de Jesus cuando todos los discípulos lo habían abandonado, y siendo la primera en presenciar la resurrección. Más adelante, se retiró al desierto durante treinta años, sostenida únicamente por el amor divino, hasta morir en gracia después de recibir la comunión. El autor, aunque reconoce la dificultad de relatar su vida, declara que sus obras de fe fueron más celestiales que humanas, y que Cristo la eligió como símbolo de conversión, penitencia y ardor espiritual.
 
 En conclusión, la virtud de la fe, entendida como entrega absoluta a Dios, se revela en la vida de Ana, Santa Inés y Santa Magdalena en formas diversas pero complementarias. Ana refleja la fe perseverante y constante; Ines, la valentía que desafía al poder terrenal; y Magdalena, la fe transformadora que conduce al perdón y a la conversión. A través de estas figuras, Alvaro de Luna no solo presenta modelos de virtud femenina, sino que también muestra cómo la fe podía entender en el siglo XV como una fuerza de resistencia, de identidad y de renovación espiritual. 
+![figure 7](https://colab.research.google.com/drive/10nLt8HJhGR1oiDcUywSxLR1l8ZNEQgh6#scrollTo=lgpcDWT_btWG)
 
-![SantaMagdalena](https://img.wikioo.org/ADC/art.nsf/get_large_image_wikioo?Open&ra=8DP4GP)
