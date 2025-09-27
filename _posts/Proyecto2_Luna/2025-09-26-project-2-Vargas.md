@@ -5,7 +5,7 @@ author: "Patricia Vargas"
 date: 2025-09-25
 exercise: "Proyecto 2: Alvaro de Luna"
 ---
-# La virtud de las mujeres creyentes
+# La virtud fe como entrega absoluta a Dios
 
 ![SantaMagdalena](https://img.wikioo.org/ADC/art.nsf/get_large_image_wikioo?Open&ra=8DP4GP)
 
