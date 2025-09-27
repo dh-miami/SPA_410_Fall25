@@ -7,6 +7,7 @@ exercise: "Proyecto 2: Alvaro de Luna"
 ---
 # La virtud de las mujeres creyentes
 
+
 La virtud de la fe es la disposición mediante la cual un ser humano se entrega libremente a las manos de Dios. La virtud de la “Fe” llama mi atención en el libro, *Libro de las claras e virtuosas mugeres*, de Álvaro de Luna porque aparecia como, en cada mujer, la fe se convierte en parte de su vida. La fe se manifiesta en varios personajes, pero los que elegí para este ensayo son Ana, Santa Inés y Santa Magdalena. Este análisis se centra en mostrar cómo la fe se desarrolla y se transforma en una herramienta fortaleza moral.
 
 El *Libros de las claras e virtuosas mugeres* se dividen en tres libros y contiene entre 18 a 80 biografías en cada una de ellas. Para elaborar este análisis, se utilizó un gráfico de la Figura 7 de Bar Chart Virtues. Donde se observa como a cada personaje se le atribuye diferentes virtudes. Según el gráfico, la fe ocupa quinto lugar en frecuencia de virtudes con un total 18 personajes en quienes se resalta esta virtud.
@@ -19,4 +20,4 @@ De manera distinta, Santa Magdalena se representa como una de las mujeres menos 
 
 En conclusión, la virtud de la fe, entendida como entrega absoluta a Dios, se revela en la vida de Ana, Santa Inés y Santa Magdalena en formas diversas pero complementarias. Ana refleja la fe perseverante y constante; Ines, la valentía que desafía al poder terrenal; y Magdalena, la fe transformadora que conduce al perdón y a la conversión. A través de estas figuras, Alvaro de Luna no solo presenta modelos de virtud femenina, sino que también muestra cómo la fe podía entender en el siglo XV como una fuerza de resistencia, de identidad y de renovación espiritual. 
 
-![imagen](images/heatmap1.png)
+![imagen]([https://www.santaeulaliadelians.com/2022/01/21/santa-ines/])
