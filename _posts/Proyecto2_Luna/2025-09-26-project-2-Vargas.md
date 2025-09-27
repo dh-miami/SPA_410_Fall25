@@ -20,4 +20,4 @@ De manera distinta, Santa Magdalena se representa como una de las mujeres menos 
 
 En conclusión, la virtud de la fe, entendida como entrega absoluta a Dios, se revela en la vida de Ana, Santa Inés y Santa Magdalena en formas diversas pero complementarias. Ana refleja la fe perseverante y constante; Ines, la valentía que desafía al poder terrenal; y Magdalena, la fe transformadora que conduce al perdón y a la conversión. A través de estas figuras, Alvaro de Luna no solo presenta modelos de virtud femenina, sino que también muestra cómo la fe podía entender en el siglo XV como una fuerza de resistencia, de identidad y de renovación espiritual. 
 
-![Santa Magdalena][<img width="540" height="360" alt="image" src="https://github.com/user-attachments/assets/1e4dcf21-375f-4caf-b281-30fee443740a" />]
+![Santa Magdalena](<img width="540" height="360" alt="image" src="https://github.com/user-attachments/assets/1e4dcf21-375f-4caf-b281-30fee443740a" />)
