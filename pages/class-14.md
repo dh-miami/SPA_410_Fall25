@@ -6,9 +6,15 @@ permalink: /class-14.html
 ---
 
 ## Cuestiones varias
-- Añadir una imagen al documento markdown. 
+- Añadir una imagen al documento markdown.
+- Subir las correcciones del chat en la carpeta de Drive.
 
 ## Class 14 - Catalina de Erauso (2)
+
+- Lectura para hoy: [*La Vida y sucesos de la Monja Alférez*](https://www.courses.miami.edu/ultra/courses/_665635_1/cl/outline). Ed. Miguel Martínez. Clásicos Castalia, 2021. Capítulos 1-5 (pp. 125-144)
+- Entregar resumen de la charla del prof. Antonio Álvarez-Ossorio Alvariño. 
+
+## Experiments on Voyant tools 
 
 Voyant Tools http://voyant-tools.org/ es una plataforma que permite el análisis de los textos. Pueden utilizarse diversos formatos pero, una vez más, el más seguro es el .txt.
 Ejercicio
