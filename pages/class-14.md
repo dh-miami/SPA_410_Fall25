@@ -4,6 +4,10 @@ layout: page
 date: 2025-10-02
 permalink: /class-14.html
 ---
+
+## Cuestiones varias
+- Añadir una imagen al documento markdown. 
+
 ## Class 14 - Catalina de Erauso (2)
 
 Voyant Tools http://voyant-tools.org/ es una plataforma que permite el análisis de los textos. Pueden utilizarse diversos formatos pero, una vez más, el más seguro es el .txt.
