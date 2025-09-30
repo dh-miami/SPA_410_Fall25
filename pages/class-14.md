@@ -7,7 +7,9 @@ permalink: /class-14.html
 
 ## Cuestiones varias
 - Añadir una imagen al documento markdown.
+- Conectar vuestro texto
 - Subir las correcciones del chat en la carpeta de Drive.
+- Presente histórico / narrativo. 
 
 ## Class 14 - Catalina de Erauso (2)
 
