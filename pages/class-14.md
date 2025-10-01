@@ -32,12 +32,14 @@ permalink: /class-14.html
   * ¿Cuál crees que es el papel de Beatriz de Cárdenas? (fiar, merienda,
   * Lectura conjunta parr. 14, 15: Narración del altercado con el tal Reyes. ¿Qué se deduce de este altercadojjm? ¿Por qué se refugia en el "sagrado", en una iglesia?
   * ¿Qué sucede entre Erauso y Beatriz (parr. 18)? ¿Por qué crees que Juan de Urquiza quiere casar a Erauso con Beatriz? (parr. 17-19)
-  * Recorrido: Zaña (Perú), Trujillo (Perú). 
- - Capítulo 4. Mata en Trujillo a un hombre y parte a Lima.
+  * Recorrido: Zaña (Perú), Trujillo (Perú).
+ 
+- Capítulo 4. Mata en Trujillo a un hombre y parte a Lima.
   * ¿Cómo consigue librarse de la cárcel después de haber matado a un hombre y escapar a Lima? (parr. 21, p. 137).
   * Recorrido: Trujillo (Perú), Lima (Perú).
   * Lectura parr. 23 ¿Por qué Diego de Solarte, el mercader rico de Lima para el que trabaja, lo despide? ¿Cómo es la relación de Erauso con las dos muchachas?
   * Se enlista en una compañía como soldado para dirigirse a Chile. Su antiguo jefe le propone que se queda, Erauso exclama "Yo dije que mi inclinación era andar y ver más mundo y que, así, no tratase de eso" (p. 139). ¿Cómo se ha constuido el personaje hasta ahora.
+
 - Capítulo 5. Pasa a Chile. Estuvo allí seis años. Sale desterrado al presidio de Paicaví.
   * Empieza su andadura como soldado y en Concepción (Chile) encuentra a su hermano Miguel de Erauso con el que está 6 años. ¿Por qué es desterrado al presidio/ plaza de Paicaví? (parr. 28, p. 141).
   * Lectura parr. 29: acto heróico y recuperación de la bandera arrebatada por los mapuches.
