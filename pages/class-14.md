@@ -34,15 +34,15 @@ permalink: /class-14.html
   * ¿Qué sucede entre Erauso y Beatriz (parr. 18)? ¿Por qué crees que Juan de Urquiza quiere casar a Erauso con Beatriz? (parr. 17-19)
   * Recorrido: Zaña (Perú), Trujillo (Perú)
 - Capítulo 4. Mata en Trujillo a un hombre y parte a Lima.
- * ¿Cómo consigue librarse de la cárcel después de haber matado a un hombre y escapar a Lima? (parr. 21, p. 137). 
- * Recorrido: Trujillo (Perú), Lima (Perú) 
-  * Lectura parr. 23 ¿Por qué Diego de Solarte, el mercader rico de Lima para el que trabaja, lo despide? ¿Cómo es la relación de Erauso con las dos muchachas?
-  * Se enlista en una compañía como soldado para dirigirse a Chile. Su antiguo jefe le propone que se queda, Erauso exclama "Yo dije que mi inclinación era andar y ver más mundo y que, así, no tratase de eso" (p. 139). ¿Cómo se ha constuido el personaje hasta ahora?
+ * ¿Cómo consigue librarse de la cárcel después de haber matado a un hombre y escapar a Lima? (parr. 21, p. 137).
+ * Recorrido: Trujillo (Perú), Lima (Perú).
+ * Lectura parr. 23 ¿Por qué Diego de Solarte, el mercader rico de Lima para el que trabaja, lo despide? ¿Cómo es la relación de Erauso con las dos muchachas?
+ * Se enlista en una compañía como soldado para dirigirse a Chile. Su antiguo jefe le propone que se queda, Erauso exclama "Yo dije que mi inclinación era andar y ver más mundo y que, así, no tratase de eso" (p. 139). ¿Cómo se ha constuido el personaje hasta ahora?
 - Capítulo 5. Pasa a Chile. Estuvo allí seis años. Sale desterrado al presidio de Paicaví.
-  * Empieza su andadura como soldado y en Concepción (Chile) encuentra a su hermano Miguel de Erauso con el que está 6 años. ¿Por qué es desterrado al presidio/ plaza de Paicaví? (parr. 28, p. 141). 
-  * Lectura parr. 29: acto heróico y recuperación de la bandera arrebatada por los mapuches.
-  * Es condecorado con el título de alférez que tendrá durante 5 años, pero ¿por qué es destituído de su cargo por el gobernador? (parr. 31). ¿Qué crees que representa este episodio en su recorrido vital? 
-  * Recorrido: Puerto de la Concepción (Chile), Valdivia (Chile), Paicaví, Puren (Araucania, Chile)  
+ * Empieza su andadura como soldado y en Concepción (Chile) encuentra a su hermano Miguel de Erauso con el que está 6 años. ¿Por qué es desterrado al presidio/ plaza de Paicaví? (parr. 28, p. 141).
+ * Lectura parr. 29: acto heróico y recuperación de la bandera arrebatada por los mapuches.
+ * Es condecorado con el título de alférez que tendrá durante 5 años, pero ¿por qué es destituído de su cargo por el gobernador? (parr. 31). ¿Qué crees que representa este episodio en su recorrido vital?
+ * Recorrido: Puerto de la Concepción (Chile), Valdivia (Chile), Paicaví, Puren (Araucania, Chile)  
 
 
 vido (p. 125) > vio 
