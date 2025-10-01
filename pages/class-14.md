@@ -46,15 +46,14 @@ permalink: /class-14.html
   * Es condecorado con el título de alférez que tendrá durante 5 años, pero ¿por qué es destituído de su cargo por el gobernador? (parr. 31). ¿Qué crees que representa este episodio en su recorrido vital?
   * Recorrido: Puerto de la Concepción (Chile), Valdivia (Chile), Paicaví, Puren (Araucania, Chile)  
 
+Atención con las formas verbales y los pronombres: 
+- vido (p. 125) > vio 
+- vide (p. 128) > vi 
+- embarqueme (p. 129) > me embarqué
+- fuime > me fui 
+- púsoseme (p. 133) > se me puso 
 
-vido (p. 125) > vio 
-vide (p. 128) > vi 
-embarqueme (p. 129) > me embarqué
-fuime > me fui 
-púsoseme (p. 133) > se me puso 
-
-
-## Experiments on Voyant tools 
+## Experimentos con Voyant tools 
 
 Voyant Tools http://voyant-tools.org/ es una plataforma que permite el análisis de los textos. Pueden utilizarse diversos formatos pero, una vez más, el más seguro es el .txt.
 Ejercicio
