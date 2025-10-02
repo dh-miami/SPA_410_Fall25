@@ -55,8 +55,10 @@ Atención con las formas verbales y los pronombres:
 
 ## Experimentos con Voyant tools 
 
-Voyant Tools http://voyant-tools.org/ es una plataforma que permite el análisis de los textos. Pueden utilizarse diversos formatos pero, una vez más, el más seguro es el .txt. 
+Voyant Tools <http://voyant-tools.org/> es una plataforma que permite el análisis de los textos. Pueden utilizarse diversos formatos pero, una vez más, el más seguro es el .txt. 
 
 1. Descargad el [archivo zip que contiene el texto de Erauso (Biblioteca Virtual Miguel de Cervantes)](https://github.com/dh-miami/SPA_410_Fall25/raw/refs/heads/main/_posts/Proyecto3_Erauso/Erauso.zip) y guardadlo en un lugar donde os acordéis. Clicar en “Reveal”.
 
 2. En la parte superior derecha, donde aparece la nube de palabras, clicad en “Define options for this tool”, y editad la lista de “Stopwords” para que desaparezcan de la nube de palabras. Añade la las palabras vacías que no creas que aportan una semántica relevante (mi, ti, te, y, a, etc…).
+  - Tipos de palabras sin carga semántica.
+  - Palbras clave o semánticamente relevantes. 
