@@ -8,7 +8,7 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 # Proyecto 2: Las virtuosos y sus mujeres 
 
-![imagen](image/newplot.png)
+![imagen](images/newplot.png)
 
 En todas las épocas se ha discutido qué significa vivir con virtud. En la Edad Media, una de las virtudes más importantes era la castidad, entendida no solo como algo personal, sino también como un deber social y religioso. En este ensayo voy a analizar cómo Álvaro de Luna presenta la castidad en su Libro de las claras e virtuosas mugeres. Me enfocaré en tres biografías: Judith, Lucrecia y Santa Margarita. A través de estas mujeres se puede ver cómo la castidad no era solo una cualidad privada, sino también una herramienta política, social y espiritual.
 
