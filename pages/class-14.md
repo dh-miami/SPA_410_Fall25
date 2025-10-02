@@ -25,7 +25,7 @@ permalink: /class-14.html
   * ¿Qué os parece el tono y el estilo de la obra?
   * Recorrido: [Convento de San Sebastián el Antiuo](https://es.wikipedia.org/wiki/Monasterio_de_Santo_Domingo_en_San_Sebasti%C3%A1n) (Santo Domingo Monasterios, Donostia), Vitoria, Valladolid. 
 - Capítulo 2. Parte de Valladolid a Sevilla, a Sanlúcar y a las Indias, y asienta con un mercader.
-  * Recorrido: Sevilla, Sanlúcar, Cádiz, Punta de Araya (Venezuela), Nombre de Dios (Panamá), Panamá, Puerto de Manta (Ecuador), Paita (Perú), Zaña (Perú). 
+  * Recorrido: Sevilla, Sanlúcar, Cádiz, Punta de Araya (Venezuela), Cartagena de Indias, Nombre de Dios (Panamá), Panamá, Puerto de Manta (Ecuador), Paita (Perú), Zaña (Perú). 
   * Catalina se embarca en Cádiz en la armada de Luis Fajardo compuesta por 18 naves y 2500 hombres. ¿Cómo crees que define el carácter de Catalina esta decisión?
   * ¿Por qué crees que se siente a gusto trabajando con Juan de Urquiza, mercader de Trujillo? (parr. 10, p. 130)
 - Capítulo 3. Corta en la villa de Zaña a un alguacil la cara y quita a un hombre la vida y sale de allí para Trujillo.
@@ -62,3 +62,5 @@ Voyant Tools <http://voyant-tools.org/> es una plataforma que permite el anális
 2. En la parte superior derecha, donde aparece la nube de palabras, clicad en “Define options for this tool”, y editad la lista de “Stopwords” para que desaparezcan de la nube de palabras. Añade la las palabras vacías que no creas que aportan una semántica relevante (mi, ti, te, y, a, etc…).
   - Tipos de palabras sin carga semántica.
   - Palbras clave o semánticamente relevantes. 
+
+3. Para la pórixma clase, editad la lista de “stop words” y traed una nube de palabras con palabras significativas. 
