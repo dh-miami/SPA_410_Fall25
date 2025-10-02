@@ -34,7 +34,7 @@ Download [syllabus and schedule in PDF](https://github.com/dh-miami/SPA_410_Fall
 | **Th., Sept. 25  [(12)](https://dh-miami.github.io/SPA_410_Fall25/class-12.html)** | **Catalina de Erauso (1)** Close reading of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read [Fernando de Valenzuela](https://en.wikipedia.org/wiki/Fernando_de_Valenzuela,_1st_Marquis_of_Villasierra)'s biography. |  Upload to gitHub final Project 2.  |
 | **Week 7** |  |  |
 | **Tu., Sept. 30 (13)** | Guest speaker: [Antonio Alvarez-Ossorio Alvariño](https://uam.academia.edu/AntonioAlvarezOssorio), “Un duende en la Corte. Ascenso y caída de Fernando de Valenzuela. Cómo construir una biografía”  **For next class**: Summary and reflection of Álvarez-Osorio's talk. |  |
-| **Th., Oct. 2 (14)** | **Catalina de Erauso (2)** Close reading of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 3). |  Project 3 with Voyant |
+| **Th., Oct. 2 [(14)](https://dh-miami.github.io/SPA_410_Fall25/class-14.html)** | **Catalina de Erauso (2)** Close reading of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 3). |  Project 3 with Voyant |
 | **Week 8**  |  |  |
 | **Tu., Oct. 7 (15)** | **Catalina de Erauso (3)** Digital storytelling of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 4). |  Project 3 with Voyant  |
 | **Th., Oct. 9 (16)** | **Catalina de Erauso (4)** Digital storytelling of *Vida y sucesos de la Monja Alférez*.  |  Project 3 with Voyant  |
