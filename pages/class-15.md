@@ -22,7 +22,7 @@ Preguntas para debate en clase:
 #### Capítulo 7:
 - ¿Por qué Erauso y sus compañeros se sentían débiles? (p. 148, par. 42–43)
 - ¿Quiénes son los que ayudan a Erauso en el momento de necesidad? (p. 148, par. 46)
-- ¿Cómo recibe a Erauso la señora Indigena? (p. 150, par. 47)
+- ¿Cómo recibe a Erauso la señora indígena? (p. 150, par. 47)
 - ¿Qué creen que quiere decir Erauso cuando menciona la raza de su esposa prometida? (p. 150–151, p. 48)
 
 #### Capítulo 8:
