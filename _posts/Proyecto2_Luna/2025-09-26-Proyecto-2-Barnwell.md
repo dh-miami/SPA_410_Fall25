@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Las virtuosos y sus mujeres"
+title: "Virtudes y sus mujeres"
 author: "Lauren Barnwell"
 date: 2025-09-25
 exercise: "Proyecto 2: Alvaro de Luna"
 ---
 
-# Proyecto 2: Las virtuosos y sus mujeres 
+# Proyecto 2: Virtudes y sus mujeres 
 
 ![imagen](images/newplot.png)
 
