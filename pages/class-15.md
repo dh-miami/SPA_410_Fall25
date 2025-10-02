@@ -27,7 +27,7 @@ Preguntas para debate en clase:
 
 #### Capítulo 8:
 - ¿Qué sucede entre Catarina de Echaves y la mujer de don Pedro de Andrade? (p. 151–152, par. 50)
-- ¿Cuál es la relación entre Francisca de Marmolejo con la prisión de Erauso? (p. 155, par. 52)
+- ¿Cuál es la relación de Francisca de Marmolejo con la prisión de Erauso? (p. 155, par. 52)
 - ¿Qué quiere decir “dar tormento” y cuál es el privilegio de Erauso como vizcaíno? (p. 155–154, par. 53)
 - Por qué Erauso concluye que “Todo puede el dinero” (p. 154, par. 54)
 
