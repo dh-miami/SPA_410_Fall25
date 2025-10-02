@@ -20,7 +20,7 @@ Dado el amplio conjunto de mujeres representadas en las biografías, se ha consi
 En conclusión, Álvaro de Luna presenta la paciencia como una virtud de gran valor en el siglo XV aunque en la actualidad está subestimada. Ahora bien, no ocupa la misma posición de respeto que en la época medieval. Mientras la cultura contemporánea promueve la satisfacción instantánea y el cambio constante, Álvaro exalta a las mujeres pacientes como las personas elevadas y cerca de Dios. Según Álvaro de Luna, la paciencia era una de las virtudes más importantes del siglo XV ejemplificada en Marina, Teodora y Margarita profundamente. Estas tres mujeres ejemplares demuestran la paciencia en tres maneras diferentes, pero con cada biografía, Luna reconoce y elogia la virtud como algo esencial para una mujer virtuosa. 
 
 
-![imagen](images/heatmap1.png)
+![imagen](images/newplot.png)
 
 
 
