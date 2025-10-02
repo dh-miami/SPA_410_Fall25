@@ -7,8 +7,6 @@ exercise: "Proyecto 2: Alvaro de Luna"
 ---
 
 # Proyecto 2: La virtud femenina como construcción política en Álvaro de Luna
-
-![Judith Slaying Holofernes - Artemisia Gentileschi](images/Judith.png) 
 ![imagen](images/heatmap1.png)
 
 La virtud femenina como construcción política en Álvaro de Luna 
