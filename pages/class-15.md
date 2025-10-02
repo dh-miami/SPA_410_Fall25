@@ -12,8 +12,35 @@ permalink: /class-15.html
 
 ## Catalina de Erauso, *Vida y sucesos de la Monja Alférez*
 
-- Capítulo 7. 
-- Capítulo 9. 
+Preguntas para debate en clase:
+
+#### Capítulo 6: 
+- ¿Por qué y por cuánto tiempo Erauso se queda en el convento? (p. 145, par. 34–35)
+- ¿Cómo sucede la muerte del hermano, Miguel de Erauso? (p. 146, par. 38)
+- ¿Cuáles son las últimas palabras de Miguel de Erauso y qué implican para Catalina?
+
+#### Capítulo 7:
+- ¿Por qué Erauso y sus compañeros se sentían débiles? (p. 148, par. 42–43)
+- ¿Quiénes son los que ayudan a Erauso en el momento de necesidad? (p. 148, par. 46)
+- ¿Cómo recibe a Erauso la señora Indigena? (p. 150, par. 47)
+- ¿Qué creen que quiere decir Erauso cuando menciona la raza de su esposa prometida? (p. 150–151, p. 48)
+
+#### Capítulo 8:
+- ¿Qué sucede entre Catarina de Echaves y la mujer de don Pedro de Andrade? (p. 151–152, par. 50)
+- ¿Cuál es la relación entre Francisca de Marmolejo con la prisión de Erauso? (p. 155, par. 52)
+- ¿Qué quiere decir “dar tormento” y cuál es el privilegio de Erauso como vizcaíno? (p. 155–154, par. 53)
+- Por qué Erauso concluye que “Todo puede el dinero” (p. 154, par. 54)
+
+#### Capítulo 9:
+- ¿De qué trabaja Erauso en Charcas? (p. 155–154, par. 55)
+- ¿Qué sucede en la casa de don Antonio Calderón? (p. 156–157, par. 57)
+- ¿Por qué creen que Erauso no quiere confesarse? (p. 159, par. 63)
+- ¿Cómo Erauso escapa de la pena de muerte? (p. 160, par. 65)
+
+#### Capítulo 10:
+- ¿Por qué el marido no va a la cárcel por matar al amante e intentar matar a la esposa? (p. 161, par. 67)
+- ¿Qué sucede con la mujer infiel? (p. 163, par. 71)
+- ¿Qué gana Erauso con haber ayudado a la mujer? (p. 163, p. 72)
 
 
 ## Experimentos con Voyant tools 
