@@ -7,7 +7,7 @@ permalink: /class-15.html
 
 ## Class 15 - Catalina de Erauso (3)
 
-- Lectura para hoy: [*La Vida y sucesos de la Monja Alférez*](https://www.courses.miami.edu/ultra/courses/_665635_1/cl/outline). Ed. Miguel Martínez. Clásicos Castalia, 2021. Capítulos 7 (pp. 148-150), Cap. 9 (pp. 154-161)
+- Lectura para hoy: [*La Vida y sucesos de la Monja Alférez*](https://www.courses.miami.edu/ultra/courses/_665635_1/cl/outline). Ed. Miguel Martínez. Clásicos Castalia, 2021. Capítulos 6, 7, 8, 9 y 10 (en Blackboard).
  
 
 ## Catalina de Erauso, *Vida y sucesos de la Monja Alférez*
@@ -29,7 +29,7 @@ Preguntas para debate en clase:
 - ¿Qué sucede entre Catarina de Echaves y la mujer de don Pedro de Andrade? (p. 151–152, par. 50)
 - ¿Cuál es la relación de Francisca de Marmolejo con la prisión de Erauso? (p. 155, par. 52)
 - ¿Qué quiere decir “dar tormento” y cuál es el privilegio de Erauso como vizcaíno? (p. 155–154, par. 53)
-- Por qué Erauso concluye que “Todo puede el dinero” (p. 154, par. 54)
+- ¿Por qué Erauso concluye que “Todo puede el dinero”? (p. 154, par. 54)
 
 #### Capítulo 9:
 - ¿De qué trabaja Erauso en Charcas? (p. 155–154, par. 55)
