@@ -7,8 +7,7 @@ permalink: /class-16.html
 
 ## Class 16 - Catalina de Erauso (4)
 
-- Lectura para hoy: [*La Vida y sucesos de la Monja Alférez*](https://www.courses.miami.edu/ultra/courses/_665635_1/cl/outline). Ed. Miguel Martínez. Clásicos Castalia, 2021. Capítulos 1-5 (pp. 125-144)
-- Entregar resumen de la charla del prof. Antonio Álvarez-Ossorio Alvariño. 
+- Lectura para hoy: [*La Vida y sucesos de la Monja Alférez*](https://www.courses.miami.edu/ultra/courses/_665635_1/cl/outline). Ed. Miguel Martínez. Clásicos Castalia, 2021. Capítulos 14-16 (pp. 175-186)
 
 ## Catalina de Erauso, *Vida y sucesos de la Monja Alférez*
 
