@@ -55,7 +55,8 @@ entonces cobraron también, en referencia a las nuevas identidades, una connotac
 Voyant Tools <http://voyant-tools.org/> 
 
 1. Descargad el [archivo zip que contiene el texto de Erauso (Biblioteca Virtual Miguel de Cervantes)](https://github.com/dh-miami/SPA_410_Fall25/raw/refs/heads/main/_posts/Proyecto3_Erauso/Erauso.zip) y guardadlo en un lugar donde os acordéis. Clicar en “Reveal”.
-
-2. En la parte superior derecha, donde aparece la nube de palabras, clicad en “Define options for this tool”, y editad la lista de “Stopwords” para que desaparezcan de la nube de palabras. Añade la las palabras vacías que no creas que aportan una semántica relevante (mi, ti, te, y, a, etc…).
+2. Cambiad la lengua de la interfaz "Language Interface Options" y elegid "Spanish" (parte superior derecha). 
+3. En la parte superior izquierda, donde aparece la nube de palabras "Cirrus", clicad en “Define options for this tool”, y editad la lista de “Stopwords” para que desaparezcan de la nube de palabras. Añade la las palabras vacías que no creas que aportan una semántica relevante (mi, ti, te, y, a, etc…).
   - Tipos de palabras sin carga semántica.
-  - Palbras clave o semánticamente relevantes. 
+  - Palbras clave o semánticamente relevantes.
+4. Exporta el Cirrus a una imagen. ·Export a URL...", > "Export Visualization" > "Export a PNG" (en Mac, copiad la imagen y guardadla). 
