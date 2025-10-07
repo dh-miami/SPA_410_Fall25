@@ -49,6 +49,9 @@ Fragmento de ["Colonialidad del poder, eurocentrismo y América Latina"](https:/
 > La idea de raza, en su sentido moderno, no tiene historia conocida antes de América. Quizás se originó como referencia a las diferencias fenotípicas entre conquistadores y conquistados, pero lo que importa es que muy pronto fue construida como referencia a supuestas estructuras biológicas diferenciales entre esos grupos. La formación de relaciones sociales fundadas en dicha idea produjo en América identidades sociales históricamente nuevas: indios, negros y mestizos, y redefinió otras. Así, términos como español y portugués, y más tarde europeo, que hasta entonces indicaban solamente procedencia geográfica o país de origen, desde
 entonces cobraron también, en referencia a las nuevas identidades, una connotación racial. Y en la medida en que las relaciones sociales que estaban configurándose eran relaciones de dominación, tales identidades fueron asociadas a las jerarquías, lugares y roles sociales correspondientes, como constitutivas de ellas y, en consecuencia, al patrón de dominación colonial que se imponía.
 
+Fragmento de *Historia de la Monja Alférez* de la Biblioteca Cervantes
+
+> Habíanse entretanto los indios vuelto al lugar, en número de más de diez mil. Volvimos a ellos con tal coraje e hicimos tal estrago, que corría por la plaza abajo un arroyo de sangre como un río, y fuimos siguiéndolos y matándolos hasta pasar el río Dorado.
 
 ## Experimentos con Voyant tools 
 
