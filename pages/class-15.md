@@ -42,6 +42,13 @@ Preguntas para debate en clase:
 - ¿Qué sucede con la mujer infiel? (p. 163, par. 71)
 - ¿Qué gana Erauso con haber ayudado a la mujer? (p. 163, p. 72)
 
+## Para discusión
+
+Fragmentos de ["Colonialidad del poder, eurocentrismo y América Latina"](https://biblioteca.clacso.edu.ar/clacso/se/20140507042402/eje3-8.pdf) de Aníbal Quijano.
+
+> La idea de raza, en su sentido moderno, no tiene historia conocida antes de América. Quizás se originó como referencia a las diferencias fenotípicas entre conquistadores y conquistados, pero lo que importa es que muy pronto fue construida como referencia a supuestas estructuras biológicas diferenciales entre esos grupos. La formación de relaciones sociales fundadas en dicha idea produjo en América identidades sociales históricamente nuevas: indios, negros y mestizos, y redefinió otras. Así, términos como español y portugués, y más tarde europeo, que hasta entonces indicaban solamente procedencia geográfica o país de origen, desde
+entonces cobraron también, en referencia a las nuevas identidades, una connotación racial. Y en la medida en que las relaciones sociales que estaban configurándose eran relaciones de dominación, tales identidades fueron asociadas a las jerarquías, lugares y roles sociales correspondientes, como constitutivas de ellas y, en consecuencia, al patrón de dominación colonial que se imponía.
+
 
 ## Experimentos con Voyant tools 
 
