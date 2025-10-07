@@ -28,7 +28,7 @@ En conclusión, Álvaro de Luna presenta la paciencia como una virtud de gran va
 
 
 
-![imagen](images/newplot.png)
+![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png)
 
 
 
