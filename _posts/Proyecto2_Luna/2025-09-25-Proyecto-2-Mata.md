@@ -8,7 +8,7 @@ exercise: "Proyecto 2: Álvaro de Luna"
 
 # El papel de la mujer casta en el *Libro de las claras e virtuosas mugeres*
 
-![imagen](images/heatmap1.png)
+![imagen](https://github.com/dh-miami/SPA_410_Fall25/blob/main/_posts/Proyecto2_Luna/images/heatmap1.png)
 
 Una de las figuras más poderosas en España durante el siglo XV es Álvaro de Luna que se abre paso hasta lo más alto de la escena política y permanece como mano derecha del rey Juan II durante más de treinta años. Sin embargo, durante una época caracterizada por conflictos políticos extremos, competencia e inestabilidad entre los nobles y reyes, Luna finalmente pierde el favor de Juan II, y es decapitado en 1453 bajo las órdenes del mismo rey que lo había protegido y elevado durante tantos años. Antes de su muerte, compila casi 120 autobiografías femeninas del mundo antiguo, centrándose específicamente en sus virtudes y ofreciendo una perspectiva "femenista" que fue única en su tiempo. Aunque el *Libro de las claras e virtuosas mugeres* se centra en una amplia gama de virtudes, la castidad representa un tema recurrente a lo largo de la obra. En este breve ensayo, me enfoco en cómo esta virtud se manifiesta en una variedad de mujeres y cómo tiene una importancia personal para Álvaro de Luna, dada su experiencia como figura política prominente. 
 
