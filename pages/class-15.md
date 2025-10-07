@@ -59,4 +59,7 @@ Voyant Tools <http://voyant-tools.org/>
 3. En la parte superior izquierda, donde aparece la nube de palabras "Cirrus", clicad en “Define options for this tool”, y editad la lista de “Stopwords” para que desaparezcan de la nube de palabras. Añade la las palabras vacías que no creas que aportan una semántica relevante (mi, ti, te, y, a, etc…).
   - Tipos de palabras sin carga semántica.
   - Palbras clave o semánticamente relevantes.
-4. Exporta el Cirrus a una imagen. ·Export a URL...", > "Export Visualization" > "Export a PNG" (en Mac, copiad la imagen y guardadla). 
+4. Exporta el Cirrus a una imagen. ·Export a URL...", > "Export Visualization" > "Export a PNG" (en Mac, copiad la imagen y guardadla).
+
+## Para el próximo día (antes de la clase): 
+- Escribid un párrafo (aprox 200 palabras) sobre la utilidad que, según vosotras, puede tener Voyant para analizar un texto. ¿Qué ventajas tiene? Y por el contrario, ¿qué creeis que Voyant no pude hacer por vosotras? 
