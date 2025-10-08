@@ -35,7 +35,15 @@ De todas maneras, las que quieran, puede llevar a cabo la lectura de los capítu
 - Una vez Erauso llega a España, desembarca en Cádiz, va a Sevilla, Madrid y llega a Pamplona. ¿Cómo es el tono de esta narración del párrafo 112? ¿Qué puedes deducir sobre cómo debía sentirse Erauso?
 - Cap. 16: ¿Qué le concede el Papa de Roma? ¿Crees que esta concesión era el fin último de Erauso? (parr. 120)
 - ¿Cómo interpretas el último episodio (parr. 122) en que, en el puerto de Nápoles, dos mujeres "Señora Catalina, ¿dónde es el camino?"
+  
+## Párrafo sobre Voyant Tools
+Escribid un párrafo reflexivo sobre la utilidad de Voyant Tools como herramienta de análisis textual. Vuestro párrafo debe incluir:
 
+- La utilidad de Voyant Tools para el análisis de textos literarios
+- Las ventajas que ofrece esta plataforma
+- Las desventajas o limitaciones que habéis identificado
+
+Además, debéis editar la lista de palabras en Voyant Tools eliminando términos irrelevantes (artículos, preposiciones, etc.) para crear un wordcloud que sea semánticamente relevante al texto de La Vida y sucesos de la Monja Alférez que estamos leyendo. El wordcloud debe reflejar los temas y conceptos centrales del texto de Erauso, no simplemente las palabras más frecuentes.
 
 ## Experimentos con Voyant tools 
 
