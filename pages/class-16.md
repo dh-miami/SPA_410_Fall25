@@ -43,7 +43,7 @@ Escribid un párrafo reflexivo sobre la utilidad de Voyant Tools como herramient
 - Las ventajas que ofrece esta plataforma
 - Las desventajas o limitaciones que habéis identificado
 
-Además, debéis editar la lista de palabras en Voyant Tools eliminando términos irrelevantes (artículos, preposiciones, etc.) para crear un wordcloud que sea semánticamente relevante al texto de La Vida y sucesos de la Monja Alférez que estamos leyendo. El wordcloud debe reflejar los temas y conceptos centrales del texto de Erauso, no simplemente las palabras más frecuentes.
+Además, debéis editar la lista de palabras en Voyant Tools eliminando términos irrelevantes (artículos, preposiciones, etc.) para crear un wordcloud que sea semánticamente relevante al texto de La Vida y sucesos de la Monja Alférez que estamos leyendo.
 
 ## Experimentos con Voyant tools 
 
