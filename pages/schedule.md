@@ -37,7 +37,7 @@ Download [syllabus and schedule in PDF](https://github.com/dh-miami/SPA_410_Fall
 | **Th., Oct. 2 [(14)](https://dh-miami.github.io/SPA_410_Fall25/class-14.html)** | **Catalina de Erauso (2)** Close reading of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 3). |  Project 3 with Voyant |
 | **Week 8**  |  |  |
 | **Tu., Oct. 7 [(15)](https://dh-miami.github.io/SPA_410_Fall25/class-15.html)** | **Catalina de Erauso (3)** Digital storytelling of *Vida y sucesos de la Monja Alférez*.  **For next class:** Read Catalina de Erauso, *Vida y sucesos de la Monja Alférez* (selection 4). |  Project 3 with Voyant  |
-| **Th., Oct. 9 (16)** | **Catalina de Erauso (4)** Digital storytelling of *Vida y sucesos de la Monja Alférez*.  |  Project 3 with Voyant  |
+| **Th., Oct. 9 ([16](https://dh-miami.github.io/SPA_410_Fall25/class-16.html))** | **Catalina de Erauso (4)** Digital storytelling of *Vida y sucesos de la Monja Alférez*.  |  Project 3 with Voyant  |
 | **Week 9**  |  |  |
 | **Tu., Oct. 14**  | FALL RECESS \- NO CLASS |  |
 | **Th., Oct. 16  (17)** | **Guaman Poma (1)** Historical context: the arrival of Spaniards in Perú.  *El primer nueva corónica y buen gobierno* (1615) Explore [Digital facsimile](https://www.kb.dk/en/collections/guaman-poma)  Guest Speaker: Gimena del Rio Riande  |  |
