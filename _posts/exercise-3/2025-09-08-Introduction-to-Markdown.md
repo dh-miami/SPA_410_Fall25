@@ -3,7 +3,7 @@ layout: page
 title: "Introduction to Markdown"
 author: "Euge Stumm"
 date: 2025-09-08
-exercise: "Ejercicio 3 - Introduction to Markdown"
+exercise: "Introduction to Markdown"
 ---
 
 # Let’s Learn Markdown
