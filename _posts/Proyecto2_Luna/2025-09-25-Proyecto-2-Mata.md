@@ -3,7 +3,7 @@ layout: page
 title: "El papel de la mujer casta en el Libro de las claras e virtuosas mugeres"
 author: "Skye Mata"
 date: 2025-09-25
-exercise: "Proyecto 2: Álvaro de Luna"
+exercise: "Proyecto 2: Alvaro de Luna"
 ---
 
 # El papel de la mujer casta en el *Libro de las claras e virtuosas mugeres*
