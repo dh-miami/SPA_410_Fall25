@@ -8,7 +8,7 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 # La castidad como un instumento del patriarcado
 
-![imagen](https://colab.research.google.com/drive/10nLt8HJhGR1oiDcUywSxLR1l8ZNEQgh6#scrollTo=lgpcDWT_btWG&line=1&uniqifier=1)
+![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png)
 
 La castidad como un instumento del patriarcado  
 En el *Libro de las claras e virtuosas mugeres* de Álvaro de Luna, me llama la atención la importancia y la representación de la noción de “castidad” y cómo se utiliza para limitar el poder de las mujeres heroicas*.* Se dice que su intención era representar una forma de rechazo de la literatura misógina del siglo XV. Él hizo esto mediante el uso de elementos progresistas en  sus biografías como la representación de mujeres como virtuosas. Mientras que hay un argumento sobre su obra como feminista, pienso que el énfasis en la castidad fue utilizado para proteger los sistemas de poder como el patriarcado y la jerarquía socioeconómica, al poner el valor de la mujer en su sexualidad y permitir a los hombres el poder de tomar una parte de las mujeres con o sin su consentimiento. Es interesante cómo las figuras de Susana, Lucrecia y Santa Eugenia son utilizadas para otorgarles un poder superficial que, en última instancia, sirve como herramienta para apoyar las jerarquías de poder como la clase socioeconómica y el patriarcado.
