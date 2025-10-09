@@ -10,7 +10,7 @@ exercise: "Proyecto 3: Erauso"
 
 En este proyecto, analizarás la *Vida y sucesos de la Monja Alférez* de Catalina de Erauso utilizando la herramienta digital Voyant Tools, que permite explorar de forma interactiva el lenguaje, los temas y las recurrencias del texto. A partir de esta exploración, redactarás un breve ensayo analítico (2-3 páginas) en el que desarrolles un argumento interpretativo basado en tu observación del corpus.
 
-1. Lee atentamente la autobiografía de Catalina de Erauso, prestando especial atención a los temas que te interesan (identidad, género, violencia, movilidad, lenguaje, etc.).
+1. Lee atentamente la autobiografía de Catalina de Erauso, prestando especial atención a los temas que te interesan (identidad, género,raza, violencia, movilidad, lenguaje, etc.).
 2. Edita la lista de palabras a excluir y justifica su selección si lo consideras necesario.
 3. Explora el texto con Voyant Tools (Cirrus, Trends, Contexts, DreamSpace, Summary, etc.) e intenta identificar algún patrón léxico, términos clave, co-ocurrencias y distribuciones temáticas a lo largo del texto.
 4. Elige un tema de investigación libremente. Algunas ideas posibles incluyen:
