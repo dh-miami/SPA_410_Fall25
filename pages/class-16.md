@@ -72,3 +72,8 @@ Para la clase de hoy debías a. modificar la lista de palabras excluídas y b. c
 
 - Leed la carta de Guamán Poma al Rey Felipe (páginas 7-9). El texto está disponible en nuestro Blackboard (En "Course Documents", Guaman_carta_students.pdf).
 -  
+
+## Tarea para la próxima clase (Guamán Poma)
+
+- Leed la carta de Guamán Poma al Rey Felipe (páginas 7-9). El texto está disponible en nuestro Blackboard (En "Course Documents", Guaman_carta_students.pdf).
+-  
