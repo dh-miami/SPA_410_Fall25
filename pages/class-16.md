@@ -59,9 +59,16 @@ Voyant Tools <http://voyant-tools.org/> es una plataforma que permite el anális
 
 Para la clase de hoy debías a. modificar la lista de palabras excluídas y b. crear una nube de palabras. ¿Qué palabras has suprimido? ¿Cuáles has dejado en la nube?
 
+
 ### Experimentos: 
 - Selecciona la opción de "Términos". ¿Cuáles son las palabras más utilizadas? ¿Qué campos semánticos aparecen?
 - ¿Qué nos indica la gran cantidad de verbos en primera persona?
 - Clicad la opción "DreamSpace". ¿Qué posibilidades vees? ¿Qué errores aparecen?
 - ¿Cómo puedes interpretar la opción "Loom"? ¿Qué nos dice sobre la progresión del texto?
 - ¿En qué consiste la opción "Veliza"? 
+
+
+## Tarea para la próxima clase (Guamán Poma)
+
+- Leed la carta de Guamán Poma al Rey Felipe (páginas 7-9). El texto está disponible en nuestro Blackboard (En "Course Documents", Guaman_carta_students.pdf).
+-  
