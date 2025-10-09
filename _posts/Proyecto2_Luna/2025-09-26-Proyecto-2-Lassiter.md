@@ -3,7 +3,7 @@ layout: page
 title: "La virtud de la paciencia representado por las mujeres de Alvaro de Luna"
 author: "Lauren Lassiter"
 date: 2025-09-26
-exercise: "Proyecto 2: Álvaro de Luna"
+exercise: "Proyecto 2: Alvaro de Luna"
 ---
 
 # La virtud de la paciencia representado por las mujeres de Alvaro de Luna
