@@ -45,6 +45,12 @@ Escribid un párrafo reflexivo sobre la utilidad de Voyant Tools como herramient
 
 Además, debéis editar la lista de palabras en Voyant Tools eliminando términos irrelevantes (artículos, preposiciones, etc.) para crear un wordcloud que sea semánticamente relevante al texto de La Vida y sucesos de la Monja Alférez que estamos leyendo.
 
+## Erauso y la transexualidad (o la homosexualidad)
+
+Discutid el fragmento de *História de la sexualidad* de Michel Foucault:
+> La sodomía — la de los antiguos derechos civil y canónico — era un tipo de actos prohibidos; el autor no era más que su sujeto jurídico. El homosexual del siglo XIX ha llegado a ser un personaje: un pasado, una historia y una infancia, un carácter, una forma de vida; asimismo una morfología, con una anatomía indiscreta y quizás misteriosa fisiología. Nada de lo que él es in toto escapa a su sexualidad. Está presente en todo su ser: subyacente en todas sus conductas puesto que constituye su principio insidioso e indefinidamente activo; inscrita sin pudor en su rostro y su cuerpo porque consiste en un secreto que siempre se traiciona. Le es consustancial, menos como un pecado en materia de costumbres que como una naturaleza singular. No hay que olvidar que la categoría psicológica, psiquiátrica, médica, de la homosexualidad se constituyó el día en que se la caracterizó — el famoso artículo de Westphal sobre las "sensaciones sexuales contrarias" (1870) puede valer como fecha de nacimiento tanto por un tipo de relaciones sexuales como por cierta cualidad de la sensibilidad sexual, determinada manera de invertir en sí mismo lo masculino y lo femenino. La homosexualidad apareció como una de las figuras de la sexualidad cuando fue rebajada de la práctica de la sodomía a una suerte de androginia interior, de hermafroditismo del alma. El sodomita era un relapso, el homosexual es ahora una especie. 
+
+
 ## Experimentos con Voyant tools 
 
 Voyant Tools <http://voyant-tools.org/> es una plataforma que permite el análisis de los textos. En la clase anterior, llevaste a cabo el paso 1:  
