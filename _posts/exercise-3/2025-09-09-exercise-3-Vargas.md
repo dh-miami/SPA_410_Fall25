@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Introduction to Markdown"
-author: "Euge Stumm"
+author: "Patricia Vargas"
 date: 2025-09-08
-exercise: "Ejercicio 3 - Introduction to Markdown"
+exercise: "Ejercicio 3 - Markdown Playground"
 ---
 
 # Header 1
