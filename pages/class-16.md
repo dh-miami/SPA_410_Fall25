@@ -47,8 +47,15 @@ Además, debéis editar la lista de palabras en Voyant Tools eliminando término
 
 ## Experimentos con Voyant tools 
 
-Voyant Tools <http://voyant-tools.org/> es una plataforma que permite el análisis de los textos. Pueden utilizarse diversos formatos pero, una vez más, el más seguro es el .txt. 
+Voyant Tools <http://voyant-tools.org/> es una plataforma que permite el análisis de los textos. En la clase anterior, llevaste a cabo el paso 1:  
 
 1. Descargad el [archivo zip que contiene el texto de Erauso (Biblioteca Virtual Miguel de Cervantes)](https://github.com/dh-miami/SPA_410_Fall25/raw/refs/heads/main/_posts/Proyecto3_Erauso/Erauso.zip) y guardadlo en un lugar donde os acordéis. Clicar en “Reveal”.
 
+Para la clase de hoy debías a. modificar la lista de palabras excluídas y b. crear una nube de palabras. ¿Qué palabras has suprimido? ¿Cuáles has dejado en la nube?
 
+### Experimentos: 
+- Selecciona la opción de "Términos". ¿Cuáles son las palabras más utilizadas? ¿Qué campos semánticos aparecen?
+- ¿Qué nos indica la gran cantidad de verbos en primera persona?
+- Clicad la opción "DreamSpace". ¿Qué posibilidades vees? ¿Qué errores aparecen?
+- ¿Cómo puedes interpretar la opción "Loom"? ¿Qué nos dice sobre la progresión del texto?
+- ¿En qué consiste la opción "Veliza"? 
