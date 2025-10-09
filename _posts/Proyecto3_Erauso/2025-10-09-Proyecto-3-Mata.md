@@ -8,6 +8,6 @@ exercise: "Proyecto 3: Erauso"
 
 # Proyecto 3: El desarraigo de Erauso visto a través del análisis de números. 
 
-![imagen](URL)
+![imagen](https://snipboard.io/yOG6b2.jpg)
 
 Paste text here
