@@ -6,7 +6,7 @@ date: 2025-10-09
 exercise: "Proyecto 3: Erauso"
 ---
 
-# Proyecto 3: Template para vuestro texto 
+# Proyecto 3: Catalina Sangrienta
 
 ![imagen](URL)
 
