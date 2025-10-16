@@ -40,7 +40,7 @@ Download [syllabus and schedule in PDF](https://github.com/dh-miami/SPA_410_Fall
 | **Th., Oct. 9 ([16](https://dh-miami.github.io/SPA_410_Fall25/class-16.html))** | **Catalina de Erauso (4)** Digital storytelling of *Vida y sucesos de la Monja Alférez*.  |  Project 3 with Voyant  |
 | **Week 9**  |  |  |
 | **Tu., Oct. 14**  | FALL RECESS \- NO CLASS |  |
-| **Th., Oct. 16  (17)** | **Guaman Poma (1)** Historical context: the arrival of Spaniards in Perú.  *El primer nueva corónica y buen gobierno* (1615) Explore [Digital facsimile](https://www.kb.dk/en/collections/guaman-poma)  Guest Speaker: Gimena del Rio Riande  |  |
+| **Th., Oct. 16  ([17](https://dh-miami.github.io/SPA_410_Fall25/class-17.html))** | **Guaman Poma (1)** Historical context: the arrival of Spaniards in Perú.  *El primer nueva corónica y buen gobierno* (1615) Explore [Digital facsimile](https://www.kb.dk/en/collections/guaman-poma)  Guest Speaker: Gimena del Rio Riande  |  |
 | **Week 10**  |  |  |
 | **Tu., Oct. 21 (18)** | **Guaman Poma (2)** Close reading and discussion of selected texts.  Keywords and topics [Game](https://nieblagames.itch.io/hawk-and-puma) adaptation of Guaman Poma in Quechua, Spanish, and English  **For next class:** bring images connected to keywords.  |  Topic modelling.  Setup your space in Collection Builder to publish results.  |
 | **Th., Oct. 23  (19)** | **Guaman Poma (3)** Discussion of keywords and topics and illustrations. **For next class:** Read selection of Manzano’s *Autobiografía*.   |  Topic modelling.  Annotation of images.  |
