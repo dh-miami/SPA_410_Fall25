@@ -19,6 +19,12 @@ permalink: /class-17.html
 
 [Presentación Guaman Poma aquí](https://docs.google.com/presentation/d/17jDU0riKEtZMgwtSQ3thwWoDCpRfaqPBAHuuF2F_cKw/edit?slide=id.p#slide=id.p) 
 
+## Palabras del quechua: 
+
+- Chasqui
+- Quipu
+
+  
 ## Para la próxima clase: 
 
 - Resumen de la charla de Gimena del Rio Riande.
