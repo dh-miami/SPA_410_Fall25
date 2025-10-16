@@ -1,0 +1,22 @@
+---
+layout: page
+title: "Catalina de Erauso y su relacion con religión"
+author: "Lauren Lassiter"
+date: 2025-10-15
+exercise: "Proyecto 3: Erauso"
+---
+
+# Proyecto 3: Catalina de Erauso y su relacion con religión
+
+
+Catalina de Erauso es una figura dinámica y única que tiene una moral cuestionable. En su autobiografía, Catalina de Erauso construye una identidad ambigua donde la religión funciona como un instrumento de autopurificación y justificación moral frente a sus actos violentos. A través de la herramienta digital Voyant Tools, es posible visualizar cómo el léxico religioso se distribuye a lo largo del texto, revelando los momentos en que Erauso recurre a la espiritualidad como forma de absolución. Con Voyant Tools, observamos la aparición de cada palabra y descubrimos el contexto en el que fue utilizada para indicar la culpabilidad de Catalina. 
+
+Por otra parte, la autobiografía de Erauso explica la tensión entre los géneros y la diferencia entre las oportunidades de los hombres y las mujeres. Desde su infancia en el convento hasta su vida como soldado, Erauso experimenta una fractura identitaria que desafía las normas de género y las expectativas religiosas de su época. El personaje de Catalina está fracturado en dos géneros y por tanto dos versiones. 
+
+El uso de Voyant Tools es necesario para ver las palabras importantes, el contexto del cuento, las conexiones entre capítulos y observar los temas en un formato gráfico. Con cada palabra que conecta con el tema, uso el gráfico para indicar en qué parte de la historia ocurrió. Además, se hizo evidente una tendencia en diferentes palabras religiosas, entre ellas iglesia, monja, convento, obispo y alférez. El análisis con Voyant Tools permite observar que términos como “iglesia” y “convento” aparecen con mayor frecuencia en los capítulos iniciales y finales, mientras que el léxico militar predomina en el centro del relato. En los capítulos finales hay muchas palabras religiosas porque Catalina comete continuamente crímenes de los que debe arrepentirse y esconderse de la ley en iglesias y conventos, lugares sagrados. Esta sección empieza cuando Catalina mata a su hermano y finalmente comienza a arrepentirse de sus actos transgresores y a lidiar con las repercusiones de sus crímenes. 
+
+A partir de estas observaciones léxicas, Catalina se ampara en la religión para absolverse de la culpa de sus conductas delictivas, pero esta protección es hipócrita. Por ejemplo, tras cometer un homicidio, Erauso se refugia durante seis meses en una iglesia. Este acto no responde a una devoción auténtica, sino a una estrategia de supervivencia que revela cómo lo sagrado se convierte en un refugio moral y físico frente a la justicia humana. La vida de Catalina no representa la vida de una mujer devota y cristiana, aunque una persona corrupta que usa religión como un blindaje de las consecuencias de sus propias acciones. La palabra iglesia ocurre muchas veces entre capítulos 6 y 9, en cambio, solo ocurre una o dos veces entre capítulos 3 y 5. Estos capítulos (3-5) son llenos del vocabulario militar, eventos llenos de violencia y experimentación sexual. Erauso solo usa la espiritualidad cuando ella la necesita. 
+
+El vocabulario religioso refleja los cambios que experimenta Catalina de Erauso a lo largo de su narrativa. Al principio, ella es una mujer pura que vive en un convento rechazando a Dios en su vida diaria. Al final, después de todo, la muerte y la destrucción que ha causado, ella regresa a su previa devoción para absolverse de la culpa que siente por lo que ha hecho. Su regreso a la religiosidad representa su regreso a un estilo de vida más puro y cristiano.
+
+En síntesis, la autobiografía de Catalina de Erauso ilumina una relación complicada entre fe, género y poder en una mujer luchando con su identidad y usando la religión como arma para protegerse. Este retorno a la fe no constituye un acto de conversión auténtica, sino una estrategia para sobrevivir en un entorno masculino y violento. Claramente existe una tensión entre la identidad de Catalina revelada por su lucha en su relación con Dios. Ella instrumentaliza la fe sólo cuando es necesario, pero no suscribe verdaderamente la moral ni los valores; por otro lado, simplemente la usa para evitar problemas. Este ensayo analítico, al combinar Voyant Tools con una lectura crítica, explora el discurso religioso que se entrelaza con la construcción de género y poder en una persona peleando con su propia identidad. 
