@@ -19,5 +19,8 @@ permalink: /class-17.html
 
 [Presentación Guaman Poma aquí](https://docs.google.com/presentation/d/17jDU0riKEtZMgwtSQ3thwWoDCpRfaqPBAHuuF2F_cKw/edit?slide=id.p#slide=id.p) 
 
+## Para la próxima clase: 
 
+- Resumen de la charla de Gimena del Rio Riande.
+- Jugad al juego online [Hawk and Puma](https://nieblagames.itch.io/hawk-and-puma). ¡Venid con comentarios para discutir la experiencia!
 
