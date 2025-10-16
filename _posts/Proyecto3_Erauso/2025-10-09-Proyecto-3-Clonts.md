@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Proyecto 3: El lenguaje como medida cuantitativa y cualitativa del poder en la creación de identidad.
-"
+title: "Proyecto 3: El lenguaje como medida cuantitativa y cualitativa del poder en la creación de identidad."
 author: "Remi Clonts"
 date: 2025-10-09
 exercise: "Proyecto 3: Erauso"
