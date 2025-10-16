@@ -2,7 +2,7 @@
 layout: page
 title: "Voyant como herramienta de análisis de Catalina de Erauso"
 author: "Alana Cowan"
-date: 2025-1016
+date: 2025-10-16
 exercise: "Proyecto 3: Erauso"
 ---
 
