@@ -17,7 +17,7 @@ permalink: /class-17.html
 
 ## Invitada especial: [Gimena del Rio Riande](https://www.aacademica.org/gimena.delrio.riande) 
 
-[Presentación Guaman Poma](https://docs.google.com/presentation/d/17jDU0riKEtZMgwtSQ3thwWoDCpRfaqPBAHuuF2F_cKw/edit?slide=id.p#slide=id.p) 
+[Presentación Guaman Poma aquí](https://docs.google.com/presentation/d/17jDU0riKEtZMgwtSQ3thwWoDCpRfaqPBAHuuF2F_cKw/edit?slide=id.p#slide=id.p) 
 
 
 
