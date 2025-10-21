@@ -8,7 +8,7 @@ exercise: "Proyecto 3: Erauso"
 
 # Proyecto 3: Catalina Sangrienta
 
-![imagen](URL)
+![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/590A4E67-81D4-405F-BA36-146EBF21D989.jpeg)
 
 Durante el Siglo de Oro, una época marcada por la conquista, la guerra y la expansión del Imperio español, la violencia era parte de la vida cotidiana. En Vida y sucesos de la Monja Alférez, Catalina de Erauso narra su historia personal dentro de ese contexto, mostrando cómo la violencia fue esencial para su supervivencia y para construir su identidad. A través del análisis del texto con Voyant Tools, usando las palabras matar, sangre, espada, herida y guerra, se puede ver cómo la violencia aparece repetidamente y cómo está relacionada con su posición como soldado y con su ruptura de las normas de género.
 
