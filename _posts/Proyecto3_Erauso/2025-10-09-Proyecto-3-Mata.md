@@ -8,7 +8,7 @@ exercise: "Proyecto 3: Erauso"
 
 # Proyecto 3: El desarraigo de Erauso visto a través del análisis de números. 
 
-![imagen](https://snipboard.io/yOG6b2.jpg)
+![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/MATA_NUMEROS.png)
 
 Durante el siglo XVI, época caracterizada por la exploración y conquista del Nuevo Mundo, era común que conquistadores como Cristóbal Colón o Hernán Cortés dirigieran varias expediciones para descubrir nuevos terrenos. Sin embargo, a pesar de sus viajes al extranjero, la mayoría de los conquistadores todavía sentían una profunda conexión emocional con su hogar – ya sea España o un asentamiento dentro del Nuevo Mundo – donde construyeron la fundación de sus vidas y tuvieron sus propias familias. Este no es el caso de Catalina de Erauso, quien detalla su historia de salida de España y ganar poder en América del sur en una autobiografía. A lo largo del texto, es evidente que Erauso es atípico en muchos aspectos: como una conquistadora y exploradora nacida como una mujer, como un individuo que explora su identidad de género, y como una persona que no tiene un fuerte sentido de lugar o pertenencia, tanto física como emocionalmente. En este ensayo, discuto el desarraigo en la vida de Catalina de Erauso, visto a través del patrón léxico de números a lo largo de su autobiografía. Además, ilustro las posibilidades de por qué alguien como Erauso sentiría una falta de conexión a un lugar específico.  
 
