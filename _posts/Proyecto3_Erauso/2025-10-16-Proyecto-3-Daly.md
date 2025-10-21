@@ -8,7 +8,7 @@ exercise: "Proyecto 3: Erauso"
 
 # Proyecto 3: Cartografías del yo: Movilidad e identidad en Vida y sucesos de la Monja Alférez
 
-![Grafico de la nube](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Ruthi.nube.imagen.png)
+![Grafico de la nube](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/Ruthi.nube.imagen.png)
 
 
 La autobiografía Vida y sucesos de la Monja Alférez cuenta la vida extraordinaria de Catalina de Erauso, una monja que huye de su convento, se viste de hombre y viaja a través del mundo colonial español, dejando un rastro de violencia y sangre. Su autobiografía ofrece una perspectiva única de género e identidad en una época dominada por el patriarcado y la religión. El movimiento constante define la identidad de Erauso: cada cambio de lugar corresponde a una reinvención de sí misma. Utilizando Voyant Tools, una plataforma digital para analizar textos, se hace posible visualizar cómo las auto descripciones de Erauso se mueven junto con referencias geográficas a lo largo del texto. De este análisis, los patrones en frecuencia y distribución de palabras son aspectos claves. La correlación entre las referencias geográficas y los cambios en la autodescripción resalta la movilidad como una metáfora a través de la cual Erauso expresa la libertad y la identidad.
