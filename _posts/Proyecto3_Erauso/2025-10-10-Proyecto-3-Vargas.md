@@ -16,7 +16,7 @@ Catalina decidió vivir como hombre en una sociedad profundamente dividida por e
 
 En este análisis se utiliza la plataforma digital Voyant Tools, una herramienta que permite visualizar y cuantificar el lenguaje de un texto. Gracias a ella es posible reunir evidencia cuantitativa y visual, especialmente útil cuando se analiza un término específico. En este caso, la palabra **“mano”** aparece alrededor de 36 veces a lo largo de la obra. La palabra *mano* se puede observar desde el principio de la obra donde se puede observar con el gráfico de Voyant Tools que no se menciona muchas veces como al final de la historia. Al Mismo tiempo, se convierte en un elemento conductor del relato y espejo de la evolución de la protagonista. 
 
-![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto3_Erauso/Screen%20Shot%202025-10-15%20at%208.33.02%20PM.png)
+![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/Midhelle-buble-mano-image.png)
 
 En el primer capítulo se aprecia que el término **mano** opera como símbolo ambivalente; puede señalar el afecto y el abuso. Eso se evidencia en dos ejemplos del texto: “Era ella robusta y yo muchacha; me maltrató de mano y yo lo sentí” donde la **mano** es instrumento de agresión física y humillación, y “Mi tía, tocándose con la mano en la cabeza, me dijo: «Anda, acuéstate»”, donde la **mano** actúa como gesto de cuidado o consuelo. 
 
