@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Template Proyecto 3: Erauso"
+title: "Proyecto 3: Erauso"
 author: "Ruthi Daly"
 date: 2025-10-16
 exercise: "Proyecto 3: Erauso"
