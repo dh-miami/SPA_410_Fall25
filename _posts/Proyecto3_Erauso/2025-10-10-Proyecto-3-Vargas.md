@@ -8,7 +8,7 @@ exercise: "Proyecto 3: Erauso"
 
 # Mano: El Gatillo de la Furia de Catalina 
 
-![imagen](https://www.theawl.com/wp-content/uploads/2017/03/1qaO1zMjPHyHticpfgJThfA.jpeg)
+![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/Michelle-Erauso-foto.jpeg)
 
 Entre *1585 y 1592* nace la historia de Catalina de Erauso, también conocida como Antonio o Monja Alférez. Fue militar, monja y escritora, y su vida constituye uno de los fenómenos más sorprendentes del *Siglo de Oro español*. Lo que en su tiempo parecía una anomalía, una mujer que adopta identidad masculina y vive como soldado, hoy se entiende como una profunda reflexión sobre la identidad, el cuerpo. la libertad y los límites sociales impuestos por el género.  Catalina de Erauso no solo desafió las convenciones de época, sino que utilizó su relato propio como espacio de legitimación y autoafirmación. 
 
