@@ -8,6 +8,7 @@ exercise: "Proyecto 3: Erauso"
 
 # Proyecto 3: Catalina de Erauso y su relación con la religión
 
+![Grafico sobre la palabra iglesia](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto3_Erauso/Lassiter.Iglesia.Imagen.png)
 
 Catalina de Erauso es una figura dinámica y única que tiene una moral cuestionable. En su autobiografía, Catalina de Erauso construye una identidad ambigua donde la religión funciona como un instrumento de autopurificación y justificación moral frente a sus actos violentos. A través de la herramienta digital Voyant Tools, es posible visualizar cómo el léxico religioso se distribuye a lo largo del texto, revelando los momentos en que Erauso recurre a la espiritualidad como forma de absolución. Con Voyant Tools, observamos la aparición de cada palabra y descubrimos el contexto en el que fue utilizada para indicar la culpabilidad de Catalina. 
 
