@@ -8,9 +8,9 @@ exercise: "Proyecto 3: Erauso"
 
 # El lenguaje como medida cuantitativa y cualitativa del poder en la creación de identidad.
 
-![imagen]((https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/clonts_frequencia.png)
+![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/clonts_frequencia.png)
 La imagen de frequencia de las palabras masculinas 
-![imagen]((https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/clonts_mapaimagen.png)
+![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/clonts_mapaimagen.png)
 El mapa de las palbra
 
 Voyant ha sido una herramienta de investigación muy útil en mi investigación del impacto de la lengua en el entendimiento del texto la “*Vida y sucesos de la Monja Alférez”* de Catalina de Erauso. Específicamente, Voyant enumera las ocurrencias de las palabras, eliminando la necesidad de hacerlo manualmente. Además, se ofrece una variedad de maneras de visualizarlo fácilmente con las visualizaciones como los mapas de palabras, gráficos de frecuencia y tablas de ocurrencias. Al observar las palabras utilizadas más frecuentemente facilita la conexión de unos temas como el género y la importancia del uso de palabras masculinas. Cuando mirando el contexto de los títulos masculinos como señor, don, capitán, etc., puede ver un patrón o un propósito que este tipo de lenguaje sirve. Este patrón léxico, visible a través de Voyant, demuestra que las palabras asociadas con autoridad masculina dominan el texto, mientras los términos femeninos aparecen con mucha menor frecuencia. Como el autor de su propia historia, Erauso tiene el poder de decidir cómo lo presenta. Sí, el discurso de Catalina de Erauso se convierte en una forma de poder: al hablar como hombre, logra ser tratada como uno. Erauso usa el lenguaje masculino para afirmar su identidad y acceder al poder dentro de las jerarquías patriarcales que estructuran la sociedad, especialmente en el ámbito militar, político y religioso.  
