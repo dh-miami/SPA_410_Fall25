@@ -7,7 +7,7 @@ exercise: "Proyecto 3: Erauso"
 ---
 
 # Voyant como herramienta de análisis de Catalina de Erauso
-
+.
 ![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/WordCloudAlana.png)
 
 En historias como la de Catalina de Erauso, que toma lugar en el siglo diez y seis, temas como la sexualidad y el género no son expresados ni discutidos de una manera clara. Para entenderlos, uno tiene que prestar atención a los pronombres y otras señales de género en el lenguaje. Lo que no podía ser explicado explícitamente se podía entender a través de los recursos retóricos de la lectura. Voyant puede ser una herramienta muy útil para ayudar al lector entender mejor la frecuencia de estas cosas importantes. Aunque Catalina se presenta con rasgos masculinos y militares, la voz de la novela mantiene tensiones entre el “yo” femenino y las marcas de género masculino. Esto se refleja en la distribución de pronombres, adjetivos y términos referentes a su cuerpo y como se vista Catalina.
