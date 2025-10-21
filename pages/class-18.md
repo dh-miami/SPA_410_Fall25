@@ -10,6 +10,7 @@ Arreglar las imágenes:
 - Nombrar las imágenes con vuestro nombre o algun nombre significativo (no screenshot), sin espacios ni acentos. 
 - Subid la imagen en la carpeta de <https://github.com/dh-miami/SPA_410_Fall25/tree/main/assets/img>
 - Desde vuestro documento .md añadir el enlace completo: `![Nombre de vuestra imagen](https://github.com/dh-miami/SPA_410_Fall25/tree/main/assets/img/nombre_imagen)`
+- Alternativamente, pueden utilizar el link de la versión RAW de tus imagenes en GitHub. Basta hacer clic en tu imagen y abrir el imagen en una nueva pestaña. 
 
   
 ## Class 17 - Guaman Poma (2)
