@@ -24,14 +24,11 @@ permalink: /resources.html
 
 <img src="../assets/img/mesa_de_espanol.png" alt="hora del café" width="50%" height="50%" />
 
-![La Mesa de Espanol](../assets/img/mesa_de_espanol.png)
-
 ---
 
-  
 ## Other works left behind:   
 
-- Juan Garrido, el conquistador negro en las Antillas, Florida, México y California,1503-1540. [https://archive.org/embed/juan-garrido-by-ricardo-alegria-1990-san-juan-puerto-rico](https://archive.org/embed/juan-garrido-by-ricardo-alegria-1990-san-juan-puerto-rico)   
+- Juan Garrido, [El conquistador negro en las Antillas, Florida, México y California](https://archive.org/embed/juan-garrido-by-ricardo-alegria-1990-san-juan-puerto-rico), 1503-1540.    
 - Biographies of soldiers (c. 1500\)  
 - Teresa de Ávila, *Libro de la vida* (1562-65)  
   - A deeply personal and mystical account, subverting ecclesiastical norms by positioning a woman as a religious authority.  
@@ -41,7 +38,6 @@ permalink: /resources.html
   - A nun who, through mystical visions, claimed to have evangelized Indigenous people in the Americas without leaving Spain.  
 - Garcilaso de la Vega, *Comentarios reales de los incas* (1609, 1617\)  
   - A mestizo writer reclaiming Incan history and challenging Spanish colonial narratives.
-
 - María Zambrano, *Delirio y destino* (written 1953, published 1989).   
   - A memoir of exile by a Spanish philosopher who critiqued Franco’s dictatorship and patriarchal structures.  
 - Montserrat Roig, *Dime que me quieres aunque sea mentira* (1991).   
