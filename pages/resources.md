@@ -21,6 +21,9 @@ permalink: /resources.html
 ---
 
 ## La Mesa de Espãnol (Extra Credit)
+
+<img src="../assets/img/mesa_de_espanol.png" alt="hora del café" width="50%" height="50%" />
+
 ![La Mesa de Espanol](../assets/img/mesa_de_espanol.png)
 
 ---
