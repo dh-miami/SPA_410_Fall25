@@ -22,7 +22,7 @@ permalink: /resources.html
 
 ## La Mesa de Espãnol (Extra Credit)
 
-<img src="../assets/img/mesa_de_espanol.png" alt="hora del café" width="50%" height="50%" />
+<img src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/mesa_de_espanol.png" alt="hora del café" width="50%" height="50%" />
 
 ---
 
