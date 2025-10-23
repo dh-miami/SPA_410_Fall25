@@ -10,4 +10,4 @@ permalink: /class-19.html
 - Discusión sobre el proyecto 4.
 
 ## Para el próximo día
-- Leer y responder a las preguntas sobre el la autobiografía de Manzano. 
+- Leer y responder a las preguntas sobre el la *Autobiografía de un esclavo* de Juan Francisco Manzano. (Disponible en [Richter](https://ebookcentral.proquest.com/lib/miami/detail.action?docID=6274002) y en Blackboard (Documents).
