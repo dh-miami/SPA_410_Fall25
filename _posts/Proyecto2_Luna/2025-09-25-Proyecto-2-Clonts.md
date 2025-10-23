@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Proyecto 2 Álvaro de Luna"
+title: "La castidad como un instumento del patriarcado"
 author: "Remi Clonts"
 date: 2025-09-25
 exercise: "Proyecto 2: Alvaro de Luna"
