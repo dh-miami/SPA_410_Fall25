@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "La castidad como un instumento del patriarcado"
+title: "La castidad como instumento del patriarcado"
 author: "Remi Clonts"
 date: 2025-09-25
 exercise: "Proyecto 2: Alvaro de Luna"
 ---
 
-# La castidad como un instumento del patriarcado
+# La castidad como instumento del patriarcado
 
 {{ page.author }}
 
