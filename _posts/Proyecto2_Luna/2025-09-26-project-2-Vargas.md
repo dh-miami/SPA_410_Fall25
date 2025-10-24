@@ -9,7 +9,9 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 {{ page.author }}
 
-![SantaMagdalena](https://img.wikioo.org/ADC/art.nsf/get_large_image_wikioo?Open&ra=8DP4GP)
+<figure><img alt="Santa" src="https://img.wikioo.org/ADC/art.nsf/get_large_image_wikioo?Open&ra=8DP4GP" width="50%" height="50%">
+<figcaption>Figura 1: Santa Magdalena (Fuente?) </figcaption>
+</figure>
 
 La virtud de la fe es la disposición mediante la cual un ser humano se entrega libremente a las manos de Dios y es la que ha llamado más mi atención en el *Libro de las claras e virtuosas mugeres* de Álvaro de Luna, porque, en cada mujer, la fe se convierte en una parte esencial de su vida. La fe se manifiesta en varios personajes, pero los que elegí para este ensayo son Ana, Santa Inés y Santa Magdalena. Este análisis se centra en mostrar cómo la fe se desarrolla y se transforma en una herramienta de fortaleza moral.
 
@@ -23,4 +25,6 @@ De manera distinta, Santa Magdalena se representa como una de las mujeres menos 
 
 En conclusión, la virtud de la fe, entendida como entrega absoluta a Dios, se revela en la vida de Ana, Santa Inés y Santa Magdalena en formas diversas pero complementarias. Ana refleja la fe perseverante y constante; Ines, la valentía que desafía al poder terrenal; y Magdalena, la fe transformadora que conduce al perdón y a la conversión. A través de estas figuras, Alvaro de Luna no solo presenta modelos de virtud femenina, sino que también muestra cómo la fe podía entender en el siglo XV como una fuerza de resistencia, de identidad y de renovación espiritual. 
 
-![New Plot](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png)
+<figure><img alt="Santa" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png" width="80%" height="80%">
+<figcaption>Figura 2: Gráfico de frecuencia de virtues </figcaption>
+</figure>
