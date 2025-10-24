@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Analisis de un proyecto DH - Civil War Washington"
+title: "Analisis de un proyecto DH: Civil War Washington"
 author: "Lauren Barnwell"
 date: 2025-08-21
 exercise: "Ejercicio 2 Proyecto HD - Exercise 2 DH Project"

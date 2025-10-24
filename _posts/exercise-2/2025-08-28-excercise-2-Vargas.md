@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Analisis de un projecto DH - The Treasure of Lives"
+title: "Analisis de un projecto DH: The Treasure of Lives"
 author: "Patricia Vargas"
 date: 2025-08-28
 exercise: "Ejercicio 2 Proyecto HD - Exercise 2 DH Project"

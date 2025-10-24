@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Analisis de un proyecto DH - Analysis of Science Stories"
+title: "Analisis de un proyecto DH: Science Stories"
 author: "Ruthi Daly"
 date: 2025-08-25
 exercise: "Ejercicio 2 Proyecto HD - Exercise 2 DH Project"

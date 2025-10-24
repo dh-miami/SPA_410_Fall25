@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Ejercicio 2:Análisis “(Un) Silencing Slavery”"
+title: "Analisis de un proyecto DH: (Un) Silencing Slavery"
 author: "Remi Clonts"
 date: 2025-08-25
 exercise: "Ejercicio 2 Proyecto HD - Exercise 2 DH Project"

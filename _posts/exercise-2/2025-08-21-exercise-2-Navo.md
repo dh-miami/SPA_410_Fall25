@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Analisis de The Treasury of Lives - Analysis of The Treasury of Lives"
+title: "Analisis de un proyecto DH: The Treasury of Lives"
 author: "Leanna Navo"
 date: 2025-08-21
 exercise: "Ejercicio 2 Proyecto HD - Exercise 2 DH Project"

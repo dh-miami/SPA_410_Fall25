@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Ejercicio 2"
-author: "Alana Cowan"
+author: "Analisis de un proyecto DH: Tracing the Past"
 date: 2025-08-24
 exercise: "Ejercicio 2 Proyecto HD - Exercise 2 DH Project"
 ---
