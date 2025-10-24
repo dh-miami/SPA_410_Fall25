@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Un párrafo sobre mí (plantilla)"
+title: "Un párrafo sobre mí"
 author: "Lauren Lassiter"
 date: 2025-08-18
 exercise: "Ejercicio 1 Un párrafo sobre mí - Exercise 1 A Paragraph of Me"

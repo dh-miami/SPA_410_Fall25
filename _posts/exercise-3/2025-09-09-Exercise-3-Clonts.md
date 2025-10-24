@@ -3,7 +3,7 @@ layout: page
 title: "Ejercicio 3-Markdown Playground by Remi"
 author: "Remi Clonts"
 date: 2025-09-09
-exercise: "Ejercicio 3 - Markdown Playground"
+exercise_playground: "Ejercicio 3 - Markdown Playground"
 ---
 
 # Heading 1
