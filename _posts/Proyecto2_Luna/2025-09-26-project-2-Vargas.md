@@ -7,6 +7,8 @@ exercise: "Proyecto 2: Alvaro de Luna"
 ---
 # La virtud de las mujeres creyentes
 
+{{ page.author }}
+
 ![SantaMagdalena](https://img.wikioo.org/ADC/art.nsf/get_large_image_wikioo?Open&ra=8DP4GP)
 
 La virtud de la fe es la disposición mediante la cual un ser humano se entrega libremente a las manos de Dios y es la que ha llamado más mi atención en el *Libro de las claras e virtuosas mugeres* de Álvaro de Luna, porque, en cada mujer, la fe se convierte en una parte esencial de su vida. La fe se manifiesta en varios personajes, pero los que elegí para este ensayo son Ana, Santa Inés y Santa Magdalena. Este análisis se centra en mostrar cómo la fe se desarrolla y se transforma en una herramienta de fortaleza moral.

@@ -8,6 +8,8 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 # Proyecto 2: La virtud femenina como construcción política en Álvaro de Luna
 
+{{ page.author }}
+
 <figure><img alt="New Plot Img" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/heatmap1.png" width="80%" height="80%">
 <figcaption>Figura 1</figcaption>
 </figure>

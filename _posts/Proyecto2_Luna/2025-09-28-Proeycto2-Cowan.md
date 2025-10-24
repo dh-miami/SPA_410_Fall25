@@ -8,6 +8,8 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 # Las virtudes como empoderamiento feminino del pasado y futuro
 
+{{ page.author }}
+
 <figure><img alt="New Plot Img" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/007516.jpg" width="50%" height="50%" style="float:right;">
 <figcaption>Figura 1: Sandro Botticelli, La muerte de Lucrecia (Wikipedia)</figcaption>
 </figure>

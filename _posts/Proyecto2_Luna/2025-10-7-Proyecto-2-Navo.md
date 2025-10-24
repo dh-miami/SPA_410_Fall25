@@ -8,6 +8,8 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 # Las mujeres desde la perspectiva de Álvaro de Luna: ¿un progresista o un hombre de su tiempo? 
 
+{{ page.author }}
+
 ![chastewoman](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/virtuouswoman.jpg)
 
 La virtud de la castidad se presenta en el *Libro de las virtuosas e claras mujeres* de Álvaro de Luna, juntamente con muchas otras virtudes. La castidad, entendida en el siglo XV como una virtud femenina esencial, se convierte en el Libro en un reflejo del control patriarcal sobre el cuerpo de la mujer. Sin embargo, una lectura contemporánea revela contradicciones en esta representación. En este ensayo, analizo la castidad que presenta Luna como producto de la Edad Medieval y la comparo con los estándares de hoy. En fin, concluyo con un comentario sobre la objetividad de los datos.

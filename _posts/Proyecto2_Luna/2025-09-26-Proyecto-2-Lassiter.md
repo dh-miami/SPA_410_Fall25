@@ -8,6 +8,8 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 # La paciencia en las mujeres de Alvaro de Luna
 
+{{ page.author }}
+
 <figure><img alt="New Plot Img" src="https://i.pinimg.com/originals/2a/17/e9/2a17e9aeb29c2aa4da8a06e34b507c2e.jpg" width=80%" height="80%" style="float:right;"/>
 <figcaption>Mosaico... (Enlace)</figcaption>
 </figure>

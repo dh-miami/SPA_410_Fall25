@@ -8,6 +8,8 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 # El papel de la mujer casta en el *Libro de las claras e virtuosas mugeres*
 
+{{ page.author }}
+
 ![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/heatmap1.png)
 
 <figure><img alt="Heatmap" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/heatmap1.png" width="80%" height="80%">

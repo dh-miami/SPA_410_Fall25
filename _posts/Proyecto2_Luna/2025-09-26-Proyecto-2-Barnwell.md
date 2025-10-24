@@ -8,6 +8,8 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 # Proyecto 2: Las virtudes y las mujeres según Álvaro de Luna
 
+{{ page.author }}
+
 En todas las épocas se ha discutido qué significa vivir con virtud. En la Edad Media, una de las virtudes más importantes era la castidad, entendida no solo como algo personal, sino también como un deber social y religioso. En este ensayo voy a analizar cómo Álvaro de Luna presenta la castidad en su *Libro de las claras e virtuosas mugeres*. Para mi análisis, me enfocaré en tres biografías: Judith, Lucrecia y Santa Margarita. Las he elegido porqué a través de estas mujeres se puede ver cómo la castidad no era solo una cualidad privada, sino también una herramienta política, social y espiritual.
 
 Un buen ejemplo es la historia bíblica de Judith. Ella aparece como una viuda noble, rica y honesta que lleva una vida austera de ayuno y oración. Cuando la ciudad de Betulia está sitiada por el ejército de Holofernes, Judith decide actuar para salvar a su pueblo. Se viste con gran riqueza y entra en el campamento enemigo fingiendo estar de su lado. Holofernes queda impresionado con su belleza e intenta poseerla, pero Judith mantiene su castidad intacta. Aprovecha el momento en que él se emborracha y lo mata cortándole la cabeza. Gracias a este acto, libera a su ciudad. En esta biografía la castidad de Judith no es algo pasivo, sino la condición que le da fuerza para resistir y la base de la valentía con la que salva a su pueblo. Su ejemplo demuestra que la castidad podía ser concebido como un motor de acción, y no simple silencio o pureza pasiva.

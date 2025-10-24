@@ -8,6 +8,8 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 # Proyecto 2: Una fe inquebrantable: Mujeres como modelos espirituales y políticos en la obra de Álvaro de Luna
 
+{{ page.author }}
+
 ![Heatmap](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/heatmap1.png)
 
 La virtud que más me llama la atención en las historias de Álvaro de Luna es la fe. En el contexto del siglo XV, marcado por la violencia política y las tensiones religiosas, la fe se presenta como un elemento vital y fundamental. En el *Libro de las claras e virtuosas mugeres*, Luna destaca la fe inquebrantable de mujeres como Marina, Santa Margarita y Santa Eugenia de Roma. Sus relatos muestran cómo la fe inspiró en ellas el valor necesario para enfrentarse a estructuras patriarcales y jerárquicas propias de su tiempo y convertirse en modelos de confianza en Dios y de conducta moral.
