@@ -6,7 +6,7 @@ date: 2025-10-15
 exercise: "Proyecto 3: Erauso"
 ---
 
-# Proyecto 3: Análisis de los términos religiosos en Vida y sucesos de la Monja Alférez de Catalina de Erauso 
+# Análisis de los términos religiosos en Vida y sucesos de la Monja Alférez de Catalina de Erauso 
 
 {{ page.author }}
 
