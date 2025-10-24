@@ -6,7 +6,7 @@ date: 2025-10-09
 exercise: "Proyecto 3: Erauso"
 ---
 
-# Proyecto 3: Catalina Sangrienta
+# Catalina Sangrienta
 
 {{ page.author }}
 
