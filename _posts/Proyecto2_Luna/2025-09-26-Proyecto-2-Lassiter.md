@@ -19,8 +19,8 @@ Las biografías de Álvaro de Luna ejemplifican las virtudes de mujeres excepcio
 
 En primer lugar, la paciencia se revela como una virtud recurrente, según se observa en la Figura 1, titulada ‘Bar Chart Virtues’, que aparece en veinticuatro bibliografías. Este dato evidencia que la paciencia no constituye un rasgo aislado, sino un elemento repetido que estructura gran parte del discurso sobre la virtud femenina en el siglo XV. 
 
-<figure><img alt="New Plot Img" src="https://i.pinimg.com/originals/2a/17/e9/2a17e9aeb29c2aa4da8a06e34b507c2e.jpg" width="80%" height="80%"/>
-<figcaption>Figura 1</figcaption>
+<figure><img alt="Santa" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png" width="100%" height="100%"/>
+<figcaption>Figura 2: Gráfico de la frecuencia de virtudes</figcaption>
 </figure>
 
 En la biografía de Marina, Álvaro proclama “!¡Oh maravillosa paciencia! No se mostró turbada, no se quejó de que se le hacía injusticia, sino que, con gran humildad, vivió tres años ante la puerta del monasterio” (Álvaro 1446). Tras una acusación injusta y falsa, Marina se mantiene paciente y resiste en la pobreza, sin abandonar su fe ni su esperanza. Incluso a pesar de su profundo sufrimiento personal, no protestó por el trato espantoso que recibió. Asimismo, Álvaro recurre a la figura del romano Mucio como término de comparación para exaltar la paciencia de Marina. Esta analogía no solo subraya la fuerza ejemplar de su virtud, sino que también se inserta en una estrategia discursiva más amplia en la que el autor contrapone a mujeres cristianas con héroes célebres de la Antigüedad. De este modo, Álvaro llega a sostener que la virtud femenina supera la fortaleza masculina en el caso de Marina y las otras mujeres presentadas.
