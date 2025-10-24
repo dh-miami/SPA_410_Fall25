@@ -3,7 +3,7 @@ layout: page
 title: "Ejercio 3 - Markdown Playground by Euge"
 author: "Euge Stumm"
 date: 2025-09-09
-exercise_playground: "Ejercicio 3 - Markdown Playground"
+exercise: "Ejercicio 3 - Markdown Playground"
 ---
 
 # How to Use Markdown

@@ -3,7 +3,7 @@ layout: page
 title: "Introduction to Markdown"
 author: "Patricia Vargas"
 date: 2025-09-08
-exercise_playground: "Ejercicio 3 - Markdown Playground"
+exercise: "Ejercicio 3 - Markdown Playground"
 ---
 
 # Header 1

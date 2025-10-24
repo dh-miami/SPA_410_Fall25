@@ -3,7 +3,7 @@ layout: page
 title: "Introduction to Markdown"
 author: "Skye Mata"
 date: 2025-09-09
-exercise_playground: "Ejercicio 3 - Markdown Playground"
+exercise: "Ejercicio 3 - Markdown Playground"
 ---
 
 # Heading is one hashtag
