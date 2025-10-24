@@ -6,11 +6,11 @@ date: 2025-09-26
 exercise: "Proyecto 2: Alvaro de Luna"
 ---
 
-# Proyecto 2: Una fe inquebrantable: Mujeres como modelos espirituales y políticos en la obra de Álvaro de Luna
+# Una fe inquebrantable: Mujeres como modelos espirituales y políticos en la obra de Álvaro de Luna
 
 {{ page.author }}
 
-<figure><img alt="Heat Map" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/heatmap1.png" width="80%" height="80%">
+<figure><img alt="Heat Map" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/heatmap1.png" width="90%" height="90%">
 <figcaption>Figura 1: Heatmap</figcaption>
 </figure>
 

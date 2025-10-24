@@ -22,7 +22,7 @@ Al comparar estas tres figuras, se ve que la castidad no aparece siempre de la m
 
 La importancia central de esta virtud también se refleja en los datos. Según las visualizaciones del proyecto, la castidad aparece en 28 biografías, más que cualquier otra virtud (Figura 1). Esto significa que Luna no solo narra casos aislados, sino que coloca la castidad como el valor más repetido y destacado en su obra. Al hacerlo, refuerza la idea de que esta virtud debía ser entendida como la base de la identidad femenina, y también como un modelo útil para la política y la religión de su tiempo.
 
-<figure><img alt="New Plot Img" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png" width="95%" height="95%">
+<figure><img alt="New Plot Img" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png" width="100%" height="100%">
 <figcaption>Figura 1</figcaption>
 </figure>
 
