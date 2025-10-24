@@ -19,7 +19,7 @@ Las biografías de Álvaro de Luna ejemplifican las virtudes de mujeres excepcio
 
 En primer lugar, la paciencia se revela como una virtud recurrente, según se observa en la Figura 1, titulada ‘Bar Chart Virtues’, que aparece en veinticuatro bibliografías. Este dato evidencia que la paciencia no constituye un rasgo aislado, sino un elemento repetido que estructura gran parte del discurso sobre la virtud femenina en el siglo XV. 
 
-<figure><img alt="New Plot Img" src="https://i.pinimg.com/originals/2a/17/e9/2a17e9aeb29c2aa4da8a06e34b507c2e.jpg" width=80%" height="80%" style="float:right;"/>
+<figure><img alt="New Plot Img" src="https://i.pinimg.com/originals/2a/17/e9/2a17e9aeb29c2aa4da8a06e34b507c2e.jpg" width="80%" height="80%"/>
 <figcaption>Figura 1</figcaption>
 </figure>
 
