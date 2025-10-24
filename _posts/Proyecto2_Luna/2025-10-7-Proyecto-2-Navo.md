@@ -22,7 +22,7 @@ Por otra parte, la historia de Judith retrata a una mujer casta, pero no a costa
 
 Hoy en día, la sociedad percibe el suicidio como algo terrible que se debe evitar a toda costa. Por eso, existen líneas de ayuda y recursos para apoyar a la gente que considera cometer el acto. Si una mujer virtuosa debe comportarse de una manera moral y buena, una que comete una acción espantosa como el suicidio no puede ser considerada virtuosa en la época actual. Además, en la edad media, el suicidio era considerado un pecado. Por lo tanto, es curioso que estas mujeres, que pecan, seann retratadas como virtuosas por un hombre católico. Según lo veo yo, Judith es el único personaje verdaderamente virtuoso. 
 
-<figure><img alt="New Plot Img" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png" width="90%" height="90%">
+<figure><img alt="New Plot Img" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png" width="100%" height="100%">
 <figcaption>Figura 2: Gráfico de frecuencia de virtudes</figcaption>
 </figure>
 
