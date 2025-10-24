@@ -8,6 +8,8 @@ exercise: "Proyecto 3: Erauso"
 
 # Catalina de Erauso y su relación con la religión
 
+{{ page.author }}
+
 Catalina de Erauso es una figura dinámica y única que tiene una moral cuestionable. En su autobiografía, Erauso construye una identidad ambigua donde la religión funciona como un instrumento de purificación y justificación moral frente a sus actos violentos. A través de la herramienta digital Voyant Tools, es posible visualizar cómo el léxico religioso se distribuye a lo largo del texto, revelando los momentos en que Erauso recurre a la espiritualidad para protegerse. Con Voyant Tools, observamos la aparición de cada palabra y descubrimos el contexto en el que fue utilizada para indicar la agitación interna de Catalina. 
 
 Por otra parte, la autobiografía de Erauso explica la tensión entre los géneros y la diferencia entre las oportunidades de los hombres y las mujeres. Desde su infancia en el convento hasta su vida como soldado, Erauso experimenta una fractura identitaria que desafía las normas de género y las expectativas religiosas de su época. El personaje de Catalina está fracturado en dos géneros y por tanto dos versiones.

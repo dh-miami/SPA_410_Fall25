@@ -8,6 +8,8 @@ exercise: "Proyecto 3: Erauso"
 
 # El lenguaje como medida cuantitativa y cualitativa en la creación de identidad
 
+{{ page.author }}
+
 ![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/clonts_mapaimagen.png) 
 Figura 1: Nube de palabras
 

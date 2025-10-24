@@ -8,6 +8,8 @@ exercise: "Proyecto 3: Erauso"
 
 # La movilidad de Catalina de Erauso: ¿una exploración o una manera de preservar identidad de género?
 
+{{ page.author }}
+
 Catalina de Erauso vivió a principios del siglo XVII como una monja novicia hasta su famosa fuga a la edad de quince años. También conocida como La monja alférez, ella abandonó su vida como una mujer religiosa para vivir como un hombre. *La Vida y sucesos de la Monja Alférez* es una autobiografía en la que Erauso describe sus experiencias que son caracterizadas por la aventura y el caos. Este texto, escrito con las palabras de ella misma, crea la oportunidad de profundizar en el entendimiento de este individuo único. Voyant sirve como una herramienta digital para que en este ensayo pueda hacerse un análisis de los patrones lingüísticos en el texto. El estudio de las palabras escogidas revela detalles sobre la identidad de Erauso; específicamente, voy a usar la herramienta para descubrir qué indica el tema de la movilidad sobre su identidad. ¿Representa una voluntad de preservar su identidad masculina o meramente representa sus aspiraciones de viajar por el mundo?
 
 ![figura1](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/wordcloud.png)
