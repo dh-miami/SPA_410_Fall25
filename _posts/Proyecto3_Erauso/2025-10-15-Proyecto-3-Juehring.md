@@ -12,7 +12,7 @@ exercise: "Proyecto 3: Erauso"
 
 El vocabulario religioso en *Vida y sucesos de la Monja Alférez* ocupa un lugar significativo dentro del texto, revelando no solo la formación cultural y moral de su autora, sino también la tensión entre religión y transgresión que caracteriza la vida de Catalina de Erauso. Los términos identificados —Dios, iglesia, convento, santo, San, Pedro, Francisco, obispo, ilustrísima, hábito— y sus frecuencias variables (entre 14 y 22 apariciones cada uno) permiten observar cómo la protagonista se mueve constantemente dentro y fuera de los espacios del poder religioso, tanto física como simbólicamente.
 
-<figure><img alt="Términos religiosos" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/ErausoImagen_Juehring.png" width="80%" height="80%">
+<figure><img alt="Términos religiosos" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/ErausoImagen_Juehring.png" width="90%" height="90%">
 <figcaption>Figura 1: Frecuencia de los términos religiosos</figcaption>
 </figure>
 
