@@ -12,7 +12,7 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 En el *Libro de las claras e virtuosas mugeres* de Álvaro de Luna, me llama la atención la importancia y la representación de la noción de “castidad” y cómo se utiliza para limitar el poder de las mujeres heróicas. Se dice que la intención de Luna era representar una forma de rechazo de la literatura misógina del siglo XV y lo consiguió mediante el uso de elementos progresistas en sus biografías como la representación de mujeres virtuosas. Mientras que algunos consideran su obra como feminista, pienso que el énfasis en la castidad fue utilizado para proteger los sistemas de poder como el patriarcado y la jerarquía socioeconómica, al poner el valor de la mujer en su sexualidad y permitir a los hombres el poder de tomar una parte de las mujeres con o sin su consentimiento. Es interesante cómo las figuras de Susana, Lucrecia y Santa Eugenia son utilizadas para otorgarles un poder superficial que, en última instancia, sirve como herramienta para apoyar las jerarquías de poder como la clase socioeconómica y el patriarcado.
 
-<figure><img alt="New Plot Img" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png" width="90%" height="90%">
+<figure><img alt="New Plot Img" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png" width="95%" height="95%">
 <figcaption>Figura 1</figcaption>
 </figure>
 

@@ -6,7 +6,7 @@ date: 2025-09-25
 exercise: "Proyecto 2: Alvaro de Luna"
 ---
 
-# Proyecto 2: La virtud femenina como construcción política en Álvaro de Luna
+# La virtud femenina como construcción política en Álvaro de Luna
 
 {{ page.author }}
 
