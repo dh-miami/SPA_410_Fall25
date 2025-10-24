@@ -10,9 +10,7 @@ exercise: "Proyecto 2: Alvaro de Luna"
 
 {{ page.author }}
 
-![imagen](https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/heatmap1.png)
-
-<figure><img alt="Heatmap" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/heatmap1.png" width="70%" height="70%"/>
+<figure><img alt="Heatmap" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/heatmap1.png" width="90%" height="90%"/>
 <figcaption>Figura 1</figcaption>
 </figure>
 
