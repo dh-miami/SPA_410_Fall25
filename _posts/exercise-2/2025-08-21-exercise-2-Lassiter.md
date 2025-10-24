@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cultures of Knowldge"
+title: "Analisis de un proyecto DH: Cultures of Knowldge"
 author: "Lauren Lassiter"
 date: 2025-08-21
 exercise: "Ejercicio 2 Proyecto HD - Exercise 2 DH Project"
