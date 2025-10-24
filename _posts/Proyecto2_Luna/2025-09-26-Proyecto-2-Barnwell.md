@@ -23,7 +23,7 @@ Al comparar estas tres figuras, se ve que la castidad no aparece siempre de la m
 La importancia central de esta virtud también se refleja en los datos. Según las visualizaciones del proyecto, la castidad aparece en 28 biografías, más que cualquier otra virtud (Figura 1). Esto significa que Luna no solo narra casos aislados, sino que coloca la castidad como el valor más repetido y destacado en su obra. Al hacerlo, refuerza la idea de que esta virtud debía ser entendida como la base de la identidad femenina, y también como un modelo útil para la política y la religión de su tiempo.
 
 <figure><img alt="New Plot Img" src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/newplot.png" width="100%" height="100%">
-<figcaption>Figura 1</figcaption>
+<figcaption>Figura 1: Gráfico de la frecuencia de virtudes</figcaption>
 </figure>
 
 Aunque parece una virtud privada, la castidad cumple también un papel político y simbólico. Judith salva a su ciudad gracias a su pureza, Lucrecia da origen a una república al defender su castidad hasta la muerte, y Margarita refuerza la fe cristiana al mantener su virginidad frente al poder terrenal. Álvaro de Luna escribió este libro en un momento en el que su poder estaba en riesgo, y al elogiar a estas mujeres castas buscaba proyectar una imagen de sí mismo como hombre justo y fiel. En su obra, la castidad no es un simple rasgo moral, sino un ejemplo de acción y de transformación para la comunidad.
