@@ -15,6 +15,10 @@ An bilingual edition of the text can be found in the Richter library: Manzano, J
 
 The text is available online in other many editions. Ebook Centrat at UM has a digital edition: Manzano, Juan Francisco., and William Luis. *Autobiografía del esclavo poeta y otros escritos*. Iberoamericana Editorial Vervuert, 2007. ProQuest Ebook Central, <http://ebookcentral.proquest.com/lib/miami/detail.action?docID=6274002>.
 
+## Timeline
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTOHkUNqLY_j-leSzOFSDZ_sqhTs9gIuDmuG5AAC4tjCR9J3mhPtTjNcSh3o3b9rccyAbRbEof4pC1b&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 
 ## Resources 
 
