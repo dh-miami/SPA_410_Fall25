@@ -6,6 +6,7 @@ permalink: /class-20.html
 ---
 ## Class 19 - Juan Francisco Manzano
 
+- [Presentación sobre Juan Francisco Manzano](https://docs.google.com/presentation/d/17A5IyYW90uROUAd-vqz2W946vqf-vwiTHaOCOUnM0HM/edit?slide=id.g39dcb153a14_0_153#slide=id.g39dcb153a14_0_153). 
 - Juan Francisco Manzano, [*Autobiografía Del Esclavo Poeta y Otros Escritos
 Juan Francisco*](https://ebookcentral.proquest.com/lib/miami/reader.action?docID=6274002&ppg=7&c=UERG). Ed. William Luis.  Iberoamericana Editorial Vervuert, 2007 (2a ed. 2016). 
 - Lectura páginas: p. 83-95
