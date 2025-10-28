@@ -6,6 +6,6 @@ date: 2025-10-28
 exercise: "Proyecto 4: Guaman Poma"
 ---
 
-# Cómo se compara Hawk y Puma con la escena de los videojuegos de hoy en día.
+# Cómo se compara *Hawk y Puma* con la escena de los videojuegos de hoy en día.
 
-{{ page.author }}
+
