@@ -8,4 +8,4 @@ exercise: "Proyecto 4: Guaman Poma"
 
 # Cómo se compara *Hawk y Puma* con la escena de los videojuegos de hoy en día.
 
-![Venn Diagram](Link Here)
+![Venn Diagram](assets/img/VENN_DIAGRAM_MATA.pdf)
