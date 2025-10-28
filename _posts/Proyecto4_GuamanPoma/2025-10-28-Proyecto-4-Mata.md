@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Cómo se compara *Hawk y Puma* con la escena de los videojuegos de hoy en día."
+title: "Cómo se compara *Hawk y Puma* con los videojuegos modernos"
 author: "Skye Mata"
 date: 2025-10-28
 exercise: "Proyecto 4: Guaman Poma"
 ---
 
-# Cómo se compara *Hawk y Puma* con la escena de los videojuegos de hoy en día.
+# Cómo se compara *Hawk y Puma* con los videojuegos modernos
 
 ![Venn Diagram](https://github.com/dh-miami/SPA_410_Fall25/blob/main/assets/img/MATA_DIAGRAM.png?raw=true)
 
