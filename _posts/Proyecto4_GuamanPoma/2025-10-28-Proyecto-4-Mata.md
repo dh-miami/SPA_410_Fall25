@@ -10,4 +10,6 @@ exercise: "Proyecto 4: Guaman Poma"
 
 ![Venn Diagram](https://github.com/dh-miami/SPA_410_Fall25/blob/main/assets/img/MATA_DIAGRAM.png?raw=true)
 
+![Hawk and Puma](https://github.com/dh-miami/SPA_410_Fall25/blob/main/assets/img/MATA_HAWK_AND_PUMA.jpg?raw=true)
+
 ![Fireboy and Watergirl](https://github.com/dh-miami/SPA_410_Fall25/blob/main/assets/img/FIREBOY_AND_WATERGIRL.png?raw=true)
