@@ -5,22 +5,24 @@ permalink: /juanfranciscomanzano.html
 ---
 # Juan Francisco Manzano, *Autobiografía de un esclavo* (1839)
 
-Juan Francisco Manzano (1797–1854) is a unique and powerful voice from 19th-century Cuba and the only known autobiography of an enslaved person written in Spanish from the colonial period. Born into slavery in Havana, Manzano learned to read and write under extraordinary circumstances and became a poet. His *Autobiografía de un esclavo* (1839) is a heart-breaking and eloquent account of life under slavery, told not by an outsider or historian, but by the enslaved person himself.
+Juan Francisco Manzano (1797–1854) es una voz única en la Cuba del siglo XIX, y su *Autobiografía de un esclavo* (1839) es la única autobiografía conocida escrita en español por una persona esclavizada durante el periodo colonial. Nacido en la esclavitud en La Habana, Manzano aprendió a leer y escribir en circunstancias extraordinarias y llegó a convertirse en poeta. Su *Autobiografía* es un relato desgarrador y elocuente que da cuenta de la crueldad y las complejas relaciones humanas.
 
-In our course, we will study this text both through close reading and computational analysis. Using GPT4All, a locally run large language model (LLM), we will experiment with the approaches known as Retrieval-Augmented Generation (RAG), to analyze how AI retrieves and generates responses based on the input prompt and reference text. This hands-on activity will allow us to reflect critically on how we interact with historical texts through artificial intelligence: How does prompting shape the information we get? What kinds of answers do LLMs retrieve when asked about pain, memory, resistance, or freedom in this context?
+Mientras que en inglés contamos con varios relatos en primera persona de individuos que fueron esclavizados (Frederick Douglass, Harriet Jacobs y Olaudah Equiano, entre otros), Manzano representa un caso singular en la tradición hispana. Por ello, y para enriquecer nuestra comprensión, leeremos atentamente el texto de Manzano e intentaremos reconstruir su vida a través de una cronología.
 
-While in the English-speaking world we have several first-person narratives by formerly enslaved individuals (Frederick Douglass, Harriet Jacobs, and Olaudah Equiano among others), Manzano stands alone in the Spanish tradition. Therefore, to further enrich our understanding, we will compare Manzano’s autobiography with some of these English-language narratives, in order to explore the potential and limits of digital tools in recovering, interpreting, and amplifying marginalized voices.
+Una edición bilingue del texto puede encontrarse en la biblioteca Richter: Manzano, Juan Francisco. *The Autobiography of a Slave = Autobiografía de Un Esclavo*. Bilingual ed., Wayne State University Press, 1996.
 
-An bilingual edition of the text can be found in the Richter library: Manzano, Juan Francisco. *The Autobiography of a Slave = Autobiografía de Un Esclavo*. Bilingual ed., Wayne State University Press, 1996.
+El texto también está disponible en otras ediciones. Para nuestro ejercicio usaremos: Manzano, Juan Francisco., and William Luis. *Autobiografía del esclavo poeta y otros escritos*. Iberoamericana Editorial Vervuert, 2007. ProQuest Ebook Central, <http://ebookcentral.proquest.com/lib/miami/detail.action?docID=6274002> (Ebook Centrat at UM). 
 
-The text is available online in other many editions. Ebook Centrat at UM has a digital edition: Manzano, Juan Francisco., and William Luis. *Autobiografía del esclavo poeta y otros escritos*. Iberoamericana Editorial Vervuert, 2007. ProQuest Ebook Central, <http://ebookcentral.proquest.com/lib/miami/detail.action?docID=6274002>.
+## Espacio de trabajo 
 
-## Timeline
+Cada estudiante debe incluir al menos 5 entradas de aproximadamente de aproximadamente 100 palabras: <https://docs.google.com/spreadsheets/d/1H2_Xk3yE1jlzN-5PYeJOOO25FcUmfu0LmMEK5WHjUnQ/edit?usp=sharing> 
+
+## Línea del tiempo
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTOHkUNqLY_j-leSzOFSDZ_sqhTs9gIuDmuG5AAC4tjCR9J3mhPtTjNcSh3o3b9rccyAbRbEof4pC1b&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-## Resources 
+## Recursos 
 
 - "[Juan Francisco Manzano](https://es.wikipedia.org/wiki/Juan_Francisco_Manzano)" (Wikipedia)
 - "[Autobiografía de un esclavo](https://es.wikipedia.org/wiki/Autobiograf%C3%ADa_de_un_esclavo)" (Wikipedia)
