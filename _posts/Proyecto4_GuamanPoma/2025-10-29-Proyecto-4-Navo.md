@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Si Guaman Poma hubiera tenido acceso a las herramientas estadísticas"
+author: "Leanna Navo"
 date: 2025-10-29
 exercise: "Proyecto 4: Guaman Poma"
 ---
