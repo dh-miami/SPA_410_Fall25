@@ -1,7 +1,7 @@
 ---
 layout: page
-title: “La evolución del gobierno como una bestia"
-author: “Remi Clonts”
+title: "La evolución del gobierno como una bestia"
+author: "Remi Clonts"
 date: 2025-10-30
 exercise: "Proyecto 4: Guaman Poma"
 ---
