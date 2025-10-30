@@ -8,5 +8,5 @@ permalink: /class-21.html
 
 ## For next class
 - Review the [instructions for the final project](https://dh-miami.github.io/SPA_410_Fall25/instructions_final_project.html)
-- 
+- Read Glória Anzaldúa's *Borderlands/La Frontera* (chapter 1)
 
