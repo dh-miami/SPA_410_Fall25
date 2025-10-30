@@ -5,6 +5,8 @@ author: "Lauren Barnwell"
 date: 2025-10-30
 exercise: "Proyecto 4: Guaman Poma"
 ---
+# Guaman Poma y su diario
+
 Junio 1545
 
 Hoy llegaron hombres nuevos a nuestras tierras. Dicen venir de un lugar muy lejano llamado España. Traen ropas brillantes, animales enormes que llaman caballos y una fe diferente. Parecen amables y hablan de un solo Dios. Mi gente los mira con curiosidad y algo de miedo, pues nunca habíamos visto cosas así. Dicen que su rey gobierna todo el mundo y que su religión es la única verdadera. Yo no entiendo cómo puede haber un solo camino hacia el cielo, pero me emociona conocer lo que hay más allá de nuestras montañas.
@@ -38,7 +40,6 @@ Marzo 1615
 Hoy terminé mi gran libro: “El primer nueva corónica y buen gobierno.” Lo escribí para el rey Felipe III, con la esperanza de que escuche a los pueblos indígenas y haga justicia. En sus páginas he puesto palabras, oraciones y dibujos para mostrar nuestra historia y nuestro dolor. Tal vez nunca lea mis palabras, pero las dejo para el futuro. Es mi manera de hablar por los que no pueden. “Yo, Felipe Guamán Poma de Ayala, escribo por mi gente,” y aunque mi voz se pierda en el viento, creo que un día será escuchada.
 
 
-# Guaman Poma y su diario
 
 
 
