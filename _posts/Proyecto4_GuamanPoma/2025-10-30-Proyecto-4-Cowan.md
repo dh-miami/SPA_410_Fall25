@@ -29,6 +29,4 @@ Así se mantiene el orden, dicen.
 El buen gobierno no se mide por el número de leyes, sino por cuántos hombres duermen sin miedo.
 #JusticiaReal
 
-![Imagen 1]()
-
  <img src="https://americanindian.si.edu/inkaroad/engineering/sites/default/files/media_root/q3-eng/images/Chaka-camayuc-(0358).jpg" alt="Chaka-camayuc" width="80%" height="80%"> 
