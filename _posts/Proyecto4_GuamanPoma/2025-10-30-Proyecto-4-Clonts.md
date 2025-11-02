@@ -8,7 +8,7 @@ exercise: "Proyecto 4: Guaman Poma"
 
 # La evolución del gobierno como una bestia
 
- <img src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/imagen4remi.pn" alt="Guaman_Leon" width="70%" height="70%"> 
+ <img src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/imagen4remi.png" alt="Guaman_Leon" width="70%" height="70%"> 
 
 ## La historia: La importancia de los kurakas en el Imperio inca y la emergencia de los encomenderos y su significado
 
