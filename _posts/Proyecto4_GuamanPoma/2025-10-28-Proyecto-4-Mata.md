@@ -8,7 +8,7 @@ exercise: "Proyecto 4: Guaman Poma"
 
 # Cómo se compara *Hawk y Puma* con los videojuegos modernos
 
-<span style="color:red">Contexto del ensayo...</span>
+<span style="color:red;">Contexto del ensayo...</span>
 
 ![Venn Diagram](https://github.com/dh-miami/SPA_410_Fall25/blob/main/assets/img/MATA_DIAGRAM.png?raw=true)
 
