@@ -8,8 +8,9 @@ exercise: "Proyecto 4: Guaman Poma"
 
 # Guaman Poma via Twitter
 
-La corrupción es increíble
-Si yo fuera el rey, cambiaría algunas cositas…
+<span style="color:red;">Contexto del ensayo...</span>
+
+**Tweet 1:** La corrupción es increíble. Si yo fuera el rey, cambiaría algunas cositas…
 
 El corregidor llegó tarde, cobró doble y dijo que era “por el bien del reino”.
 Yo digo: buen gobierno empieza con puntualidad.
@@ -28,4 +29,6 @@ Así se mantiene el orden, dicen.
 El buen gobierno no se mide por el número de leyes, sino por cuántos hombres duermen sin miedo.
 #JusticiaReal
 
-![Imagen 1](https://americanindian.si.edu/inkaroad/engineering/sites/default/files/media_root/q3-eng/images/Chaka-camayuc-(0358).jpg)
+![Imagen 1]()
+
+ <img src="https://americanindian.si.edu/inkaroad/engineering/sites/default/files/media_root/q3-eng/images/Chaka-camayuc-(0358).jpg" alt="Chaka-camayuc" width="80%" height="80%"> 
