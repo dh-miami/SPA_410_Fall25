@@ -1,4 +1,4 @@
----
+.---
 layout: page
 title: "¿Cómo hubiera sido el diario personal de Guaman Poma?"
 author: "Lauren Barnwell"
@@ -7,7 +7,8 @@ exercise: "Proyecto 4: Guaman Poma"
 ---
 # ¿Cómo hubiera sido el diario personal de Guaman Poma?
 
-<span style="color:red;">Contexto del ensayo...</span>
+#Para este proyecto, se nos dio la libertad de crear algo personal e interpretativo, y yo elegí imaginar un diario escrito desde la perspectiva de Felipe Guamán Poma de Ayala, un cronista indígena del siglo XVI. A través de estas entradas, quise mostrar cómo la llegada de los españoles al Perú pudo sentirse en la vida cotidiana: al principio con curiosidad y esperanza, y luego con confusión, injusticia y dolor. Me inspiré en su obra El primer nueva corónica y buen gobierno para capturar su voz y su mirada hacia el cambio, la pérdida y la resistencia. Este diario busca dar vida a su historia desde un punto de vista más íntimo y humano, como si Guamán Poma nos hablara directamente desde su tiempo.
+
 
 ## Junio 1545
 
@@ -19,7 +20,7 @@ Han pasado algunos años y los españoles siguen construyendo casas y templos en
 
 ## Agosto 1560
 
-Ya no es como antes. Los españoles mandan mucho y nos obligan a trabajar para ellos. Nuestros templos están cubiertos por sus iglesias, y nuestras fiestas son llamadas pecado. Dicen que todos somos hijos de Dios, pero solo ellos mandan y castigan. Algunos curas hablan de amor, pero otros usan la cruz como látigo. Las familias se separan para servir en distintos pueblos y los hombres más fuertes son enviados a las minas. Cuando miro el cielo por la noche, le pido al sol que no se olvide de nosotros.
+Ya no es como antes. Los españoles mandan mucho y nos obligan a trabajar para ellos. Nuestros templos están cubiertos por sus iglesias, y nuestras fiestas son consideradas pecado. Dicen que todos somos hijos de Dios, pero solo ellos mandan y castigan. Algunos curas hablan de amor, pero otros usan la cruz como látigo. Las familias se separan para servir en distintos pueblos y los hombres más fuertes son enviados a las minas. Cuando miro el cielo por la noche, le pido al sol que no se olvide de nosotros.
 
 ## Abril 1570
 
@@ -27,7 +28,7 @@ Hoy vino el corregidor con soldados. Pidieron tributo y llevaron parte de nuestr
 
 ## Junio 1580
 
-He visto mucho sufrimiento en estos años. Los hombres trabajan en las minas y las mujeres sirven en las casas de los amos. Muchos mueren cansados o enfermos, y los que sobreviven apenas pueden mantener a sus familias. Los frailes dicen que esto es voluntad de Dios, pero yo no lo creo. ¿Cómo puede un Dios justo permitir tanto dolor? Escribo lo que veo para que el rey sepa la verdad y entienda nuestro sufrimiento. A veces pienso que mis palabras no llegarán lejos, pero igual las guardo en mi corazón, porque la memoria también es una forma de resistencia.
+He visto mucho sufrimiento en estos años. Los hombres trabajan en las minas y las mujeres sirven en las casas de los amos. Muchos mueren cansados o enfermos, y los que sobreviven apenas pueden mantener a sus familias. Los frailes dicen que esta es la voluntad de Dios, pero yo no lo creo. ¿Cómo puede un Dios justo permitir tanto dolor? Escribo lo que veo para que el rey sepa la verdad y entienda nuestro sufrimiento. A veces pienso que mis palabras no llegarán lejos, pero igual las guardo en mi corazón, porque la memoria también es una forma de resistencia.
 
 ## Mayo 1590
 
@@ -39,7 +40,7 @@ He viajado por muchas tierras del Perú. He visto pueblos destruidos, iglesias l
 
 ## Marzo 1615
 
-Hoy terminé mi gran libro: “El primer nueva corónica y buen gobierno.” Lo escribí para el rey Felipe III, con la esperanza de que escuche a los pueblos indígenas y haga justicia. En sus páginas he puesto palabras, oraciones y dibujos para mostrar nuestra historia y nuestro dolor. Tal vez nunca lea mis palabras, pero las dejo para el futuro. Es mi manera de hablar por los que no pueden. “Yo, Felipe Guamán Poma de Ayala, escribo por mi gente,” y aunque mi voz se pierda en el viento, creo que un día será escuchada.
+Hoy terminé mi gran libro: *El primer nueva corónica y buen gobierno.* Lo escribí para el rey Felipe III, con la esperanza de que escuche a los pueblos indígenas y haga justicia. En sus páginas he puesto palabras, oraciones y dibujos para mostrar nuestra historia y nuestro dolor. Tal vez nunca lea mis palabras, pero las dejo para el futuro. Es mi manera de hablar por los que no pueden. “Yo, Felipe Guamán Poma de Ayala, escribo por mi gente,” y aunque mi voz se pierda en el viento, creo que un día será escuchada.
 
 
 
