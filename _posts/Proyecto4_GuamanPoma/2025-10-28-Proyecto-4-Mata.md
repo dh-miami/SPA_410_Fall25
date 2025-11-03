@@ -10,7 +10,7 @@ exercise: "Proyecto 4: Guaman Poma"
 
 Para el Proyecto 4 sobre Felipe Guamán Poma, teníamos la libertad de llevar a cabo un ensayo breve creativo. Tras darle algunas vueltas, he decidido comparar dos videojuegos, [Hawk y Puma](https://nieblagames.itch.io/hawk-and-puma) y [Fireboy y Watergirl](https://www.coolmathgames.com/0-fireboy-and-water-girl-in-the-forest-temple).
 
-![Venn Diagram](https://github.com/dh-miami/SPA_410_Fall25/blob/main/assets/img/MATA_DIAGRAM.png?raw=true)
+![Venn Diagram](https://github.com/dh-miami/SPA_410_Fall25/blob/main/assets/img/MATA_VENN_DIAGRAM_THISONE.png?raw=true)
 
 En el diagrama de Venn anterior, podemos observar varias similitudes y diferencias que he identificado entre los videojuegos *Hawk y Puma* y *Fireboy y Watergirl*. Inmediatamente después de abrir el juego dando homenaje a Guamán Poma, sentí que una ola de nostalgia venía sobre mí. Aunque nunca había jugado al juego, los gráficos y básicos de *Hawk y Puma* me recordaron a *Fireboy y Watergirl*, un juego que surgió durante mi adolescencia al principio del siglo XXI. Este sentimiento nostálgico fue la inspiración para que mi proyecto se centrará en una comparación entre los dos videojuegos, pero mientras continuaba contemplando esta idea, me di cuenta de varias conexiones que explicaré en esta breve entrada. 
 
