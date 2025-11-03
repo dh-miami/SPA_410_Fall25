@@ -8,7 +8,7 @@ exercise: "Proyecto 4: Guaman Poma"
 
 # Cómo se compara *Hawk y Puma* con los videojuegos modernos
 
-<span style="color:red;">Contexto del ensayo...</span>
+Para el Proyecto 4 sobre Felipe Guamán Poma, teníamos la libertad de llevar a cabo un ensayo breve creativo. Tras darle algunas vueltas, he decidido comparar dos videojuegos, Hawk y Puma y Fireboy y Watergirl.
 
 ![Venn Diagram](https://github.com/dh-miami/SPA_410_Fall25/blob/main/assets/img/MATA_DIAGRAM.png?raw=true)
 
