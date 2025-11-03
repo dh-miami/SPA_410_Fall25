@@ -12,7 +12,7 @@ Para este proyecto, se nos dio la libertad de crear algo personal e interpretati
 
 ## Junio 1545
 
-Hoy llegaron hombres nuevos a nuestras tierras. Dicen venir de un lugar muy lejano llamado España. Traen ropas brillantes, animales enormes que llaman caballos y una fe diferente. Parecen amables y hablan de un solo Dios. Mi gente los mira con curiosidad y algo de miedo, pues nunca habíamos visto cosas así. Dicen que su rey gobierna todo el mundo y que su religión es la única verdadera. Yo no entiendo cómo puede haber un solo camino hacia el cielo, pero me emociona conocer lo que hay más allá de nuestras montañas.
+No vi llegar a los españoles por primera vez, pero desde que tengo memoria ellos han estado aquí. Crecí viendo sus casas grandes, sus ropas brillantes y sus costumbres tan distintas a las nuestras. Hablan de un solo Dios y de un rey que vive muy lejos, en una tierra llamada España. Mi madre dice que antes todo era diferente, que el Inca gobernaba con justicia y que el pueblo vivía en paz. A veces escucho esas historias y trato de imaginar cómo era nuestro mundo antes de ellos. Aunque no los vi llegar, siento que su presencia cambió todo lo que conocíamos.
 
 ## Febrero 1550
 
