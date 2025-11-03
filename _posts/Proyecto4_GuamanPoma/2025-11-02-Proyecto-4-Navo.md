@@ -12,7 +12,7 @@ Guaman Poma era un hombre de sangre quechua y fe cristiana que vivío a finales 
 
 Uno de los puntos de fascinación de su obra es su técnica literaria; apela a la lógica y la religión, ninguna de las cuales podía negar el rey Felipe III. Revela la hipocresía de los colonizadores y sus fracasos de mantener la integridad cristiana. Si Guaman Poma hubiera vivido en la edad moderna, creo que hubiera recogido y presentado los datos como un medio para defender sus argumentos frente a la ironía e hipocresía de los españoles. Para este ejercicio, he concebido una serie de visualizaciones que Guamán hubiera podido incluir en su crónica. Obviamente, los datos que ofrezco son inventados ya que no se conocen los verdaderos, pero me ha parecido un ejercicio elocuente.
 
- <img src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/curas1.png" alt="Curas1" width="70%" height="70%"> 
+ <img src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/cura2.png" alt="Cura2" width="70%" height="70%"> 
 
 Esta visualización es una referencia a la sección ‘Los malos curas” en la que Guaman Poma pone al descubierto la desobediencia de los curas del Perú. Aunque estaban obligados a abstenerse de las relaciones sexuales, no solo desobedecían esa regla, sino también rompían otra regla en el proceso: relacionarse con las prostitutas. Los colonizadores estaban supuestamente en una misión de cristianización, pero sus violaciones de la doctrina cristiana probaban la ilegitimidad de su misión "puramente evangélica" y la existencia de motivos corruptos. 
 
