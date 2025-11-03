@@ -40,7 +40,7 @@ He viajado por muchas tierras del Perú. He visto pueblos destruidos, iglesias l
 
 ## Marzo 1615
 
-Hoy terminé mi gran libro: *El primer nueva corónica y buen gobierno.* Lo escribí para el rey Felipe III, con la esperanza de que escuche a los pueblos indígenas y haga justicia. En sus páginas he puesto palabras, oraciones y dibujos para mostrar nuestra historia y nuestro dolor. Tal vez nunca lea mis palabras, pero las dejo para el futuro. Es mi manera de hablar por los que no pueden. “Yo, Felipe Guamán Poma de Ayala, escribo por mi gente,” y aunque mi voz se pierda en el viento, creo que un día será escuchada.
+Hoy terminé mi gran libro: *El primer nueva corónica y buen gobierno* Lo escribí para el rey Felipe III, con la esperanza de que escuche a los pueblos indígenas y haga justicia. En sus páginas he puesto palabras, oraciones y dibujos para mostrar nuestra historia y nuestro dolor. Tal vez nunca lea mis palabras, pero las dejo para el futuro. Es mi manera de hablar por los que no pueden. “Yo, Felipe Guamán Poma de Ayala, escribo por mi gente,” y aunque mi voz se pierda en el viento, creo que un día será escuchada.
 
 
 
