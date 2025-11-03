@@ -13,7 +13,8 @@ As a [Chicana](https://en.wikipedia.org/wiki/Chicano), Anzaldúa challenged the 
 
 Considering the temporal and geographical proximity of Anzaldúa's work, and the linguistic challenges from her writing that are proper to a bilingual class, our final project will examine *Borderlands/La Frontera* to develop a Companion Reader. [Instruction for the final project are available here.](https://dh-miami.github.io/SPA_410_Fall25/instructions_final_project.html) 
 
-## Enlace para editar la hoja de cálculo: [https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing)
+## Enlace para editar la hoja de cálculo
+[https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing)
 
 ## StoryMap - Chapter 1 - Borderlands/La Frontera
 
