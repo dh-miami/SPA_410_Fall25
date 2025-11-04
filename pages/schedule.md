@@ -49,7 +49,7 @@ Download [syllabus and schedule in PDF](https://github.com/dh-miami/SPA_410_Fall
 | **Th., Oct. 30  ([21](https://dh-miami.github.io/SPA_410_Fall25/class-21.html))** | **Juan Francisco Manzano, *Autobiografía de un esclavo* (1839) (2)** Exploring questions via GPT4All.  Other 19th c. narratives of enslaved people.  **For next class:** Finish timeline. |  Timeline.JS on Manzano's life.   |
 | **Part III: Contemporary voices**  |  |  |
 | **Week 12**  |  |  |
-| **Tu., Nov. 4  (22)**  | **Gloria Anzaldua (1)** Intro to Anzaldúa’s context, life and work. Close Reading of chapter 1 . Organization of groups and topics - How to put in place a collaborative project . **For next class**: Read Chapter 2.   |  Set up spreadsheets for StoryMaps with Leaflet. |
+| **Tu., Nov. 4  ([22](https://dh-miami.github.io/SPA_410_Fall25/class-22.html))**  | **Gloria Anzaldua (1)** Intro to Anzaldúa’s context, life and work. Close Reading of chapter 1 . Organization of groups and topics - How to put in place a collaborative project . **For next class**: Read Chapter 2.   |  Set up spreadsheets for StoryMaps with Leaflet. |
 | **Th., Nov. 6 (23)** | **Gloria Anzaldua (2)** Discussion and Annotation of Chapter 2. Group 1 guides discussion for chapter 2. Groups 2 and 3 will prepare questions to assist Group 1 **For next class:** Read Chapter 3\.  |  Input spreadsheets for StoryMaps with Leaflet. |
 | **Week 13**  |  |  |
 | **Tu., Nov. 11 (24)** | **Gloria Anzaldua (3)** Discussion of Chapter 3. Group 2 will guide discussion for chapter 3. Groups 1 and 3 will prepare questions to assist Group 2 **For next class:** Read Chapter 5\.  |  Input spreadsheets for StoryMaps with Leaflet |
