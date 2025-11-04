@@ -6,7 +6,7 @@ date: 2025-10-30
 exercise: "Proyecto 4: Guaman Poma"
 ---
 
- #**La bestia como alegoría del mal gobierno**
+ **La bestia como alegoría del mal gobierno**
 
  <img src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/imagen4remi.png" alt="Guaman_Leon" width="70%" height="70%"> 
 
