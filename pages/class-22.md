@@ -14,6 +14,11 @@ permalink: /class-22.html
 - Leer el primer capítulo de *Borderlands/La Frontera* (“La patria, Aztlán”, pp. 39–54). La lectura está en nuestro Blackboard, en “Course Documents”. Leeremos este capítulo en clase.
 - Completar la hoja de cálculo con los conceptos y las ubicaciones centrales para comprender el capítulo: [https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing)
 
+## Sobre los capítulos
+- Capítulo 2 (Grupo 1): Anzaldúa discute sobre género y sexualidad (por ejemplo, *homephobia vis-à-vis* homofobia).
+- Capítulo 3 (Grupo 2): Anzaldúa profundiza en la discusión sobre las identidades híbridas, especialmente a través del concepto de *la facultad*.
+- Capítulo 5 (Grupo 3): Anzaldúa trata el tema del lenguaje y la asimilación (literalmente, el capítulo se titula “Cómo domar una lengua salvaje”).
+
 ## Sobre Gloria Anzaldúa
 
 Gloria Anzaldúa fue poeta, escritora, académica y activista. También fue una mujer de color, chicana y *queer*, categorías que para Anzaldúa sirven como puntos de partida para reflexionar sobre las fronteras. En su vida, las fronteras no son únicamente geográficas o geopolíticas: también se manifiestan como fronteras de género, raza, sexualidad y lenguaje. La escritura de Anzaldúa es pionera al poner tales categorías como elementos productivos para su pensamiento.
