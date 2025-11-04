@@ -16,8 +16,11 @@ permalink: /class-22.html
 
 ## Sobre los capítulos
 - Capítulo 2 (Grupo 1): Anzaldúa discute sobre género y sexualidad (por ejemplo, *homephobia vis-à-vis* homofobia).
+  - Remy, Ruthi, Michelle
 - Capítulo 3 (Grupo 2): Anzaldúa profundiza en la discusión sobre las identidades híbridas, especialmente a través del concepto de *la facultad*.
-- Capítulo 5 (Grupo 3): Anzaldúa trata el tema del lenguaje y la asimilación (literalmente, el capítulo se titula “Cómo domar una lengua salvaje”).
+  - Lauren B., Skye, Leanna
+- Capítulo 5 (Grupo 3): Anzaldúa trata el tema del lenguaje y la asimilación (literalmente, el capítulo se titula “Cómo domar una lengua salvaje”).  
+  - Alana, Alexa, Lauren L. 
 
 ## Sobre Gloria Anzaldúa
 
