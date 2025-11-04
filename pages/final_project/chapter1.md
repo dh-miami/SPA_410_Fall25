@@ -1,7 +1,10 @@
 ---
-title: Chapter 1
+title: Capítulo 1
 layout: page
 permalink: /chapter1.html
 ---
 
-# Chapter 1
+# Capítulo 1
+
+## Preguntas sobre el capítulo 
+- ¿Cuál es la relación entre *homephobia* y homofobia? (Euge)
