@@ -18,7 +18,7 @@ permalink: /class-21.html
 Gloria Anzaldúa es una poeta, escritora, académica y activista. También es una mujer de color, chicana y *queer*, categorías que sirven para Anzaldúa como puntos de partida para su reflexión sobre las fronteras. En la vida de Anzaldúa, las fronteras no son solamente geográficas o geopolíticas. Las fronteras también aparecen en la forma de fronteras de género, de raza, de sexualidade, de lenguaje. La escritura de Anzaldúa es pionera al poner tales categorías como elementos productivos para su pensamiento. 
 
 ## Anzaldúa y el pensamiento feminista de color de los años 1980
-### 1982 - *Todos los negros son hombres, todas las mujeres son blancas, pero algunes de nosotres somos valientes.* Editado por Akasha Gloria Hull, Patricia Bell-Scott y Barbara Smith
+### 1982 - *Todas las mujeres son blancas, todos los negros son hombres, pero algunes de nosotres somos valientes.* Editado por Akasha Gloria Hull, Patricia Bell-Scott y Barbara Smith
 ![Todos los negros son hombres, todas las mujeres son blancas, pero algunes de nosotres somos valientes. ](https://upload.wikimedia.org/wikipedia/en/4/41/All_the_Women_Are_White%2C_All_the_Blacks_Are_Men%2C_But_Some_of_Us_Are_Brave.jpg)
 
 ### 1983 - "No hay jerarquía de opresiones", de Audre Lorde
