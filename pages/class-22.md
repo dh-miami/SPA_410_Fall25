@@ -43,7 +43,7 @@ Editado por Akasha Gloria Hull, Patricia Bell-Scott y Barbara Smith
 * Texto pionero en los estudios del feminismo chicano y del pensamiento *queer*.  
 * Cuestiona las fronteras en sentido amplio: culturales, lingüísticas y de género.  
 * Obra vanguardista los estudios culturales y decoloniales.
-* 
+
 
 ## Para la próxima clase
 - Todas deberán leer el capítulo 2 (“Movimientos de rebeldía y las culturas que traicionan”, páginas 55–65). El texto está en nuestro Blackboard.
