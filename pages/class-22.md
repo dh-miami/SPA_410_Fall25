@@ -9,7 +9,7 @@ permalink: /class-22.html
 ## En la clase de hoy vamos a:
 - Definir las estudiantes responsables de los grupos 1, 2 y 3 (trabajo final)
 - Revisar cuidadosamente las [instrucciones para el trabajo final](https://dh-miami.github.io/SPA_410_Fall25/instructions_final_project.html)
-- Acordar que las estudiantes todavía pueden revisar su trabajo sobre Juan Francisco Manzano (en caso de que quieran mejorar su nota)
+- Acordar que las estudiantes todavía pueden revisar su trabajo sobre Guamán Poma (en caso de que quieran mejorar su nota)
 - Discutir la relación entre la biografía de Gloria Anzaldúa y su escritura
 - Leer el primer capítulo de *Borderlands/La Frontera* (“La patria, Aztlán”, pp. 39–54). La lectura está en nuestro Blackboard, en “Course Documents”. Leeremos este capítulo en clase.
 - Completar la hoja de cálculo con los conceptos y las ubicaciones centrales para comprender el capítulo: [https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing)
