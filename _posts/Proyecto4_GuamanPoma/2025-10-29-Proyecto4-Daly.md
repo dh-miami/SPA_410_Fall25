@@ -2,7 +2,7 @@
 layout: page
 title: "Guamán Poma en Instagram: La crítica colonial en la era digital"
 author: "Ruthi Daly"
-date: 2025-10-29
+date: 2025-11-03
 exercise: "Proyecto 4: Guaman Poma"
 ---
 
