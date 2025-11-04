@@ -42,4 +42,10 @@ Editado por Akasha Gloria Hull, Patricia Bell-Scott y Barbara Smith
 * Propone la experiencia personal como forma de conocimiento y análisis social.  
 * Texto pionero en los estudios del feminismo chicano y del pensamiento *queer*.  
 * Cuestiona las fronteras en sentido amplio: culturales, lingüísticas y de género.  
-* Obra vanguardista los estudios culturales y decoloniales.  
+* Obra vanguardista los estudios culturales y decoloniales.
+* 
+
+## Para la próxima clase
+- Todas deberán leer el capítulo 2 (“Movimientos de rebeldía y las culturas que traicionan”, páginas 55–65).
+- Las participantes de los grupos 2 y 3 deberán preparar preguntas para ayudar a las integrantes del grupo 1 en la formulación de su trabajo final. Por favor, preparen las preguntas en sus casas antes de la clase. Compartiremos las preguntas en clase.
+- Las participantes del grupo 1 deberán compartir sus ideas sobre cómo elaborar una guía de lectura para el capítulo 2 y presentar las principales ideas del capítulo. Haremos una discusión colaborativa en clase; no es necesario usar PowerPoint (aunque tampoco está prohibido).
