@@ -17,3 +17,11 @@ permalink: /class-21.html
 
 Gloria Anzaldúa es una poeta, escritora, académica y activista. También es una mujer de color, chicana y *queer*, categorías que sirven para Anzaldúa como puntos de partida para su reflexión sobre las fronteras. En la vida de Anzaldúa, las fronteras no son solamente geográficas o geopolíticas. Las fronteras también aparecen en la forma de fronteras de género, de raza, de sexualidade, de lenguaje. La escritura de Anzaldúa es pionera al poner tales categorías como elementos productivos para su pensamiento. 
 
+## Anzaldúa y el pensamiento feminista de color de los años 1980
+### 1982 - *Todos los negros son hombres, todas las mujeres son blancas, pero algunes de nosotres somos valientes.* Editado por Akasha Gloria Hull, Patricia Bell-Scott y Barbara Smith
+![Todos los negros son hombres, todas las mujeres son blancas, pero algunes de nosotres somos valientes. ](https://upload.wikimedia.org/wikipedia/en/4/41/All_the_Women_Are_White%2C_All_the_Blacks_Are_Men%2C_But_Some_of_Us_Are_Brave.jpg)
+
+### 1983 - "No hay jerarquía de opresiones", de Audre Lorde
+´Simplemente no creo que un aspecto de mí misma pueda beneficiarse de la opresión de otra parte de mi identidad. Sé que mi pueblo no puede beneficiarse de la opresión de ningún otro grupo que busque el derecho a la existencia pacífica. Más bien, nos disminuimos a nosotrxs mismxs negando a lxs otrxs cuando hemos derramado sangre para procurar a nuestrxs hijxs. Y esxs niñxs necesitan aprender que no tienen que llegar a ser como otrxs con el fin de trabajar juntxs por un futuro que todxs ellxs compartirán.
+
+Los ataques cada vez mayores contra lesbianas y homosexuales son sólo una introducción a los ataques cada vez más graves contra todxs lxs Negrxs, ya que dondequiera que se manifieste la opresión en este país, lxs Negrxs son víctimas potenciales. Y es una norma de cinismo de la derecha animar a lxs miembrxs de los grupos oprimidos a actuar unos contra otros, y mientras nos dividimos por nuestras identidades particulares no podemos unirnos en una acción política efectiva.
