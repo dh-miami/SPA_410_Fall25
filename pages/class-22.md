@@ -2,7 +2,7 @@
 title: Class 22
 layout: page
 date: 2025-11-03
-permalink: /class-21.html
+permalink: /class-22.html
 ---
 ## Clase 22 - Gloria Anzaldúa
 
