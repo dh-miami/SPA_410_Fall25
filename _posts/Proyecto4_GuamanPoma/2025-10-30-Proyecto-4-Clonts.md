@@ -8,8 +8,6 @@ exercise: "Proyecto 4: Guaman Poma"
 
  **La bestia como alegoría del mal gobierno**
 
- <img src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/bestia.png" alt="Guaman_Leon" width="70%" height="70%">
-
  <div align="center">
   <img src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/bestia.png" 
        alt="Guaman_Leon" 
@@ -19,7 +17,7 @@ exercise: "Proyecto 4: Guaman Poma"
 
  
 
-## **La historia** 
+##**La historia** 
 
 ###**La importancia de los kurakas en el Imperio inca y La emergencia de los encomenderos y su significado**
 
@@ -28,9 +26,9 @@ Antes de la conquista española, el Imperio inca tenía un sistema de gobierno y
 Tras la conquista española y la migración de los colones españoles a Perú, surgió la institución del encomendero. El encomendero era un beneficiario español colonial autorizado por la Corona para administrar o controlar de un grupo de personas indígenas, en Perú un grupo del Incas. En teoría, el propósito de los encomenderos era proteger e instruir a los indígenas en la fe cristiana, mientras que ellos lo repagaban con trabajo. Aunque el sistema no era explícitamente esclavitud, este sistema de explotación incluía condiciones de trabajo brutales, castigos y trabajos forzados, muy similares a la esclavitud.
 
 
-## **Mi propia interpretación** 
+##**Mi propia interpretación** 
 
-### **Cómo lo creé**
+###**Cómo lo creé**
 
 Para mi proyecto, creé una representación visual de la evolución del poder en el gobierno inca a partir de la conquista: comenzando con el sistema inca. Como un símbolo del inca escogí un kuraka, seguido por el sistema español representado de un encomendero, y finalmente su transformación de un león, inspirado en los escritos y dibujos de Guaman Poma. Para mis dibujos traté de imitar el estilo de Guaman Poma con pluma negra en mi Ipad, trazando unas caras y el león en su libro. Además, busqué representaciones de los kurakas y los encomenderos en la línea como una referencia.
 
