@@ -8,9 +8,7 @@ exercise: "Proyecto 4: Guaman Poma"
 
  **La bestia como alegoría del mal gobierno**
 
-<figure><img alt="La bestia como una alegoria del mal gobierno” src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/bestia.png" width="50%" height="50%" style="float:center;”>
-<figcaption>Figura 1: Representación (Fuente) </figcaption>
-</figure>
+ <img src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/bestia.png" alt="Guaman_Leon" width="70%" height="70%">
  
 
 ## **La historia** 
