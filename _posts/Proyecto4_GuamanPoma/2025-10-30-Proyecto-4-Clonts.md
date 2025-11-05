@@ -13,7 +13,7 @@ exercise: "Proyecto 4: Guaman Poma"
 
 ## **La historia** 
 
-### **La importancia de los kurakas en el Imperio inca y La emergencia de los encomenderos y su significado**
+###**La importancia de los kurakas en el Imperio inca y La emergencia de los encomenderos y su significado**
 
 Antes de la conquista española, el Imperio inca tenía un sistema de gobierno y poder organizado y complejo. Este sistema incluía a los kurakas, los líderes y representantes de los ayllus, grupos de parentescos localizados. Los kurakas eran miembros de sus comunidades y sus funciones eran diversas, pero en general gobernaban las comunidades que servían según principios de reciprocidad y obligación moral. Con la llegada de los españoles, este sistema se transformó profundamente: el centro del poder de los kurakas adaptó de los medidores de sus comunidades a depender del control del trabajo, la tierra y el comercio. De esta manera, la función original de los kuraka desapareció.
 
