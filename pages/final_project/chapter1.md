@@ -22,3 +22,10 @@ permalink: /chapter1.html
 - ¿Qué características de ambas culturas critica ella y por qué? (Lauren)
 
 - ¿De qué formas se manifesta la rebelión femenina contra la norma? (Lauren)
+
+-  ¿Quién es la Malinche y en qué se diferencia la interpretación de Anzaldúa de ella de la tradicional? (Ruthi)
+  
+-  ¿Qué define una mala mujer o vendida? (Ruthi)
+
+- ¿Cuales son las diferencias entre la iglesia católica y la religión indígena? (Ruthi)
+
