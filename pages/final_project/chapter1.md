@@ -21,4 +21,4 @@ permalink: /chapter1.html
 
 - ¿Qué características de ambas culturas critica ella y por qué? (Lauren)
 
-- ¿De qué formas se manifiesta la rebelión femenina contra la norma? (Lauren)
+- ¿De qué formas se manifesta la rebelión femenina contra la norma? (Lauren)
