@@ -27,5 +27,11 @@ permalink: /chapter1.html
   
 -  ¿Qué define una mala mujer o vendida? (Ruthi)
 
+- ¿Por qué la autora combina mitología indígena con análisis feminista contemporáneo? (Lauren B)
+
+- ¿Cuál es la relación entre rebeldía, conocimiento y espiritualidad? (Lauren B)
+
+
+
 
 
