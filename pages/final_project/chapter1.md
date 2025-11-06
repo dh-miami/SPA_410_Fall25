@@ -18,3 +18,7 @@ permalink: /chapter1.html
 - ¿Qué es el contexto detrás de la mención de La Llorona? (Leanna) 
 
 - ¿Cuales son unos "costumbres de respeto a las mujeres" (p. 55)? (Leanna)
+
+- ¿Qué características de ambas culturas critica ella y por qué? (Lauren)
+
+- ¿De qué formas se manifiesta la rebelión femenina contra la norma? (Lauren)
