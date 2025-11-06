@@ -9,7 +9,7 @@ permalink: /class-23.html
 ## En la clase de hoy vamos a:
 - Acordar que las estudiantes todavía pueden revisar su trabajo sobre Guamán Poma (en caso de que quieran mejorar su nota)
 - Acordar que las estudiantes deben subir sus anotaciones sobre Juan Francisco Manzano en nuestra hoja de cálculo (Iimportante!)
-- Acordar que las estudiantes deben continuar completando la hoja de cálculo con los conceptos y las ubicaciones centrales para comprender el capítulo: [https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing)
+- Acordar que las estudiantes deben continuar completando la hoja de cálculo con los conceptos y las ubicaciones centrales para comprender el primer capítulo: [https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing)
 - Dedicar un breve momento para responder a dudas sobre el trabajo final o sobre la lectura del capítulo 1
 - Discutir sobre el capítulo 2, con la moderación de las participantes del grupo 1 (Alexa, Remi y Michelle)
 
