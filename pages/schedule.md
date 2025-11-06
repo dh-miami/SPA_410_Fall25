@@ -50,7 +50,7 @@ Download [syllabus and schedule in PDF](https://github.com/dh-miami/SPA_410_Fall
 | **Part III: Contemporary voices**  |  |  |
 | **Week 12**  |  |  |
 | **Tu., Nov. 4  ([22](https://dh-miami.github.io/SPA_410_Fall25/class-22.html))**  | **Gloria Anzaldua (1)** Intro to Anzaldúa’s context, life and work. Close Reading of chapter 1 . Organization of groups and topics - How to put in place a collaborative project . **For next class**: Read Chapter 2.   |  Set up spreadsheets for StoryMaps with Leaflet. |
-| **Th., Nov. 6 (23)** | **Gloria Anzaldua (2)** Discussion and Annotation of Chapter 2. Group 1 guides discussion for chapter 2. Groups 2 and 3 will prepare questions to assist Group 1 **For next class:** Read Chapter 3\.  |  Input spreadsheets for StoryMaps with Leaflet. |
+| **Th., Nov. 6 ([23](https://dh-miami.github.io/SPA_410_Fall25/class-23.html))** | **Gloria Anzaldua (2)** Discussion and Annotation of Chapter 2. Group 1 guides discussion for chapter 2. Groups 2 and 3 will prepare questions to assist Group 1 **For next class:** Read Chapter 3\.  |  Input spreadsheets for StoryMaps with Leaflet. |
 | **Week 13**  |  |  |
 | **Tu., Nov. 11 (24)** | **Gloria Anzaldua (3)** Discussion of Chapter 3. Group 2 will guide discussion for chapter 3. Groups 1 and 3 will prepare questions to assist Group 2 **For next class:** Read Chapter 5\.  |  Input spreadsheets for StoryMaps with Leaflet |
 | **Th. Nov, 13  (25)** | **Gloria Anzaldua (4)** Discussion of Chapter 5. Group 3 will guide discussion for chapter 5. Groups 1 and 2 will prepare questions to assist Group 3 **For next class:** work on the content of your projects.  |  Input spreadsheets for StoryMaps with Leaflet. |
