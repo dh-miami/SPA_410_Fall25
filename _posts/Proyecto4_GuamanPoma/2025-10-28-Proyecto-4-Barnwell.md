@@ -7,7 +7,7 @@ exercise: "Proyecto 4: Guaman Poma"
 ---
 # ¿Cómo hubiera sido el diario personal de Guaman Poma?
 
-Para este proyecto, se nos dio la libertad de crear algo personal e interpretativo, y yo elegí imaginar un diario escrito desde la perspectiva de Felipe Guamán Poma de Ayala, un cronista indígena del siglo XVI. A través de estas entradas, quise mostrar cómo la llegada de los españoles al Perú pudo sentirse en la vida cotidiana: al principio con curiosidad y esperanza, y luego con confusión, injusticia y dolor. Me inspiré en su obra El primer nueva corónica y buen gobierno para capturar su voz y su mirada hacia el cambio, la pérdida y la resistencia. Este diario busca dar vida a su historia desde un punto de vista más íntimo y humano, como si Guamán Poma nos hablara directamente desde su tiempo.
+Para este proyecto, se nos dio la libertad de crear algo personal e interpretativo, y yo elegí imaginar un diario escrito desde la perspectiva de Felipe Guamán Poma de Ayala, un cronista indígena del siglo XVI. A través de estas entradas, quise mostrar cómo la llegada de los españoles al Perú pudo sentirse en la vida cotidiana: al principio con curiosidad y esperanza, y luego con confusión, injusticia y dolor. Me inspiré en su obra *El primer nueva corónica y buen gobierno* para capturar su voz y su mirada hacia el cambio, la pérdida y la resistencia. Este diario busca dar vida a su historia desde un punto de vista más íntimo y humano, como si Guamán Poma nos hablara directamente desde su tiempo.
 
 
 ## Junio 1545
