@@ -19,3 +19,5 @@ permalink: /chapter3.html
 - Ella usa la frase "la entrada del serpiente", ¿Qué significa esta entrada para el concepto de transformación personal? (Lauren)
 
 - ¿Qué es la bestia oscura y qué representa? (Lauren)
+
+- ¿Qué es la facultad? (Euge)
