@@ -18,4 +18,4 @@ permalink: /chapter3.html
 
 - Ella usa la frase "la entrada del serpiente", ¿Qué significa esta entrada para el concepto de transformación personal? (Lauren)
 
-- ¿Qué simbolos de este capitulo son más podersos y por qué? (Lauren)
+- ¿Qué es la bestia oscura y qué representa? (Lauren)
