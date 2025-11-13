@@ -10,3 +10,13 @@ permalink: /chapter5.html
 Describe más la historia de la inmigracion de los alemanes. ¿Hay comunidades de Mexicanos con sangre alemán que tinen experiencias similares a las de los chicanos? (Leanna)
 
 ¿Cuales son algunos temas dominantes en la literatura chicana? (Leanna)
+
+¿Por qué razon la composición enpieza con una ecena en el dentista? ¿Que simbolo tiene,la boca, los dientes y la lengua? (Michelle)
+
+¿Como se observa e; conflicto entre el inglés y elespañol en la vida de la narradora? (Michelle)
+
+¿Qué consecuencias tiene "sentir vergüenza" de la propia lengua? (Michelle)
+
+¿Por qué la autora se identifica con una "lengua de serpiente"? (Michelle)
+
+¿Como transforma Anzaldúa la vergüenza en orgullo? (Michelle)
