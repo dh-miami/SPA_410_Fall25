@@ -53,7 +53,7 @@ Download [syllabus and schedule in PDF](https://github.com/dh-miami/SPA_410_Fall
 | **Th., Nov. 6 ([23](https://dh-miami.github.io/SPA_410_Fall25/class-23.html))** | **Gloria Anzaldua (2)** Discussion and Annotation of Chapter 2. Group 1 guides discussion for chapter 2. Groups 2 and 3 will prepare questions to assist Group 1 **For next class:** Read Chapter 3\.  |  Input spreadsheets for StoryMaps with Leaflet. |
 | **Week 13**  |  |  |
 | **Tu., Nov. 11 ([24](https://dh-miami.github.io/SPA_410_Fall25/class-24.html))** | **Gloria Anzaldua (3)** Discussion of Chapter 3. Group 2 will guide discussion for chapter 3. Groups 1 and 3 will prepare questions to assist Group 2 **For next class:** Read Chapter 5\.  |  Input spreadsheets for StoryMaps with Leaflet |
-| **Th. Nov, 13  (25)** | **Gloria Anzaldua (4)** Discussion of Chapter 5. Group 3 will guide discussion for chapter 5. Groups 1 and 2 will prepare questions to assist Group 3 **For next class:** work on the content of your projects.  |  Input spreadsheets for StoryMaps with Leaflet. |
+| **Th. Nov, 13  [(25)](https://dh-miami.github.io/SPA_410_Fall25/class-24.html)** | **Gloria Anzaldua (4)** Discussion of Chapter 5. Group 3 will guide discussion for chapter 5. Groups 1 and 2 will prepare questions to assist Group 3 **For next class:** work on the content of your projects.  |  Input spreadsheets for StoryMaps with Leaflet. |
 | **Week 14**  |  |  |
 | **Tu., Nov. 18 (26)** | In class work Anzaldúa's projects  |  Troubleshooting  |
 | **Th. Nov. 20  (27)** | Class evaluation (first 15 minute of class)  | Troubleshooting |
