@@ -22,3 +22,7 @@ Describe más la historia de la inmigracion de los alemanes. ¿Hay comunidades d
 ¿Por qué Anzaldúa distingue a los chicanos de los latinos? (Euge)
 
 ¿Como transforma Anzaldúa la vergüenza en orgullo? (Michelle)
+
+¿Por qué la autora dice que no puede aceptarse a sí misma hasta que pueda aceptar su idioma? ( lauren b )
+
+¿Cómo la burla lingüística produce heridas psicológicas y culturales? ( lauren b)
