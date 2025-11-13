@@ -1,5 +1,5 @@
 ---
-title: Class 23
+title: Class 24
 layout: page
 date: 2025-11-11
 permalink: /class-24.html
