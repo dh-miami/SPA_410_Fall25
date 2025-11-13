@@ -19,6 +19,6 @@ Describe más la historia de la inmigracion de los alemanes. ¿Hay comunidades d
 
 ¿Por qué la autora se identifica con una "lengua de serpiente"? (Michelle)
 
-¿Por qué Anzaldúa distingue chicanos de latinos? (Euge)
+¿Por qué Anzaldúa distingue a los chicanos de los latinos? (Euge)
 
 ¿Como transforma Anzaldúa la vergüenza en orgullo? (Michelle)
