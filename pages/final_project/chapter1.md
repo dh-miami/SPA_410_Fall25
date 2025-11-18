@@ -6,31 +6,17 @@ permalink: /chapter1.html
 
 # Capítulo 1
 
-## Preguntas sobre el capítulo 
-- ¿Cuál es la relación entre *homephobia* y homofobia? (Euge)
 
-- ¿Cómo caracterizaría a lo que Anzaldúa llama "Bestia-Sombra"? ¿Es un alter ego? ¿Una parte de su identidad? ¿Rasgo de personalidad? (Skye)
+## Enlace para editar la hoja de cálculo
+[https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1M3DJ3_8LrufG8_D_CHOUcRILuT7VCmyt9VSZ_AAJxvI/edit?usp=sharing)
 
-- ¿Cómo traicionó la cultura mexicana a Gloria Anzaldúa, como describe en la parte final del capítulo 2? (Skye)
+## StoryMap - Chapter 1 - Borderlands/La Frontera
 
-- ¿Puedes explicar más la historia de La Chingada? (para los lectores que nunca han oido la historia) (Leanna)
-
-- ¿Qué es el contexto detrás de la mención de La Llorona? (Leanna) 
-
-- ¿Cuales son unos "costumbres de respeto a las mujeres" (p. 55)? (Leanna)
-
-- ¿Qué características de ambas culturas critica ella y por qué? (Lauren)
-
-- ¿De qué formas se manifesta la rebelión femenina contra la norma? (Lauren)
-
--  ¿Quién es la Malinche y en qué se diferencia la interpretación de Anzaldúa de ella de la tradicional? (Ruthi)
-  
--  ¿Qué define una mala mujer o vendida? (Ruthi)
-
-- ¿Por qué la autora combina mitología indígena con análisis feminista contemporáneo? (Lauren B)
-
-- ¿Cuál es la relación entre rebeldía, conocimiento y espiritualidad? (Lauren B)
-
+<iframe
+  src="https://eugestumm.github.io/GloriaAnzalduaBorderlandsFirstChapter_StoryMap/index.html"
+  style="width: 100%; height: 600px; border: 0;"
+  loading="lazy"
+></iframe>
 
 
 
