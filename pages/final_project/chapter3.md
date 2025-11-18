@@ -24,7 +24,8 @@ permalink: /chapter3.html
 
 - ¿Qué es la facultad? (Euge)
 
-  (Spreadsheet for TimeLine Entries)[https://docs.google.com/spreadsheets/d/1oTVbdR2q0WR-bKXHeQ1suMg5aZbwbnurIT2mrSmZ4x0/edit?usp=sharing]
+  [Spreadsheet for TimeLine Entries](https://docs.google.com/spreadsheets/d/1oTVbdR2q0WR-bKXHeQ1suMg5aZbwbnurIT2mrSmZ4x0/edit?usp=sharing)
+
 
 ## Notas al texto
 
