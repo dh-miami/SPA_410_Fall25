@@ -6,6 +6,8 @@ permalink: /chapter3.html
 
 # Chapter 3
 
+## Preguntas sobre el capítulo 
+
 - ¿Qué significa “penetrar en la serpiente” para Anzaldúa? (Ruthi)
 
 - ¿Cómo describe Anzaldúa el “estado de Coatlicue”? (Ruthi)
