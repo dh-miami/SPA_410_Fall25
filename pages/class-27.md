@@ -11,7 +11,7 @@ permalink: /class-27.html
 - Dedicar un breve momento a responder dudas sobre la hoja de cálculo del capítulo 1.
 - Compartir los borradores/prototipos de los trabajos de cada grupo.
   - Animar a las estudiantes de cada grupo a que compartan sus ideas para la implementación de sus trabajos finales, incluyendo cuáles son las tecnologías que planean utilizar para la visualización de sus respectivos capítulos.
-  - Cada estudiante deberá ofrecer retroalimentación y sugerencias para mejorar el trabajo de cada grupo después de la presentación de cada grupo.
+  - Las estudiante de los demás grupos deberan ofrecer retroalimentación y sugerencias para mejorar el trabajo presentado por cada grupo.
 - Discutir, en grupos, cómo implementar las sugerencias y la retroalimentación obtenidas durante la clase.
 - Ofrecer tiempo de clase para que los grupos puedan mejorar el borrador/prototipo de sus trabajos finales.
 
