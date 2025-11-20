@@ -48,3 +48,24 @@ The final version of your project should enlighten the reading and the reader’
 * Is there any foreword that could guide their reading?   
 * How could we use the skills we have learned throughout this course to expand the visualization of the text and explore the different layers of meaning within your assigned chapter?  
 * Feel free to discuss your ideas with your peers and instructors\!
+
+## Guía y consejos para el trabajo final (escrito) 
+
+Estructura sugerida: 
+- Contextualización breve de la obra y contenido del capítulo.
+- El objetivo de vuestro trabajo: guía de lectura. 
+- Ideas generales sobre el capítulo.
+- Motivos para elegir la herramienta digital (Storymaps, TimelineJS, Voyant).
+- Cómo se ha utilizado la herramienta digital y qué resultados habéis encontrado.
+- Cuáles han sido las principales preguntas sobre el texto (feedback / retroalimentación compañeras).
+- Conclusiones / aprendizaje.
+- Número total de palabras: 1000-1500 aprox. 
+
+## Guía y consejos para la presentación (oral) 
+
+- Preparad las presentaciones por escrito y memorizad el texto que os tocará presentar, así os sentiréis más cómodas. 
+- Pueden usar una presentación (Google Drive) para completar la explicación. Pero recordad: las notas no se deben leer, si no que son solo un apoyo.
+- Todas las participantes deben explicar una parte del trabajo. 
+- Conclusiones / aprendizaje. 
+
+
