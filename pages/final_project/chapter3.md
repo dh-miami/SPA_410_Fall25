@@ -22,6 +22,8 @@ permalink: /chapter3.html
 
 - ¿Qué es la bestia oscura y qué representa? (Lauren)
 
+- Cuales son los imagenes religiosos que invoca Anzaldua? Como se identifica con figuras religiosas? (Alana)
+
 - ¿Qué es la facultad? (Euge)
 
   [Spreadsheet for TimeLine Entries](https://docs.google.com/spreadsheets/d/1oTVbdR2q0WR-bKXHeQ1suMg5aZbwbnurIT2mrSmZ4x0/edit?usp=sharing)
