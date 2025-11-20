@@ -31,6 +31,8 @@ permalink: /chapter2.html
 
 - ¿Cuál es la relación entre rebeldía, conocimiento y espiritualidad? (Lauren B)
 
+- Cuales son algunas maneras que el uso de "Spanglish" ayudara al lector entender la experiencia de Anzaldua? (Alana)
+
 
 ## Visualización de Voyant
 
