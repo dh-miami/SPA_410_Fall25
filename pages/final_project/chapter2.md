@@ -30,3 +30,14 @@ permalink: /chapter2.html
 - ¿Por qué la autora combina mitología indígena con análisis feminista contemporáneo? (Lauren B)
 
 - ¿Cuál es la relación entre rebeldía, conocimiento y espiritualidad? (Lauren B)
+
+
+## Visualización de Voyant
+
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 397px; height: 369px;' src='https://voyant-tools.org/tool/Topics/?corpus=d7e37a51a87109ad6e92b6bcf2293ba3'></iframe>
