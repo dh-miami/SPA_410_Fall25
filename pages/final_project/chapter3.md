@@ -31,12 +31,19 @@ permalink: /chapter3.html
 ## Código de colores de la línea temporal
 
 -Conceptos que aparecen a lo largo del capítulo: #BFDBAD (VERDE CLARO)
+
 -Página 67-68: #BFDBAD (VERDE CLARO)
+
 -Página 68-69: #F7EDE1 (ARENA)
+
 -Página 69-75: #4F614F (VERDE OSCURO)
+
 -Página 75-79: #544340 (MARRÓN)
+
 -Página 79-81: #DED8D7 (GRIS)
--Página 81-85: #134C52 (AZUL OSCURO) 
+
+-Página 81-85: #134C52 (AZUL OSCURO)
+
 -Página 85-87: #EBBCBC (ROSADO)
 
 ## Notas al texto
