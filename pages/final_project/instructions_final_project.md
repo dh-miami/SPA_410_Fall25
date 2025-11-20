@@ -64,7 +64,7 @@ Estructura sugerida:
 ## Guía y consejos para la presentación (oral) 
 
 - Preparad las presentaciones por escrito y memorizad el texto que os tocará presentar, así os sentiréis más cómodas. 
-- Pueden usar una presentación (Google Drive) para completar la explicación. Pero recordad: las notas no se deben leer, si no que son solo un apoyo.
+- Pueden usar una presentación (Google Drive) para completar la explicación. Pero recordad: las notas no se deben leer, si no que son solo un apoyo. Si utilizarán notas, deben llevarlas escrita en un papel físico y compartirlas con sus instructores. 
 - Todas las participantes deben explicar una parte del trabajo. 
 - Conclusiones / aprendizaje. 
 
