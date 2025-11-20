@@ -1,5 +1,9 @@
-
-# **Si Guaman Poma tuviera Twitter**
+layout: page
+title: "Si Guaman Poma tuviera Twitter"
+author: "Alexa Juehring"
+date: 2025-11-03
+exercise: "Proyecto 4: Guaman Poma"
+# *Si Guaman Poma tuviera Twitter*
 
 <p align="center">
   <img src="https://github.com/dh-miami/SPA_410_Fall25/blob/main/_posts/Proyecto2_Luna/images/Guaman%20Poma.jpg?raw=true" width="450">
