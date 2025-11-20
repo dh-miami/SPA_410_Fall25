@@ -51,21 +51,23 @@ The final version of your project should enlighten the reading and the reader’
 
 ## Guía y consejos para el trabajo final (escrito) 
 
+Extensión: 1000-1500 palabras (sin incluir bibliografía ni figuras)
+
 Estructura sugerida: 
-- Contextualización breve de la obra y contenido del capítulo.
-- El objetivo de vuestro trabajo: guía de lectura. 
-- Ideas generales sobre el capítulo.
-- Motivos para elegir la herramienta digital (Storymaps, TimelineJS, Voyant).
-- Cómo se ha utilizado la herramienta digital y qué resultados habéis encontrado.
-- Cuáles han sido las principales preguntas sobre el texto (feedback / retroalimentación compañeras).
-- Conclusiones / aprendizaje.
-- Número total de palabras: 1000-1500 aprox. 
+- Contextualización breve de la obra y del contenido del capítulo trabajado. Presentad en pocas líneas la obra, su autora, y la relevancia del capítulo escogido dentre de la obra. 
+- El objetivo de vuestro trabajo: ¿qué pretende la guía de lectura? Explicad de forma clara qué se desea iluminar o facilitar al lector (temas, personajes, narrativa, palabras, contexto, etc.).  
+- Ideas generales sobre el capítulo. Identificad y desarrollad los aspectos esenciales que habéis identificado (temas centrales, recursos narrativos, problemas culturales, etc.)
+- Justificación del uso de la herramienta digital (Storymaps, TimelineJS, Voyant). Intentad explicar el proceso: qué datos o elementos habéis usado. Presentad diferentes visualizaciones relevantes. Relfexionad sobre lo que la herramienta os ha permitido ver, descubrir o analizar de manera diferente. 
+- Preguntas principales y retroalimentación del grupo. Podéis comentar las cuestiones que han surgido durante el proceso y cualquier aporte significativo recibido por parte de las compañeras.
+- Conclusiones / aprendizaje. Cerrad el ensayo explicando qué habéis aprendido, sobre el capítulo, sobre el proceso de análisis o sobre la herramienta digital. 
+- Bibliografía, si procede. 
 
 ## Guía y consejos para la presentación (oral) 
 
-- Preparad las presentaciones por escrito y memorizad el texto que os tocará presentar, así os sentiréis más cómodas. 
-- Pueden usar una presentación (Google Drive) para completar la explicación. Pero recordad: las notas no se deben leer, si no que son solo un apoyo. Si utilizarán notas, deben llevarlas escrita en un papel físico y compartirlas con sus instructores. 
+- Preparad un guion escrito y repasadlo con antelación. Memorizar las ideas principales os ayudará a sentiros más seguras y fluidas durante la exposición.
+- Apoyo visual (opcional) en Google Slides u otra herramienta. Podéis usar una presentación como apoyo, pero no debe contener el texto leído. Las diapositivas deben incluir ideas clave, imágenes o visualizaciones. Si necesitáis notas, deben estar en papel físico y solo servir de guía.
 - Todas las participantes deben explicar una parte del trabajo. 
-- Conclusiones / aprendizaje. 
+- Conclusiones / aprendizaje.
+- Duración sugerida: 15 min. 
 
 
