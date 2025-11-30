@@ -46,6 +46,13 @@ permalink: /chapter3.html
 
 -Página 85-87: #EBBCBC (ROSADO)
 
+## Brief contextualization of the work and the content of the chapter analyzed.
+Present in a few lines the work, its author, and the relevance of the chosen chapter within the work.
+
+## The objective of your assignment: 
+What is the purpose of the reading guide? Clearly explain what you want to illuminate or make easier for the reader (themes, characters, narrative, words, context, etc.).
+
+
 ## Notas al texto
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTc0Up2VQwABJvDZ1iXTNK7LV4ILKPferDSnyhdrhfwCDtiMyJZaUM1Uve1gO4R4swvqmemVo6zWDNF&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
