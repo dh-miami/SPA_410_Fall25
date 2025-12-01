@@ -133,9 +133,7 @@ Los gráficos muestran que las palabras mujer, hombre y cultura no solo aparecen
 
 ## **Terrorismo íntimo: vida en las tierras fronterizas** 
 ### *pagina **62-64***
-<p align="center">
-  <img src="Part%201.png" alt="Relative Frequencies Graph" width="600">
-</p>
+<iframe style='width: 401px; height: 411px;' src='https://voyant-tools.org/tool/Trends/?query=costumbres*&query=rebeld%C3%ADa*&mode=document&corpus=7fe3080e05cf237069bb93b77671e847'></iframe>
 **Resumen:** En este capítulo, la narradora describe cómo la vida de las mujeres de color en los espacios fronterizos está marcada por un miedo constante, un “terrorismo íntimo” que se siente en el cuerpo y en la mente. La inseguridad nace tanto de la violencia externa —ataques, persecución, desvalorización racial— como de las presiones internas de su propia cultura y de la cultura blanca, que critican, inmovilizan y limitan su capacidad de actuar. La narradora reconoce sus raíces mexicanas como parte esencial de su identidad, pero también denuncia el machismo, los mitos y las contradicciones que han herido a las mujeres de su comunidad, lo que responde directamente a la pregunta de *“¿cómo traicionó la cultura mexicana a Gloria Anzaldúa?”*, ya que muestra cómo esa misma cultura que le da identidad también la degrada y busca controlarla. Aunque lleva “su hogar” a cuestas, no acepta los aspectos culturales que la lastiman. El capítulo culmina con su deseo de libertad: reclamar su espacio y crear una nueva cultura mestiza, construida desde su propia experiencia, fuerza y visión feminista.
 
 **Palabras clave:**
