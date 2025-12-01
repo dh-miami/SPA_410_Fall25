@@ -94,6 +94,23 @@ En el capítulo, la palabra *rebeldía* aparece con mayor fuerza al inicio porqu
 **La mala vida**: la creencia que las personas que no conforman a los expectativas culturales (como Anzaldúa) están viviendo “la mala vida”  
 **Terca**: usado en referencia a Anzaldúa porque ella rechaza a alinearse con las expectativas, haciéndola terca o testurada
 
+## **Tiranía cultural**
+
+### *paginas 57-59*
+
+Resumen: Esta parte del texto nos explica cómo la cultura está dominada por normas patriarcales, donde define lo que es considerado aceptable y controla cómo una persona tiene que ver la realidad. Estas reglas fueron creadas por los hombres y trasmitidas por las mujeres. Imponen el rol de la mujer, donde ellas tienen que ser obedientes, tienen que servir y renunciar a sí mismas. La cultura y incluida la iglesia enseñan que una mujer buena es sumisa y las que buscan independizarse como egoístas o mal ejemplo. Además, el texto muestra cómo la sociedad controla a la mujer bajo la idea de protegerla, cuando fuera de esta fantasía la mantienen subordinada y vigilada. Se critica que la familia tiene que valorar mas a la familia que al individuo y cualquier diferente pensamiento o opinion , como la homosexualidad, tiene que ser condenado. En esta cultura, cualquier individuo que sale de las normas se convierte en un símbolo de miedo debido a que es diferente y extraño.   
+Palabras clave:
+
+* **Cultura**   
+  * El texto explora cómo las normas culturales moldean creencias, comportamientos y lo más importante dictan normas que son aceptables y se ven normales.   
+* **Mujer**  
+  * Se denuncia como la cultura patriarcal limita, juzga y controla la vida de las mujeres, al darle un rol estricto y castigar a cualquier persona desviándose del camino que supuestamente es el correcto.   
+* **Hombre**  
+  * Simboliza al grupo que históricamente ha tenido el poder de crear esas normas, beneficiarse de ellas y definir lo que las mujeres pueden o no pueden hacer. 
+
+**Su importancia:**   
+Los gráficos muestran que las palabras mujer, hombre y cultura no solo aparecen varias veces en el texto, sino que se observa un gran concentración en momentos clave del texto, lo que revela su importancia y mensaje en el capítulo. 
+
 ## **Homofobia: miedo de ir a casa**
 
 ### *pagina 60-61*
