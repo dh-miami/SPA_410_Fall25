@@ -35,22 +35,25 @@ permalink: /chapter2.html
 
 
 ## Visualización de Voyant
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 412px; height: 289px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-1831c2fbf641cede2fc2c504d92f52ad&corpus=35339adeef6c882c5a2a74b7a32e54fc'></iframe>
 
 
 ## **Movimientos de rebeldía y las culturas que traicionan** 
 ### *pagina 55*
-<div align="center">
-  <!-- Exported from Voyant Tools (voyant-tools.org).
-  The iframe src attribute below uses a relative protocol to better function with both
-  http and https sites, but if you're embedding this into a local web page (file protocol)
-  you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-  it depends on this server.
-  Feel free to change the height and width values or other styling below: -->
-  <iframe 
-      style="width: 401px; height: 411px;" 
-      src="https://voyant-tools.org/tool/Trends/?query=costumbres*&query=rebeld%C3%ADa*&mode=document&corpus=7fe3080e05cf237069bb93b77671e847">
-  </iframe>
-</div>
+<!--	Exported from Voyant Tools (voyant-tools.org).
+The iframe src attribute below uses a relative protocol to better function with both
+http and https sites, but if you're embedding this into a local web page (file protocol)
+you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+it depends on this server.
+Feel free to change the height and width values or other styling below: -->
+<iframe style='width: 401px; height: 411px;' src='https://voyant-tools.org/tool/Trends/?query=costumbres*&query=rebeld%C3%ADa*&mode=document&corpus=7fe3080e05cf237069bb93b77671e847'></iframe>
+
 
 
 **Resumen:** En esta parte, la narradora describe cómo la rebeldía es una fuerza innata “en la sangre” que surge como respuesta a las múltiples presiones externas: la familia, la Iglesia, el patriarcado y la cultura anglo que intenta disciplinarla. Su vida ha sido una serie de confrontaciones con normas que buscan moldearla en silencio, obediencia y docilidad, lo que responde directamente a la pregunta de *“¿de qué formas se manifiesta la rebelión femenina contra la norma?”*, pues Anzaldúa muestra cómo hablar pa’tras, negarse a obedecer y rechazar el machismo son expresiones concretas de resistencia. Aunque reconoce que parte de esta rebeldía le ha causado dolor, culpa y autocrítica, también afirma que es una parte esencial de su identidad chicana. A lo largo del capítulo, explica que su relación con las costumbres de su cultura es ambigua: algunas la oprimen y la traicionan, mientras que otras son valiosas, dignas de ser recuperadas. Aun con un crecimiento personal, la “guerra de independencia”, la lucha por definirse a sí misma, sigue siendo continua.
