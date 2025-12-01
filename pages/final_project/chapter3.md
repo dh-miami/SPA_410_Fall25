@@ -30,27 +30,28 @@ permalink: /chapter3.html
   
 ## Código de colores de la línea temporal
 
--Conceptos que aparecen a lo largo del capítulo: #BFDBAD (VERDE CLARO)
+-Primera sección, Página 67-68: #BFDBAD (VERDE CLARO)
 
--Página 67-68: #BFDBAD (VERDE CLARO)
+-"Ella tiene su tono", Página 68-69: #F7EDE1 (ARENA)
 
--Página 68-69: #F7EDE1 (ARENA)
+-"Coatlalopeuh, la que Reina sobre las Serpientes", Página 69-75: #4F614F (VERDE OSCURO)
 
--Página 69-75: #4F614F (VERDE OSCURO)
+-"Pues hacer la guerra es mi deber cósmico", Página 75-79: #544340 (MARRÓN)
 
--Página 75-79: #544340 (MARRÓN)
+-"Sueño con serpientes", Página 79-81: #DED8D7 (GRIS)
 
--Página 79-81: #DED8D7 (GRIS)
+-"Las presencias", Página 81-85: #134C52 (AZUL OSCURO)
 
--Página 81-85: #134C52 (AZUL OSCURO)
-
--Página 85-87: #EBBCBC (ROSADO)
+-"La facultad", Página 85-87: #EBBCBC (ROSADO)
 
 ## Brief contextualization of the work and the content of the chapter analyzed.
 Present in a few lines the work, its author, and the relevance of the chosen chapter within the work.
 
 ## The objective of your assignment: 
 What is the purpose of the reading guide? Clearly explain what you want to illuminate or make easier for the reader (themes, characters, narrative, words, context, etc.).
+
+## Conclusiones / aprendizaje. 
+Cerrad el ensayo explicando qué habéis aprendido, sobre el capítulo, sobre el proceso de análisis o sobre la herramienta digital.
 
 
 ## Notas al texto
