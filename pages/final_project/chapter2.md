@@ -35,13 +35,39 @@ permalink: /chapter2.html
 
 
 ## Visualización de Voyant
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 412px; height: 289px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-1831c2fbf641cede2fc2c504d92f52ad&corpus=35339adeef6c882c5a2a74b7a32e54fc'></iframe>
+<p align="center">
+  <div align="center">
+  <!-- Exported from Voyant Tools (voyant-tools.org). -->
+  <iframe 
+      style="width: 412px; height: 289px;" 
+      src="https://voyant-tools.org/tool/Cirrus/?stopList=keywords-1831c2fbf641cede2fc2c504d92f52ad&corpus=35339adeef6c882c5a2a74b7a32e54fc">
+  </iframe>
+</div>
+
+## **Movimientos de rebeldía y las culturas que traicionan** 
+### *pagina 55*
+<div align="center">
+  <!-- Exported from Voyant Tools (voyant-tools.org). -->
+  <iframe 
+      style="width: 401px; height: 411px;" 
+      src="https://voyant-tools.org/tool/Trends/?query=costumbres*&query=rebeld%C3%ADa*&mode=document&corpus=7fe3080e05cf237069bb93b77671e847">
+  </iframe>
+</div>
+
+**Resumen:** En esta parte, la narradora describe cómo la rebeldía es una fuerza innata “en la sangre” que surge como respuesta a las múltiples presiones externas: la familia, la Iglesia, el patriarcado y la cultura anglo que intenta disciplinarla. Su vida ha sido una serie de confrontaciones con normas que buscan moldearla en silencio, obediencia y docilidad, lo que responde directamente a la pregunta de *“¿de qué formas se manifiesta la rebelión femenina contra la norma?”*, pues Anzaldúa muestra cómo hablar pa’tras, negarse a obedecer y rechazar el machismo son expresiones concretas de resistencia. Aunque reconoce que parte de esta rebeldía le ha causado dolor, culpa y autocrítica, también afirma que es una parte esencial de su identidad chicana. A lo largo del capítulo, explica que su relación con las costumbres de su cultura es ambigua: algunas la oprimen y la traicionan, mientras que otras son valiosas, dignas de ser recuperadas. Aun con un crecimiento personal, la “guerra de independencia”, la lucha por definirse a sí misma, sigue siendo continua.
+
+**Palabras clave:**
+
+* Rebeldía  
+  * La rebeldía es parte heredada de su cultura mexicana y parte esencial de su carácter. La narradora describe cómo explota contra las órdenes de la madre, de la Iglesia y de la cultura anglo. Aquí la rebeldía funciona como una respuesta a la opresión, un mecanismo de defensa y una afirmación de autonomía.  
+* Costumbres  
+  * Aparece más en la segunda mitad del capítulo porque la reflexión cambia y ya no se trata solo de rechazar, sino de evaluar qué tradiciones deben conservarse. La narradora distingue entre   
+    * Costumbres que la traicionan (machismo, silencio, obediencia ciega)   
+    * Costumbres que fortalecen (respeto a las mujeres, tradiciones que sobreviven por sabiduría acumulada).
+
+**Su importancia:**
+
+En el capítulo, la palabra *rebeldía* aparece con mayor fuerza al inicio porque la narradora afirma que esta forma de resistencia está “en la sangre” y constituye una parte esencial de su identidad mexicana, manifestándose cuando se enfrenta a las órdenes de la madre, la Iglesia y la cultura anglo; en este sentido, la rebeldía funciona simultáneamente como respuesta a la opresión, mecanismo de defensa y afirmación de autonomía, lo que responde directamente a la pregunta de *“¿qué características de ambas culturas critica ella y por qué?”*, ya que Anzaldúa denuncia tanto el machismo de la cultura mexicana como la disciplina y asimilación impuestas por la cultura anglo. En cambio, *costumbres* dominan la segunda mitad del texto, donde la narradora pasa de rechazar normas culturales a evaluar cuáles merecen conservarse, distinguiendo entre aquellas que la traicionan —como el machismo, el silencio o la obediencia ciega— y las que fortalecen su identidad, como el respeto a las mujeres o las tradiciones que han sobrevivido por su sabiduría acumulada. Esta distribución no es casual: la concentración de rebeldía al principio y el aumento de costumbres al final estructuran el tono y la progresión narrativa del capítulo, evidenciando un movimiento temático desde la confrontación hacia la reconstrucción. La coexistencia y tensión entre estos dos términos organizan todo el capítulo, ya que la narradora vive un conflicto interno entre liberarse de lo que la oprime y preservar lo que la sostiene; por eso, la gráfica refleja esta estructura: primero el impulso rebelde, luego la reflexión sobre las costumbres que deben mantenerse, mostrando así la complejidad de la identidad chicana como un espacio de resistencia y reimaginación.
 
 ## **La fuerza de mi rebeldía**
 
@@ -67,7 +93,11 @@ Feel free to change the height and width values or other styling below: -->
 
 ### *pagina 60-61*
 
-[https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2012MarchaGay73.JPG/640px-2012MarchaGay73.JPG](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2012MarchaGay73.JPG/640px-2012MarchaGay73.JPG)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2012MarchaGay73.JPG/640px-2012MarchaGay73.JPG"
+       alt="2012 Marcha Gay" width="400" />
+</p>
+
 
 - Anzaldúa explica cómo las Chicanas lesbianas enfrentan rejeción, crítica.. En una manera unico y dificil debido a la intersecionalidad de sus identidades como mujeres, personas queer (lesbianas) y chicanas (personas de color). La sexualidad queer desafía simultáneamente las normas mexicanas católicas e indígenas, creando un conflicto profundo con su cultura de origen, creando una situación donde tienen miedo de ir a casa, por su lugar de origen. También están rechazando de la cultura blanca o dominante, que a veces está más receptivo a su queer identidad, debido a su color/ nacimiento sin uno serían aceptados o rechazados se algun grupo pero debido al tres no tienen pertinencia en ninguna comunidad 
 
@@ -76,10 +106,29 @@ Feel free to change the height and width values or other styling below: -->
 **Queer**: referirse a identidades de género u orientaciones sexuales que no se ajustan a las normas tradicionales heterosexuales y cisgénero  
 **Dualidad:** Existencia de dos caracteres o fenómenos distintos en una misma persona o en un mismo estado de cosas, cualidades opuestas.
 
+## **Terrorismo íntimo: vida en las tierras fronterizas** 
+### *pagina **62-64***
+**Resumen:** En este capítulo, la narradora describe cómo la vida de las mujeres de color en los espacios fronterizos está marcada por un miedo constante, un “terrorismo íntimo” que se siente en el cuerpo y en la mente. La inseguridad nace tanto de la violencia externa —ataques, persecución, desvalorización racial— como de las presiones internas de su propia cultura y de la cultura blanca, que critican, inmovilizan y limitan su capacidad de actuar. La narradora reconoce sus raíces mexicanas como parte esencial de su identidad, pero también denuncia el machismo, los mitos y las contradicciones que han herido a las mujeres de su comunidad, lo que responde directamente a la pregunta de *“¿cómo traicionó la cultura mexicana a Gloria Anzaldúa?”*, ya que muestra cómo esa misma cultura que le da identidad también la degrada y busca controlarla. Aunque lleva “su hogar” a cuestas, no acepta los aspectos culturales que la lastiman. El capítulo culmina con su deseo de libertad: reclamar su espacio y crear una nueva cultura mestiza, construida desde su propia experiencia, fuerza y visión feminista.
+
+**Palabras clave:**
+
+* **Miedo**  
+  * El *miedo* es una emoción central en este capítulo y define la experiencia cotidiana de la mujer de color en los espacios fronterizos. La narradora describe cómo vive “temblando”, conteniendo el pánico, temiendo ataques, críticas y persecuciones tanto en la calle como dentro de su propia comunidad. Aquí el miedo funciona como una consecuencia del peligro externo, pero también como una forma de control interno que inmoviliza, paraliza y limita la capacidad de actuar.  
+* **Cultura**  
+  * La palabra *cultura* aparece de manera constante porque el capítulo analiza cómo diferentes culturas —la mexicana, la blanca y la indígena— moldean, hieren y a la vez sostienen la identidad de la narradora. Ella distingue entre  
+    * Culturas que la hieren (machismo, crítica constante, reglas que inmovilizan).  
+    * Culturas que la sostienen (raíces indígenas y mexicanas que le dan historia, resistencia y sentido de pertenencia).
+
+**Su importancia:**
+
+En este capítulo, la palabra *miedo* tiene un peso central porque expresa la experiencia emocional de la mujer de color en los espacios fronterizos: un terror constante que se siente “bajo la epidermis”, producto tanto de la violencia externa como de las presiones internas de su propia comunidad. El miedo aparece repetidamente porque funciona como una fuerza que paraliza, inmoviliza y limita la capacidad de actuar, revelando cómo el peligro físico se convierte en un “terrorismo íntimo” que afecta el cuerpo, la identidad y la vida interior de la narradora. En cambio, *cultura* aparece a lo largo de todo el texto porque la narradora analiza cómo las culturas mexicana, blanca e indígena la han formado, herido y a la vez sostenido, lo cual responde directamente a las preguntas de *“¿cómo traicionó la cultura mexicana a Gloria Anzaldúa?”* y *“¿qué características de ambas culturas critica ella y por qué?”*, ya que muestra que tanto el machismo dentro de su propia comunidad como la presión disciplinaria de la cultura blanca contribuyen a esta sensación de peligro. Distingue entre los elementos culturales que la dañan —como el machismo, la crítica constante o los dogmas que buscan controlarla— y aquellos que le brindan raíces, historia y resistencia. Esta combinación no es casual: la presencia insistente de miedo y cultura estructura la progresión del capítulo, mostrando cómo la narradora transita desde la parálisis causada por el peligro hasta la afirmación de su derecho a cuestionar y reconstruir sus herencias culturales. La tensión entre ambos términos organiza todo el capítulo, ya que la narradora se debate entre el miedo que la inmoviliza y el deseo de reimaginar su cultura desde su propia autonomía; por eso, la gráfica refleja esta dinámica, mostrando cómo estos dos conceptos revelan la complejidad de la identidad chicana como un espacio de conflicto, resistencia y creación.
+
 ## **La herida de la india-Mestiza**
 
-[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MOM\_D093\_Donna\_Marina\_%28La\_Malinche%29.jpg/500px-MOM\_D093\_Donna\_Marina\_%28La\_Malinche%29.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MOM_D093_Donna_Marina_%28La_Malinche%29.jpg/500px-MOM_D093_Donna_Marina_%28La_Malinche%29.jpg)
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MOM_D093_Donna_Marina_%28La_Malinche%29.jpg/500px-MOM_D093_Donna_Marina_%28La_Malinche%29.jpg"
+       alt="Donna Marina (La Malinche)" width="400" />
+</p>
 ### *pagina 64-65*
 
 **La herida de la india-Mestiza:** herida histórica que llevan las mujeres indígenas y mestizas debido de siglos de racismo, colonialismo, masogania
