@@ -35,25 +35,27 @@ permalink: /chapter2.html
 
 
 ## Visualización de Voyant
+<div align="center">
+  <!-- Exported from Voyant Tools (voyant-tools.org). -->
+  <iframe 
+      style="width: 412px; height: 289px;" 
+      src="https://voyant-tools.org/tool/Cirrus/?stopList=keywords-1831c2fbf641cede2fc2c504d92f52ad&corpus=35339adeef6c882c5a2a74b7a32e54fc">
+  </iframe>
+</div>
 
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 412px; height: 289px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-1831c2fbf641cede2fc2c504d92f52ad&corpus=35339adeef6c882c5a2a74b7a32e54fc'></iframe>
+
 
 
 ## **Movimientos de rebeldía y las culturas que traicionan** 
 ### *pagina 55*
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 401px; height: 411px;' src='https://voyant-tools.org/tool/Trends/?query=costumbres*&query=rebeld%C3%ADa*&mode=document&corpus=7fe3080e05cf237069bb93b77671e847'></iframe>
+<div align="center">
+  <!-- Exported from Voyant Tools (voyant-tools.org). -->
+  <iframe 
+      style="width: 401px; height: 411px;" 
+      src="https://voyant-tools.org/tool/Trends/?query=costumbres*&query=rebeld%C3%ADa*&mode=document&corpus=7fe3080e05cf237069bb93b77671e847">
+  </iframe>
+</div>
+
 
 
 
