@@ -47,7 +47,7 @@ Feel free to change the height and width values or other styling below: -->
 
 ### *pagina 56*
 
-[https://upload.wikimedia.org/wikipedia/commons/1/1a/Relief\_map\_of\_Texas.png](https://upload.wikimedia.org/wikipedia/commons/1/1a/Relief_map_of_Texas.png) 
+![imagen](https://upload.wikimedia.org/wikipedia/commons/1/1a/Relief\_map\_of\_Texas.png)(https://upload.wikimedia.org/wikipedia/commons/1/1a/Relief_map_of_Texas.png) 
 
 - Anzaldúa reflexiona en cómo su rebeldía emergió durante su niñez, como una fuerza que la impulsaba a desobedecer las expectativas culturales, familiares y de género. Ella explicó cómo eso se manifiesta en la figura de La Bestia-Sombra, que empoderó a salir su casa (el Valle) por necesidad de encontrar su identidad verdadero, esperando de los roles opresivos que le fueron puestos desde su nacimiento.
 
