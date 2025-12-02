@@ -44,7 +44,6 @@ permalink: /chapter3.html
 
 -"La facultad", Página 85-87: #EBBCBC (ROSADO)
 
-## Brief contextualization of the work and the content of the chapter analyzed.
 El capítulo 3 del proyecto fue analizado en una línea temporal creada por Skye Mata, Lauren Barnwell y Leanna Navo. El capítulo es parte del libro Borderlands/La Frontera de la autora Gloria Anzaldúa, una obra sobre los Chicanos, y específicamente su historia que está enraizada en la opresión: interna y externa. Últimamente, la obra destaca la habilidad de los chicanos a prevalecer a pesar de todas las probabilidades. Este capítulo explora la historia personal, la mitología indígena y el impacto de la colonización en la identidad chicana. Se centra en el símbolo de la serpiente, como medio de retratar la opresión espiritual, pero finalmente la adaptabilidad y supervivencia de los Chicanos. La línea temporal es relevante porque capítulo tres presenta los lugares y acontecimientos como capas que se conectan con el tiempo: antes del patriarcado tolteca/azteca, durante la conversión colonial y en la vida moderna chicana de la frontera. Usar una línea temporal ayuda a organizar cómo cambia el significado espiritual y social de cada lugar, lo cual es clave en el argumento del capítulo. También es útil para ver la causa y efecto de cada evento histórico en la identidad de la narradora, por eso la línea temporal es una herramienta ideal.
 
 
