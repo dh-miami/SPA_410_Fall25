@@ -45,7 +45,7 @@ permalink: /chapter3.html
 -"La facultad", Página 85-87: #EBBCBC (ROSADO)
 
 ## Brief contextualization of the work and the content of the chapter analyzed.
-Present in a few lines the work, its author, and the relevance of the chosen chapter within the work.
+El capítulo 3 del proyecto fue analizado en una línea temporal creada por Skye Mata, Lauren Barnwell y Leanna Navo. Este capítulo explora el concepto de frontera como espacio físico y cultural entre México y EE. UU., mezclando historia personal, mitología indígena y el impacto de la colonización. La línea temporal es relevante porque capítulo tres presenta los lugares y acontecimientos como capas que se conectan con el tiempo: antes del patriarcado tolteca/azteca, durante la conversión colonial y en la vida moderna chicana de la frontera. Usar una línea temporal ayuda a organizar cómo cambia el significado espiritual y social de cada lugar, lo cual es clave en el argumento del capítulo. También es útil para ver la causa y efecto de cada evento histórico en la identidad de la narradora, por eso la línea temporal es una herramienta ideal.
 
 ## The objective of your assignment: 
 What is the purpose of the reading guide? Clearly explain what you want to illuminate or make easier for the reader (themes, characters, narrative, words, context, etc.).
