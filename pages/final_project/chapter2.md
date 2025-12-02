@@ -120,13 +120,18 @@ En el segundo gráfico, la cultura aparece repetidamente a lo largo del capítul
 
 ### *pagina 60*
 
-Resumen: En esta sección de la historia, nos cuenta la historia de una joven a quien la gente de un pequeño pueblo la considera “mitad y mitad”. Esto se refiere a un individuo que cambia de sexo cada seis meses. En la comunidad veía esto como un fenómeno que generaba miedo, pero al mismo tiempo la consideraban un elemento mágico, debido a que ciertas creencias antiguas, personas diferentes o anormales tenían poderes especiales. El narrador refleja que ser a la vez masculino y femenino puede ser emocionante y que quienes son “mitad y mitad” no tienen confusión sobre su identidad; lo que duele es vivir en una sociedad dura que obliga a ser solamente una cosa.   
+**Resumen:** En esta sección de la historia, nos cuenta la historia de una joven a quien la gente de un pequeño pueblo la considera “mitad y mitad”. Esto se refiere a un individuo que cambia de sexo cada seis meses. En la comunidad veía esto como un fenómeno que generaba miedo, pero al mismo tiempo la consideraban un elemento mágico, debido a que ciertas creencias antiguas, personas diferentes o anormales tenían poderes especiales. El narrador refleja que ser a la vez masculino y femenino puede ser emocionante y que quienes son “mitad y mitad” no tienen confusión sobre su identidad; lo que duele es vivir en una sociedad dura que obliga a ser solamente una cosa.   
 **Palabras clave:**
 
 * Mitad  
   * Aunque es el título de esta parte del capítulo, “Mitad” también funciona como una metáfora parecida a un subibaja, que muestra cómo una persona puede desplazarse entre dos posiciones o identidades. Del mismo modo, el término describe a alguien que puede ser hombre o mujer, lo que provoca que no encaje en una sociedad que solo acepta categorías fijas. Para el pueblo, una persona “mitad y mitad” es vista como algo extraño o anormal. Sin embargo, el narrador transforma ese significado y convierte “mitad” en una identidad rica y completa, capaz de unir lo masculino y lo femenino en un mismo cuerpo. Así, la palabra deja de ser un insulto y se convierte en una manera de nombrar una dualidad poderosa.
 
 **Su importancia** 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/assets/img/Michelle-mapa-de-palabras-projecto-final-2.jpg" width="60%">
+</p>
+
 En esta parte del capítulo, la palabra mitad aparece cuatro veces y está concentrada en dos segmentos específicos de texto. El primero es donde utilizan la palabra mitad para marcar a alguien como extraño o anormal. En el segundo, el texto redefine la palabra transformando la palabra en una identidad rica y completa, capaz de unir lo masculino y lo femenino en un mismo cuerpo. Al mismo tiempo esto sigue la metáfora a un subibaja porque estos dos picos muestran lo negativo y lo positivo que esta palabra brinda a esta historia. 
 
 
