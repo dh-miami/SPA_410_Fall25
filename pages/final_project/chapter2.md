@@ -11,7 +11,7 @@ permalink: /chapter2.html
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Electric_Oaks_on_the_Hillside.jpg/500px-Electric_Oaks_on_the_Hillside.jpg" 
     alt="Electric Oaks on the Hillside" 
-    width="500" 
+    width="70%" 
     style="height:180px; object-fit:cover; object-position:center;" 
   />
 </p>
@@ -23,7 +23,7 @@ permalink: /chapter2.html
 <div align="center">
   <!-- Exported from Voyant Tools (voyant-tools.org). -->
   <iframe 
-      style="width: 412px; height: 289px;" 
+      style="width: 70%; height: 289px;" 
       src="https://voyant-tools.org/tool/Cirrus/?stopList=keywords-1831c2fbf641cede2fc2c504d92f52ad&corpus=35339adeef6c882c5a2a74b7a32e54fc">
   </iframe>
 </div>
@@ -38,7 +38,7 @@ El word map muestra de manera visual las ideas principales del capítulo. Al ver
 <div align="center">
   <!-- Exported from Voyant Tools (voyant-tools.org). -->
   <iframe 
-      style="width: 401px; height: 411px;" 
+      style="width: 70%; height: 411px;" 
       src="https://voyant-tools.org/tool/Trends/?query=costumbres*&query=rebeld%C3%ADa*&mode=document&corpus=7fe3080e05cf237069bb93b77671e847">
   </iframe>
 </div>
@@ -173,7 +173,7 @@ En esta parte del capítulo, la palabra mitad aparece cuatro veces y está conce
   it depends on this server.
   Feel free to change the height and width values or other styling below: -->
   <iframe 
-      style="width: 402px; height: 355px;" 
+      style="width: 70%; height: 355px;" 
       src="https://voyant-tools.org/tool/Trends/?query=cultura*&query=miedo*&mode=document&corpus=38217fae188316da7371a0761083db9e">
   </iframe>
 </div>
