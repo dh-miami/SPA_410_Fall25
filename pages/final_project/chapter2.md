@@ -195,6 +195,7 @@ En este capítulo, la palabra *miedo* tiene un peso central porque expresa la ex
 
 ## **La herida de la india-Mestiza**
 ### *pagina 64-65*
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MOM_D093_Donna_Marina_%28La_Malinche%29.jpg/500px-MOM_D093_Donna_Marina_%28La_Malinche%29.jpg"
        alt="Donna Marina (La Malinche)" width="400" />
