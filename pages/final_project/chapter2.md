@@ -4,7 +4,21 @@ layout: page
 permalink: /chapter2.html
 ---
 
-# Chapter 2
+
+<div align="center">
+
+# **Chapter 2: Movimientos de rebeldía y las culturas que traicionan**
+
+</div>
+<p align="center">
+  <img 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Electric_Oaks_on_the_Hillside.jpg/500px-Electric_Oaks_on_the_Hillside.jpg" 
+    alt="Electric Oaks on the Hillside" 
+    width="600" 
+    style="height:auto; max-height:250px; object-fit:cover;"
+  />
+</p>
+
 
 ## Preguntas sobre el capítulo 
 - ¿Cuál es la relación entre *homephobia* y homofobia? (Euge)
@@ -144,6 +158,19 @@ En el segundo gráfico, la cultura aparece repetidamente a lo largo del capítul
 
 ## **Terrorismo íntimo: vida en las tierras fronterizas** 
 ### *pagina **62-64***
+<div align="center">
+  <!-- Exported from Voyant Tools (voyant-tools.org).
+  The iframe src attribute below uses a relative protocol to better function with both
+  http and https sites, but if you're embedding this into a local web page (file protocol)
+  you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
+  it depends on this server.
+  Feel free to change the height and width values or other styling below: -->
+  <iframe 
+      style="width: 402px; height: 355px;" 
+      src="https://voyant-tools.org/tool/Trends/?query=cultura*&query=miedo*&mode=document&corpus=38217fae188316da7371a0761083db9e">
+  </iframe>
+</div>
+
 **Resumen:** En este capítulo, la narradora describe cómo la vida de las mujeres de color en los espacios fronterizos está marcada por un miedo constante, un “terrorismo íntimo” que se siente en el cuerpo y en la mente. La inseguridad nace tanto de la violencia externa —ataques, persecución, desvalorización racial— como de las presiones internas de su propia cultura y de la cultura blanca, que critican, inmovilizan y limitan su capacidad de actuar. La narradora reconoce sus raíces mexicanas como parte esencial de su identidad, pero también denuncia el machismo, los mitos y las contradicciones que han herido a las mujeres de su comunidad, lo que responde directamente a la pregunta de *“¿cómo traicionó la cultura mexicana a Gloria Anzaldúa?”*, ya que muestra cómo esa misma cultura que le da identidad también la degrada y busca controlarla. Aunque lleva “su hogar” a cuestas, no acepta los aspectos culturales que la lastiman. El capítulo culmina con su deseo de libertad: reclamar su espacio y crear una nueva cultura mestiza, construida desde su propia experiencia, fuerza y visión feminista.
 
 **Palabras clave:**
