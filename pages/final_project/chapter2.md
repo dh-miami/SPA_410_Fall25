@@ -9,15 +9,15 @@ permalink: /chapter2.html
 
 # **Chapter 2: Movimientos de rebeldía y las culturas que traicionan**
 
-</div>
 <p align="center">
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Electric_Oaks_on_the_Hillside.jpg/500px-Electric_Oaks_on_the_Hillside.jpg" 
     alt="Electric Oaks on the Hillside" 
-    width="600" 
-    style="height:auto; max-height:250px; object-fit:cover;"
+    width="900" 
+    style="height:150px; object-fit:cover; object-position:center;"
   />
 </p>
+
 
 
 ## Preguntas sobre el capítulo 
