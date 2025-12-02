@@ -17,7 +17,7 @@ Brief summary of the work we did, why we decided to do it, etc.
 
 ## La Presentación
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSzQbIW0YCBclVDZ_6IykKTLxpWacSw8Kdd7EMWIBILaJNJxPLhEUIksnKdC8IchSNYIGB2pEaBd8vM&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSzQbIW0YCBclVDZ_6IykKTLxpWacSw8Kdd7EMWIBILaJNJxPLhEUIksnKdC8IchSNYIGB2pEaBd8vM&font=Default&lang=en&initial_zoom=2&width=100%25&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Hoja de Cálculo
 
