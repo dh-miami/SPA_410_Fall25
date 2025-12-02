@@ -20,35 +20,6 @@ permalink: /chapter2.html
 
 
 
-
-## Preguntas sobre el capítulo 
-- ¿Cuál es la relación entre *homephobia* y homofobia? (Euge)
-
-- ¿Cómo caracterizaría a lo que Anzaldúa llama "Bestia-Sombra"? ¿Es un alter ego? ¿Una parte de su identidad? ¿Rasgo de personalidad? (Skye)
-
-- ¿Cómo traicionó la cultura mexicana a Gloria Anzaldúa, como describe en la parte final del capítulo 2? (Skye)
-
-- ¿Puedes explicar más la historia de La Chingada? (para los lectores que nunca han oido la historia) (Leanna)
-
-- ¿Qué es el contexto detrás de la mención de La Llorona? (Leanna) 
-
-- ¿Cuales son unos "costumbres de respeto a las mujeres" (p. 55)? (Leanna)
-
-- ¿Qué características de ambas culturas critica ella y por qué? (Lauren)
-
-- ¿De qué formas se manifesta la rebelión femenina contra la norma? (Lauren)
-
--  ¿Quién es la Malinche y en qué se diferencia la interpretación de Anzaldúa de ella de la tradicional? (Ruthi)
-  
--  ¿Qué define una mala mujer o vendida? (Ruthi)
-
-- ¿Por qué la autora combina mitología indígena con análisis feminista contemporáneo? (Lauren B)
-
-- ¿Cuál es la relación entre rebeldía, conocimiento y espiritualidad? (Lauren B)
-
-- Cuales son algunas maneras que el uso de "Spanglish" ayudara al lector entender la experiencia de Anzaldua? (Alana)
-
-
 ## Visualización de Voyant
 <div align="center">
   <!-- Exported from Voyant Tools (voyant-tools.org). -->
@@ -58,7 +29,9 @@ permalink: /chapter2.html
   </iframe>
 </div>
 
+### **Reflexión sobre el word map y su significado para el capítulo**
 
+El word map muestra de manera visual las ideas principales del capítulo. Al ver las palabras que más se repiten como cultura, mujer, rebeldía, cuerpo, obediencia y traición, se entiende que Anzaldúa critica cómo la cultura controla, forma y limita a las mujeres. Las palabras relacionadas con el control (obediencia, autoridad, religión) aparecen junto a palabras de resistencia (rebeldía, ruptura, voz, cuerpo), lo que refleja el conflicto central del capítulo: seguir las reglas culturales o luchar por una identidad propia. Al ver estas palabras agrupadas, también se nota cómo Anzaldúa siempre conecta lo personal con lo social. No hay identidad sin cultura, y no hay rebeldía sin algo que desafiar. En este sentido, el word map hace visible la estructura del texto: muestra los temas a los que Anzaldúa regresa una y otra vez como la violencia simbólica que viven las mujeres pero también la fuerza de su desobediencia. Este mapa explica por qué el capítulo se siente tan intenso e íntimo porque las palabras que se repiten crean un paisaje que refleja exactamente la lucha que ella describe.
 
 
 ## **Movimientos de rebeldía y las culturas que traicionan** 
@@ -143,6 +116,20 @@ Por otro lado, la palabra hombre aparece de manera constante, aunque con picos b
 
 En el segundo gráfico, la cultura aparece repetidamente a lo largo del capítulo. Esto muestra que la autora está analizando la cultura como la fuerza dominante que moldea creencias, comportamientos y jerarquías sociales. La palabra funciona como un planeta donde la opresión, la moralidad, la sexualidad, el miedo y la desviación va en contra de ello y va alrededor del planeta como un eje. 
 
+## **Mitad y mitad**
+
+### *pagina 60*
+
+Resumen: En esta sección de la historia, nos cuenta la historia de una joven a quien la gente de un pequeño pueblo la considera “mitad y mitad”. Esto se refiere a un individuo que cambia de sexo cada seis meses. En la comunidad veía esto como un fenómeno que generaba miedo, pero al mismo tiempo la consideraban un elemento mágico, debido a que ciertas creencias antiguas, personas diferentes o anormales tenían poderes especiales. El narrador refleja que ser a la vez masculino y femenino puede ser emocionante y que quienes son “mitad y mitad” no tienen confusión sobre su identidad; lo que duele es vivir en una sociedad dura que obliga a ser solamente una cosa.   
+**Palabras clave:**
+
+* Mitad  
+  * Aunque es el título de esta parte del capítulo, “Mitad” también funciona como una metáfora parecida a un subibaja, que muestra cómo una persona puede desplazarse entre dos posiciones o identidades. Del mismo modo, el término describe a alguien que puede ser hombre o mujer, lo que provoca que no encaje en una sociedad que solo acepta categorías fijas. Para el pueblo, una persona “mitad y mitad” es vista como algo extraño o anormal. Sin embargo, el narrador transforma ese significado y convierte “mitad” en una identidad rica y completa, capaz de unir lo masculino y lo femenino en un mismo cuerpo. Así, la palabra deja de ser un insulto y se convierte en una manera de nombrar una dualidad poderosa.
+
+**Su importancia** 
+En esta parte del capítulo, la palabra mitad aparece cuatro veces y está concentrada en dos segmentos específicos de texto. El primero es donde utilizan la palabra mitad para marcar a alguien como extraño o anormal. En el segundo, el texto redefine la palabra transformando la palabra en una identidad rica y completa, capaz de unir lo masculino y lo femenino en un mismo cuerpo. Al mismo tiempo esto sigue la metáfora a un subibaja porque estos dos picos muestran lo negativo y lo positivo que esta palabra brinda a esta historia. 
+
+
 
 ## **Homofobia: miedo de ir a casa**
 
@@ -215,3 +202,32 @@ En este capítulo, la palabra *miedo* tiene un peso central porque expresa la ex
 **Coatalopeuh**: la diosa madre indígena que subyace bajo la figura de la Virgen de Guadalupe, fusionando el simbolismo de la serpiente con la divinidad terrestre precolonial. Ella encarna la sanación, la supervivencia y la continuidad de la espiritualidad femenina indígena.  
 india interno:  
 **Mestizaje**: Anzaldúa utiliza el concepto de mestizaje para describir la identidad híbrida, conflictiva y creativa de la mujer mestiza, que debe desenvolverse en múltiples mundos al tiempo que transforma las heridas de la historia colonial en nuevas formas de conciencia.
+
+## Preguntas sobre el capítulo 
+- ¿Cuál es la relación entre *homephobia* y homofobia? (Euge)
+
+- ¿Cómo caracterizaría a lo que Anzaldúa llama "Bestia-Sombra"? ¿Es un alter ego? ¿Una parte de su identidad? ¿Rasgo de personalidad? (Skye)
+
+- ¿Cómo traicionó la cultura mexicana a Gloria Anzaldúa, como describe en la parte final del capítulo 2? (Skye)
+
+- ¿Puedes explicar más la historia de La Chingada? (para los lectores que nunca han oido la historia) (Leanna)
+
+- ¿Qué es el contexto detrás de la mención de La Llorona? (Leanna) 
+
+- ¿Cuales son unos "costumbres de respeto a las mujeres" (p. 55)? (Leanna)
+
+- ¿Qué características de ambas culturas critica ella y por qué? (Lauren)
+
+- ¿De qué formas se manifesta la rebelión femenina contra la norma? (Lauren)
+
+-  ¿Quién es la Malinche y en qué se diferencia la interpretación de Anzaldúa de ella de la tradicional? (Ruthi)
+  
+-  ¿Qué define una mala mujer o vendida? (Ruthi)
+
+- ¿Por qué la autora combina mitología indígena con análisis feminista contemporáneo? (Lauren B)
+
+- ¿Cuál es la relación entre rebeldía, conocimiento y espiritualidad? (Lauren B)
+
+- Cuales son algunas maneras que el uso de "Spanglish" ayudara al lector entender la experiencia de Anzaldua? (Alana)
+
+
