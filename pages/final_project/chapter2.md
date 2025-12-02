@@ -13,10 +13,11 @@ permalink: /chapter2.html
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Electric_Oaks_on_the_Hillside.jpg/500px-Electric_Oaks_on_the_Hillside.jpg" 
     alt="Electric Oaks on the Hillside" 
-    width="900" 
-    style="height:150px; object-fit:cover; object-position:center;"
+    width="500" 
+    style="height:180px; object-fit:cover; object-position:center;" 
   />
 </p>
+
 
 
 
