@@ -15,7 +15,8 @@ permalink: /chapter2.html
     style="height:180px; object-fit:cover; object-position:center;" 
   />
 </p>
-
+<small>“Electric Oaks on the Hillside.”Wikimedia Commons.</small>
+</p>
 
 
 ## Visualización de Voyant
@@ -67,6 +68,8 @@ En el capítulo, la palabra *rebeldía* aparece con mayor fuerza al inicio porqu
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Relief_map_of_Texas.png" 
        alt="Relief map of Texas" width="400" />
+<p align="center">
+<small>Mapa físico del estado de Texas. Wikimedia Commons.</small>
 </p>
 
 
@@ -149,7 +152,9 @@ En esta parte del capítulo, la palabra mitad aparece cuatro veces y está conce
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2012MarchaGay73.JPG/640px-2012MarchaGay73.JPG"
        alt="2012 Marcha Gay" width="400" />
 </p>
-
+<p align="center">
+<small>Marcha del Orgullo LGBT, Ciudad de México, 2022. Fotografía 2012MarchaGay73. Wikimedia Commons.</small>
+</p>
 
 - Anzaldúa explica cómo las Chicanas lesbianas enfrentan rejeción, crítica.. En una manera unico y dificil debido a la intersecionalidad de sus identidades como mujeres, personas queer (lesbianas) y chicanas (personas de color). La sexualidad queer desafía simultáneamente las normas mexicanas católicas e indígenas, creando un conflicto profundo con su cultura de origen, creando una situación donde tienen miedo de ir a casa, por su lugar de origen. También están rechazando de la cultura blanca o dominante, que a veces está más receptivo a su queer identidad, debido a su color/ nacimiento sin uno serían aceptados o rechazados se algun grupo pero debido al tres no tienen pertinencia en ninguna comunidad 
 
@@ -194,7 +199,9 @@ En este capítulo, la palabra *miedo* tiene un peso central porque expresa la ex
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MOM_D093_Donna_Marina_%28La_Malinche%29.jpg/500px-MOM_D093_Donna_Marina_%28La_Malinche%29.jpg"
        alt="Donna Marina (La Malinche)" width="400" />
 </p>
-
+<p align="center">
+<small>Retrato de Doña Marina (La Malinche).Wikimedia Commons.</small>
+</p>
 
 **La herida de la india-Mestiza:** herida histórica que llevan las mujeres indígenas y mestizas debido de siglos de racismo, colonialismo, masogania
 
@@ -240,4 +247,29 @@ india interno:
 
 - Cuales son algunas maneras que el uso de "Spanglish" ayudara al lector entender la experiencia de Anzaldua? (Alana)
 
+# Bibliografía 
 
+## Imágenes
+
+Electric Oaks on the Hillside. *Wikimedia Commons*,  
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Electric_Oaks_on_the_Hillside.jpg/500px-Electric_Oaks_on_the_Hillside.jpg.
+
+"Relief Map of Texas." *Wikimedia Commons*,  
+https://upload.wikimedia.org/wikipedia/commons/1/1a/Relief_map_of_Texas.png.
+
+"2012MarchaGay73." *Wikimedia Commons*,  
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2012MarchaGay73.JPG/640px-2012MarchaGay73.JPG.
+
+"MOM_D093_Donna_Marina_(La_Malinche).jpg." *Wikimedia Commons*,  
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MOM_D093_Donna_Marina_%28La_Malinche%29.jpg/500px-MOM_D093_Donna_Marina_%28La_Malinche%29.jpg.
+
+## Recurso digital
+
+"Life Story: Malitzen (La Malinche)." *Women & the American Story*,  
+New-York Historical Society,  
+https://wams.nyhistory.org/early-encounters/spanish-colonies/malitzen/.
+
+## Libro — Gloria Anzaldúa
+
+Anzaldúa, Gloria. *Borderlands/La Frontera: The New Mestiza*. 4th ed., Aunt Lute Books, 2012.  
+Capítulo 2: "Movimientos de rebeldía y las culturas que traicionan."
