@@ -6,7 +6,7 @@ permalink: /chapter5.html
 
 # Chapter 5
 
-[Spreadsheet of VoyantTools Content](https://docs.google.com/spreadsheets/d/15e39_FCLcvOuLax7B2Ai8ve0VHzCWBln25j46fqI0QE/edit?usp=sharing)
+[Hoja de cálculo con el contenido de VoyantTools](https://docs.google.com/spreadsheets/d/15e39_FCLcvOuLax7B2Ai8ve0VHzCWBln25j46fqI0QE/edit?usp=sharing)
 
 ## Codigo de colores:
 - Parte 1 (103-106): azul claro #97e8f0
