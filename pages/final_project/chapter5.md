@@ -9,10 +9,10 @@ permalink: /chapter5.html
 [Hoja de cálculo con el contenido de VoyantTools](https://docs.google.com/spreadsheets/d/15e39_FCLcvOuLax7B2Ai8ve0VHzCWBln25j46fqI0QE/edit?usp=sharing)
 
 ## Codigo de colores:
-- Parte 1 (103-106): azul claro #97e8f0
+- Parte 1 (103-106): azul oscuro #0b21e0
 - Parte 2 (107-111): verde oscuro #065938
-- Parte 3 (112-115): morado claro #e9bef7
-- El capitulo completo: rosa #f296cc
+- Parte 3 (112-115): morado #750d8c
+- El capitulo completo: rosa #8c0d4f
 
 
 ## Codigo de la Presentación
