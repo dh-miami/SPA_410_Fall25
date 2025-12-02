@@ -139,7 +139,7 @@ En el segundo gráfico, la cultura aparece repetidamente a lo largo del capítul
 En esta parte del capítulo, la palabra mitad aparece cuatro veces y está concentrada en dos segmentos específicos de texto. El primero es donde utilizan la palabra mitad para marcar a alguien como extraño o anormal. En el segundo, el texto redefine la palabra transformando la palabra en una identidad rica y completa, capaz de unir lo masculino y lo femenino en un mismo cuerpo. Al mismo tiempo esto sigue la metáfora a un subibaja porque estos dos picos muestran lo negativo y lo positivo que esta palabra brinda a esta historia. 
 
 <p align="center">
-  <img src="https://m.media-amazon.com/images/I/71LiKQ5Rx9L._AC_UF894,1000_QL80_.jpg" alt="">
+  <img src="https://m.media-amazon.com/images/I/71LiKQ5Rx9L._AC_UF894,1000_QL80_.jpg" width="40%" alt="">
 </p>
 
 
