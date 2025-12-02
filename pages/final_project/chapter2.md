@@ -112,7 +112,12 @@ Palabras clave:
   * Simboliza al grupo que históricamente ha tenido el poder de crear esas normas, beneficiarse de ellas y definir lo que las mujeres pueden o no pueden hacer. 
 
 **Su importancia:**   
-Los gráficos muestran que las palabras mujer, hombre y cultura no solo aparecen varias veces en el texto, sino que se observa un gran concentración en momentos clave del texto, lo que revela su importancia y mensaje en el capítulo. 
+Los gráficos muestran que las palabras mujer, hombre y cultura no solo aparecen varias veces en el texto, sino que se observa un gran concentración en momentos clave del texto, lo que revela su importancia y mensaje en el capítulo.
+
+En este primer gráfico, la mujer tiene picos altos al inicio, lo que coincide con las secciones del texto describiendo cómo la sociedad impone roles estrictos y expectativas sobre las mujeres, y cómo estas mujeres son juzgadas, controladas y definidas por normas patriarcales. Esta alta frecuencia muestra que el análisis gira en torno a la experiencia femenina dentro de una sociedad patriarcal y dura. 
+
+Por otro lado, la palabra hombre aparece de manera constante, aunque con picos bajos. Estas apariciones suelen coincidir con las partes del texto donde se menciona quien establece y sostiene las normas culturales. La presencia de esta palabra subraya cómo el texto describe a los hombres como los creadores y reforzadores del sistema de valores dominante.  
+
 
 ## **Homofobia: miedo de ir a casa**
 
