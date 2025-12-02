@@ -65,12 +65,12 @@ En el capítulo, la palabra *rebeldía* aparece con mayor fuerza al inicio porqu
 
 ### *pagina 56*
 
-<p align="center">
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Relief_map_of_Texas.png" 
        alt="Relief map of Texas" width="400" />
-<p align="center">
+
 <small>Mapa físico del estado de Texas. Wikimedia Commons.</small>
-</p>
+
 
 
 
