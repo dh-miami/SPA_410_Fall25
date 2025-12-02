@@ -15,7 +15,7 @@ permalink: /chapter2.html
     style="height:180px; object-fit:cover; object-position:center;" 
   />
 </p>
-<small>“Electric Oaks on the Hillside.”Wikimedia Commons.</small>
+<small>“Electric Oaks on the Hillside.” Wikimedia Commons.</small>
 
 
 
