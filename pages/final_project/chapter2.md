@@ -188,12 +188,12 @@ En esta parte del capítulo, la palabra mitad aparece cuatro veces y está conce
 En este capítulo, la palabra *miedo* tiene un peso central porque expresa la experiencia emocional de la mujer de color en los espacios fronterizos: un terror constante que se siente “bajo la epidermis”, producto tanto de la violencia externa como de las presiones internas de su propia comunidad. El miedo aparece repetidamente porque funciona como una fuerza que paraliza, inmoviliza y limita la capacidad de actuar, revelando cómo el peligro físico se convierte en un “terrorismo íntimo” que afecta el cuerpo, la identidad y la vida interior de la narradora. En cambio, *cultura* aparece a lo largo de todo el texto porque la narradora analiza cómo las culturas mexicana, blanca e indígena la han formado, herido y a la vez sostenido, lo cual responde directamente a las preguntas de *“¿cómo traicionó la cultura mexicana a Gloria Anzaldúa?”* y *“¿qué características de ambas culturas critica ella y por qué?”*, ya que muestra que tanto el machismo dentro de su propia comunidad como la presión disciplinaria de la cultura blanca contribuyen a esta sensación de peligro. Distingue entre los elementos culturales que la dañan —como el machismo, la crítica constante o los dogmas que buscan controlarla— y aquellos que le brindan raíces, historia y resistencia. Esta combinación no es casual: la presencia insistente de miedo y cultura estructura la progresión del capítulo, mostrando cómo la narradora transita desde la parálisis causada por el peligro hasta la afirmación de su derecho a cuestionar y reconstruir sus herencias culturales. La tensión entre ambos términos organiza todo el capítulo, ya que la narradora se debate entre el miedo que la inmoviliza y el deseo de reimaginar su cultura desde su propia autonomía; por eso, la gráfica refleja esta dinámica, mostrando cómo estos dos conceptos revelan la complejidad de la identidad chicana como un espacio de conflicto, resistencia y creación.
 
 ## **La herida de la india-Mestiza**
-
+### *pagina 64-65*
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/MOM_D093_Donna_Marina_%28La_Malinche%29.jpg/500px-MOM_D093_Donna_Marina_%28La_Malinche%29.jpg"
        alt="Donna Marina (La Malinche)" width="400" />
 </p>
-### *pagina 64-65*
+
 
 **La herida de la india-Mestiza:** herida histórica que llevan las mujeres indígenas y mestizas debido de siglos de racismo, colonialismo, masogania
 
