@@ -16,7 +16,7 @@ permalink: /chapter2.html
   />
 </p>
 <small>“Electric Oaks on the Hillside.”Wikimedia Commons.</small>
-</p>
+
 
 
 ## Visualización de Voyant
