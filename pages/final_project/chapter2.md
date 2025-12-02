@@ -120,6 +120,10 @@ En el segundo gráfico, la cultura aparece repetidamente a lo largo del capítul
 
 ### *pagina 60*
 
+<p align="center">
+  <img src="https://www.shutterstock.com/image-vector/gender-identity-concept-transition-person-260nw-1842744127.jpg" alt="Explicación de identidad de género">
+</p>
+
 **Resumen:** En esta sección de la historia, nos cuenta la historia de una joven a quien la gente de un pequeño pueblo la considera “mitad y mitad”. Esto se refiere a un individuo que cambia de sexo cada seis meses. En la comunidad veía esto como un fenómeno que generaba miedo, pero al mismo tiempo la consideraban un elemento mágico, debido a que ciertas creencias antiguas, personas diferentes o anormales tenían poderes especiales. El narrador refleja que ser a la vez masculino y femenino puede ser emocionante y que quienes son “mitad y mitad” no tienen confusión sobre su identidad; lo que duele es vivir en una sociedad dura que obliga a ser solamente una cosa.   
 **Palabras clave:**
 
