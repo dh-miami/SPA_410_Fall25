@@ -5,8 +5,6 @@ permalink: /chapter2.html
 ---
 
 
-<div align="center">
-
 # **Chapter 2: Movimientos de rebeldía y las culturas que traicionan**
 
 <p align="center">
