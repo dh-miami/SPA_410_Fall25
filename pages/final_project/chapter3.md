@@ -66,4 +66,6 @@ Meehan, Evan. “Coatlicue – Mythopedia.” Mythopedia, 2022, mythopedia.com/t
 
 White, Ethan Doyle. “Paganism | Religion.” Encyclopedia Britannica, 22 Mar. 2023, www.britannica.com/topic/paganism.
 
+Wikipedia Contributors. “Our Lady of Guadalupe.” Wikipedia, Wikimedia Foundation, 7 Jan. 2019, en.wikipedia.org/wiki/Our_Lady_of_Guadalupe.
+
 Wikipedia Contributors. “Paganism.” Wikipedia, Wikimedia Foundation, 4 Mar. 2019, en.wikipedia.org/wiki/Paganism.
