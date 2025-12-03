@@ -58,6 +58,8 @@ Estas preguntas de nuestros compañeros se responden y explican a lo largo de nu
 
 Anzaldúa, Gloria. Borderlands / La Frontera: The New Mestiza. Translated by Carmen Valle, Capitán Swing, 2016. Colección Ensayo.
 
+Meehan, Evan. “Coatlicue – Mythopedia.” Mythopedia, 2022, mythopedia.com/topics/coatlicue/.
+
 White, Ethan Doyle. “Paganism | Religion.” Encyclopedia Britannica, 22 Mar. 2023, www.britannica.com/topic/paganism.
 
 Wikipedia Contributors. “Paganism.” Wikipedia, Wikimedia Foundation, 4 Mar. 2019, en.wikipedia.org/wiki/Paganism.
