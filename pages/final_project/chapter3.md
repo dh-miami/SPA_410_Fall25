@@ -64,6 +64,8 @@ Google. “Google Ngram Viewer.” Google.com, 2012, books.google.com/ngrams/.
 
 Meehan, Evan. “Coatlicue – Mythopedia.” Mythopedia, 2022, mythopedia.com/topics/coatlicue/.
 
+Reyes, Raul A. “Our Lady of Guadalupe Is a Powerful Symbol of Mexican Identity.” NBC News, NBC News, 12 Dec. 2016, www.nbcnews.com/news/latino/our-lady-guadalupe-powerful-symbol-mexican-identity-n694216.
+
 White, Ethan Doyle. “Paganism | Religion.” Encyclopedia Britannica, 22 Mar. 2023, www.britannica.com/topic/paganism.
 
 Wikipedia Contributors. “Our Lady of Guadalupe.” Wikipedia, Wikimedia Foundation, 7 Jan. 2019, en.wikipedia.org/wiki/Our_Lady_of_Guadalupe.
