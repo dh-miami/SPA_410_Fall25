@@ -56,7 +56,11 @@ Estas preguntas de nuestros compañeros se responden y explican a lo largo de nu
 
 ## Bibliografía
 
+Aboulhosn, Angelica. “La Malinche, Hernán Cortés’s Translator and so Much More.” The National Endowment for the Humanities, 2023, www.neh.gov/article/la-malinche-hernan-cortess-translator-and-so-much-more.
+
 Anzaldúa, Gloria. Borderlands / La Frontera: The New Mestiza. Translated by Carmen Valle, Capitán Swing, 2016. Colección Ensayo.
+
+Google. “Google Ngram Viewer.” Google.com, 2012, books.google.com/ngrams/.
 
 Meehan, Evan. “Coatlicue – Mythopedia.” Mythopedia, 2022, mythopedia.com/topics/coatlicue/.
 
