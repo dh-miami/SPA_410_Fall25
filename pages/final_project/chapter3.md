@@ -18,6 +18,8 @@ Mientras Anzaldua provee explicación previa a conceptos extranjeros, buscamos p
 
 ## Preguntas sobre el capítulo 
 
+Estas preguntas de nuestros compañeros se responden y explican a lo largo de nuestra línea temporal, como se ha visto arriba.
+
 - ¿Qué significa “penetrar en la serpiente” para Anzaldúa? (Ruthi)
 
 - ¿Cómo describe Anzaldúa el “estado de Coatlicue”? (Ruthi)
