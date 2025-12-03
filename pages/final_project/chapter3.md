@@ -55,3 +55,5 @@ Estas preguntas de nuestros compañeros se responden y explican a lo largo de nu
 -"La facultad", Página 85-87: #EBBCBC (ROSADO)
 
 ## Bibliografía
+
+Anzaldúa, Gloria. Borderlands / La Frontera: The New Mestiza. Translated by Carmen Valle, Capitán Swing, 2016. Colección Ensayo.
