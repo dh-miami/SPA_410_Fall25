@@ -6,7 +6,9 @@ permalink: /chapter5.html
 
 # Chapter 5
 
-Brief summary of the work we did, why we decided to do it, etc.
+Borderlands/ La frontera por Gloria Anzaldúa revela la realidad de los chicanos viviendo en los estados unidos. El capítulo 5 ilumine los desafios de una joven que quiere integrarse en una sociedad estricta y poco acogedor. Su uso de simbolismo fuerte, ejemplos personales y análisis profundo crea un imagen de una imagen de lo que significa ser una mujer chicana y cómo Anzaldua encontró su identidad en medio de la confusión, el ridículo y la vergüenza de ser una mujer queer y culturalmente mixta.
+
+Dividimos el capítulo en tres partes para enfocar en los temas especificos. Con cada parte, analizamos las palabras más comunes y sus conexiones a los temas centrales. 
 
 ## Codigo de colores:
 - Parte 1 (103-106): azul oscuro #0b21e0
