@@ -51,3 +51,5 @@ Mientras Anzaldua provee explicación previa a conceptos extranjeros, buscamos p
 -"Las presencias", Página 81-85: #134C52 (AZUL OSCURO)
 
 -"La facultad", Página 85-87: #EBBCBC (ROSADO)
+
+## Bibliografía
