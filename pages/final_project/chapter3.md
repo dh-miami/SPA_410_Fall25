@@ -60,6 +60,8 @@ Aboulhosn, Angelica. “La Malinche, Hernán Cortés’s Translator and so Much 
 
 Anzaldúa, Gloria. Borderlands / La Frontera: The New Mestiza. Translated by Carmen Valle, Capitán Swing, 2016. Colección Ensayo.
 
+Castro, Michelle. “La Llorona | Legend, Description, History, & Facts | Britannica.” Www.britannica.com, Britannica, 1 Nov. 2023, www.britannica.com/topic/La-Llorona.
+
 Google. “Google Ngram Viewer.” Google.com, 2012, books.google.com/ngrams/.
 
 Meehan, Evan. “Coatlicue – Mythopedia.” Mythopedia, 2022, mythopedia.com/topics/coatlicue/.
