@@ -77,9 +77,15 @@ La imagen final de su madre cocinando a miles de kilómetros funciona como metá
 ## ¿Cuáles son los mensajes más importantes de Anzaldúa?
 
 ## Las frecuencias y las tendencias
+
+<iframe style='width: 477px; height: 391px;' src='https://voyant-tools.org/tool/Trends/?stopList=keywords-98903f49710dc0888c8e720f9e834241&query=espa%C3%B1ol&query=lengua&query=o&query=ingl%C3%A9s&query=chicanas&mode=document&corpus=980ec73a39ac50788ad695203c1fa536'></iframe>
+
 Claramente, ocurren muchos cambios en el vocabulario de Anzaldúa a lo largo del capítulo 5. Las palabras "español" e "ingles" son menos útiles en la media sección porque ella introduce los dialectos más específicos como "Tex-mex". Esta tendencia muestra las divisiones y complicaciones de los idiomas. Además, la palabra "chicanas" aumenta con el tiempo durante el capítulo que representa su descubrimiento del femenismo. Gloria empieza entender su sexualidad y el impacto del misoginismo en la sociedad chicana.
 
 ## Nube de palabras completa
+
+<iframe style='width: 477px; height: 391px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-98903f49710dc0888c8e720f9e834241&whiteList=&corpus=980ec73a39ac50788ad695203c1fa536'></iframe>
+
 Esta nube de palabras es importante porque muestra los temas a lo largo del capítulo pero también enfatiza el matiz entre cada parte del capítulo. Este nube es muy similar a la nube en parte 1 pero muy diferente de la nube de la parte 3. La distinción requiere la necesidad de separar el capítulo en tres secciones respectivas para poder comprender y analizar verdaderamente el mensaje de Anzaldúa.
 
 ## El Uso de Voyant
