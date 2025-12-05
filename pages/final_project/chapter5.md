@@ -14,9 +14,13 @@ Dividimos el capítulo en tres partes para enfocar en los temas especificos. Con
 
 Capítulo 5 está lleno de metaforás ricas, simbolos poderosos, y experiencias formativas de Gloria Anzaldúa. Analizamos todo y escribimos unos resuménes de cada sección para enfatizar el matiz entre los temas incluidos en cada sección.
 
+
+
 ## Introducción
 
 Antes de leer Borderlands, es importante tener en mente que Anzaldúa está contando cómo se siente crecer entre dos culturas y cómo esa mezcla la marca profundamente. Estas historias funcionan como una serie de recuerdos que explican su identidad, pero también muestran las presiones que la hicieron dudar de su propia cultura. Para entender nuestro capítulo mejor, podemos usar lo que hemos aprendido en clase: fijarnos en su tono, en cómo usa el lenguaje, en los símbolos culturales y en la manera en que describe las cosas diarias de su vida. Con esa mirada, podemos ver todas las capas del texto y entender cómo Anzaldúa transforma experiencias de vergüenza, distancia y nostalgia en una reflexión poderosa sobre lo que significa vivir en los borderlands.
+
+
 
 # Páginas 103-106
 
@@ -39,7 +43,10 @@ Estas conexiones muestran la gravedad y la violencia asociadas con la lengua chi
 ## Explicación del Parte 1
 Parte 1 abre el capítulo con un diálogo de una dentista que quiere controlar la lengua salvaje de Anzaldúa. Esta metáfora de apertura es una forma poderosa de introducir temas que abarcan todo el capítulo, como el lenguaje, el control, el prejuicio, la censura y la identidad. Como mujer joven, Gloria experimenta prejuicio por parte de maestros, compañeros y su propia familia hacia los chicanos. Ella vive como una persona incompleta con una identidad indefinida. Ella lucha con ser "demasiado americanizada", pero también "demasiado chicana". Esta sección del capítulo 5 subraya las dificultades de ser chicano en un mundo que no acepta a personas con culturas mezcladas. Su acento cuando ella habla inglés es demasiado fuerte, pero su vocabulario cuando ella habla español es una "mutilación" del idioma. Anzaldúa selecciona vocabulario fuerte y simbólico de la lucha interna asociada con el idioma y la identidad. A ella no se le permite identificarse con ninguna de las culturas y lucha por encontrar su lugar. Anzaldúa ilumina las experiencias de su niñez para enfatizar el constante ridículo que enfrenta tanto por parte de los estadounidenses como de los españoles. La nube de palabras representa el choque entre las culturas con dos de las palabras más comunes siendo "español" e "inglés". A lo largo del capítulo ella utiliza la lengua como un símbolo representando el feminismo, el idioma, la cultura y Gloria Anzaldúa misma. Hay muchos ejemplos en su niñez de unas personas tratando de controlar su "lengua" y por eso su identidad. Esta parte es una introducción fuerte a un capítulo lleno de experiencias de primera mano que detallan las dificultades de ser una mujer chicana.
 
+
+
 # Páginas 107-111
+
 ## El mestizaje lingüístico
 Parte 2 enfoca en la complejidad de las lenguas, las asociaciones de gente con dialectos diferentes y el terrorismo lingüístico y el conflicto interno.
 
@@ -58,7 +65,10 @@ El mapa de conexiones complementa las ideas ya discutidas por visualizando como 
 Algo muy profundo es cómo el mapa hace visible las conexiones entre español, chicana, lengua y malo, que destacan la asociación entre el idioma de Anzaldúa y su estigma. A la vez, hay líneas entre chicanas, nuestra y lengua, lo cual coincide con el mensaje de que las chicanas deben resolver su conflicto interno y tener orgullo de su identidad lingüística. 
 En conjunto, las visualizaciones nos permiten observar cómo la lengua modela la vida de alguien que pertenece a dos mundos.
 
+
+
 # Páginas 112-115
+
 ## La asimilación cultural y algunas implicaciones de ser de dos mujeres
 Parte 3 se centra en la identidad y conflicto son si mismo, la censoria y visibilidad académica y la memoria cultural.
 
@@ -73,7 +83,10 @@ En las últimas páginas del capítulo 5, Anzaldúa usa recuerdos como sus lectu
 También describe la mezcla de orgullo y vergüenza hacia la cultura mexicana que vivió de niña: el cine, los boleros, la música norteña. Palabras culturas como esas aparecen mucho y comunican los sentimientos fuertes que tiene ella. Esa ambivalencia resume la experiencia chicana, donde lo propio es a la vez refugio y conflicto.
 La imagen final de su madre cocinando a miles de kilómetros funciona como metáfora de la memoria migrante: la distancia aclara lo que nos forma. Así, Anzaldúa muestra que los borderlands son un espacio emocional lleno de contradicciones del que surge la “nueva conciencia mestiza”.
 
+
+
 # El Capítulo Completo (Páginas 103-115)
+
 ## ¿Cuáles son los mensajes más importantes de Anzaldúa?
 
 ## Las frecuencias y las tendencias
@@ -90,6 +103,8 @@ Esta nube de palabras es importante porque muestra los temas a lo largo del cap�
 
 ## El Uso de Voyant
 Utilizamos herramientas de Voyant como la nube de palabras, que muestra los términos más comunes y nos permite refinar la lista mediante palabras clave para enfocarnos en temas específicos, y el gráfico de frecuencia y tendencia, que revela cómo cambian esos temas a lo largo del capítulo y pone de manifiesto conexiones amplias dentro del texto. Estas herramientas nos ofrecen nuevas relaciones que observar y ayudan a revelar los temas y opiniones de Anzaldúa de manera más analítica. Elegimos Voyant para este capítulo porque ofrece una variedad de recursos que facilita separar nuestras secciones y comprender el tema general, además de permitir conectar palabras, ideas y temas que aparecen en distintas partes del texto. En conjunto, proporciona un análisis más profundo apoyado por elementos visuales que enriquecen nuestra interpretación.
+
+
 
 ## Conclusión: Respondiendo a las preguntas guiadas
 Nuestra guía de lectura pretende responder a estas preguntas que nuestra clase ha sugerido que serían útiles para un lector nuevo. 
