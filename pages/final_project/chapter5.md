@@ -5,7 +5,8 @@ permalink: /chapter5.html
 ---
 
 # Chapter 5 
-## Como domar una lengua salvaje: El poder de Voyant Tools como una herramienta de análisis
+## Como domar una lengua salvaje
+### Una guía de lectura a través de Voyant Tools
 
 Borderlands/ La frontera por Gloria Anzaldúa revela la realidad de los chicanos viviendo en los estados unidos. El capítulo 5 ilumine los desafios de una joven que quiere integrarse en una sociedad estricta y poco acogedor. Su uso de simbolismo fuerte, ejemplos personales y análisis profundo crea un imagen de una imagen de lo que significa ser una mujer chicana y cómo Anzaldua encontró su identidad en medio de la confusión, el ridículo y la vergüenza de ser una mujer queer y culturalmente mixta.
 
