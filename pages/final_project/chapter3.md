@@ -11,6 +11,7 @@ El Capítulo 3 fue analizado a partir de una línea temporal creada por Skye Mat
 Mientras Anzaldua provee una explicación previa a algunos conceptos extranjeros, queremos ofrecer primero un contexto adicional para los lectores que no están familiarizados con los principios fundamentales de las sociedades paganas y la cultura o territorio Azteca. Anzaldua salta entre períodos temporales y conceptos, así la línea temporal nos ayuda a organizar mejor sus puntos y visualizar la evolución de la cultura Chicana que retrata a lo largo del capítulo. 
 
   [Spreadsheet for TimeLine Entries](https://docs.google.com/spreadsheets/d/1oTVbdR2q0WR-bKXHeQ1suMg5aZbwbnurIT2mrSmZ4x0/edit?usp=sharing)
+*Nota: Los picos en los gráficos de Google Ngram se emplearon para determinar las fechas de conceptos cuya cronología es más ambigua*
   
 ## Notas al texto
 
