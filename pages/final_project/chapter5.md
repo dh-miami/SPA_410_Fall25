@@ -25,9 +25,15 @@ Antes de leer Borderlands, es importante tener en mente que Anzaldúa está cont
 Parte 1 enfatiza la identidad complicada de una joven en la frontera, el simbolismo asociado con la lengua, y la perspectiva sobre el idioma chicano.
 
 ## Nube de palabras
+
+<iframe style='width: 477px; height: 392px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-98903f49710dc0888c8e720f9e834241&whiteList=&corpus=1c2df3f69e61f191a519b3b9bda2f8a2'></iframe>
+
 Las palabras "inglés", "español", "lengua" y "boca" dominan la nube. La palabra "lengua" funciona como un símbolo dominante a lo largo del capítulo 5 y representa la censura, la expresión, la identidad y la experiencia chicana. También hay palabras como "ser" y "era" que representan la lucha interna con el idioma y la identidad. 
 
 ## Las conexiones
+
+<iframe style='width: 477px; height: 391px;' src='https://voyant-tools.org/tool/CollocatesGraph/?stopList=keywords-98903f49710dc0888c8e720f9e834241&query=lengua&query=espa%C3%B1ol&query=ingl%C3%A9s&corpus=1c2df3f69e61f191a519b3b9bda2f8a2'></iframe>
+
 Estas conexiones muestran la gravedad y la violencia asociadas con la lengua chicana. La palabra "mutilación" representa la confusión, vergüenza y dificultad que las personas en la frontera experimentan cada día. Los americanos ni los mexicanos la aceptan. Más aún, hay un vínculo fuerte entre "lengua" y "salvaje" mostrando el poder del idioma como una manera de identificarse. 
 
 ## Explicación del Parte 1
