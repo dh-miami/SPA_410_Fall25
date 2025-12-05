@@ -6,9 +6,9 @@ permalink: /chapter3.html
 
 # Chapter 3: Penetrar en la Serpiente
 
-El capítulo 3 del proyecto fue analizado en una línea temporal creada por Skye Mata, Lauren Barnwell y Leanna Navo. El capítulo es parte del libro Borderlands/La Frontera de la autora Gloria Anzaldúa, una obra sobre los Chicanos, y específicamente su historia que está enraizada en la opresión: interna y externa. Últimamente, la obra destaca la habilidad de los chicanos a prevalecer a pesar de todas las probabilidades. Este capítulo explora la espiritualidad Chicana, la femeninidad en su cultura, y el impacto de la colonización en la identidad chicana. Se centra en el símbolo de la serpiente, como medio de retratar la opresión espiritual, pero finalmente la adaptabilidad y supervivencia de los Chicanos. La línea temporal es relevante porque capítulo tres presenta los lugares y acontecimientos como capas que se conectan con el tiempo: antes del patriarcado tolteca/azteca, durante la conversión colonial y en la vida moderna chicana de la frontera. Usar una línea temporal ayuda a organizar cómo cambia el significado espiritual y social de cada lugar, lo cual es clave en el argumento del capítulo. También es útil para ver la causa y efecto de cada evento histórico en la identidad de la narradora, por eso la línea temporal es una herramienta ideal.
+El Capítulo 3 fue analizado a partir de una línea temporal creada por Skye Mata, Lauren Barnwell y Leanna Navo. Este capítulo es parte del libro *Borderlands/La Frontera* de la autora Gloria Anzaldúa, una obra sobre los Chicanos, y específicamente su historia que está enraizada en la opresión, tanto interna como externa. La obra destaca la habilidad de los chicanos de prevalecer a pesar de todas las adversidades. Este capítulo explora la espiritualidad Chicana, la femeninidad en su cultura, y el impacto de la colonización en su identidad chicana. Se centra en el símbolo de la serpiente, como medio de retratar la opresión espiritual, pero también su adaptabilidad y supervivencia. La línea temporal es relevante porque este capítulo presenta los lugares y acontecimientos como capas que se conectan con el tiempo: antes del patriarcado tolteca/azteca, durante la conversión colonial y en la vida moderna chicana de la frontera. Usar una línea temporal nos ayuda a organizar cómo cambia el significado espiritual y social de cada lugar, lo cual es clave en el argumento del capítulo. También es útil para ver la causa y efecto de cada evento histórico en la identidad de la narradora, por eso la línea temporal es una herramienta ideal.
 
-Mientras Anzaldua provee explicación previa a conceptos extranjeros, buscamos proveer contexto adicional para lectores que no están familiarizados con principios fundamentales de sociedades paganas y la cultura o territorio Azteca. Anzaldua salta entre períodos temporales y conceptos, así la línea temporal ayuda a organizar mejor sus puntos y visualizar la evolución de la cultura Chicana que retrata a lo largo del capítulo. 
+Mientras Anzaldua provee una explicación previa a algunos conceptos extranjeros, queremos ofrecer primero un contexto adicional para los lectores que no están familiarizados con los principios fundamentales de las sociedades paganas y la cultura o territorio Azteca. Anzaldua salta entre períodos temporales y conceptos, así la línea temporal nos ayuda a organizar mejor sus puntos y visualizar la evolución de la cultura Chicana que retrata a lo largo del capítulo. 
 
   [Spreadsheet for TimeLine Entries](https://docs.google.com/spreadsheets/d/1oTVbdR2q0WR-bKXHeQ1suMg5aZbwbnurIT2mrSmZ4x0/edit?usp=sharing)
   
@@ -58,9 +58,17 @@ Estas preguntas de nuestros compañeros se responden y explican a lo largo de nu
 
 Aboulhosn, Angelica. “La Malinche, Hernán Cortés’s Translator and so Much More.” The National Endowment for the Humanities, 2023, www.neh.gov/article/la-malinche-hernan-cortess-translator-and-so-much-more.
 
+Alfani, G., & Carballo, A. (2023). Income and inequality in the Aztec Empire on the eve of the Spanish conquest. Nature Human Behaviour, 7(8), 1265-1274.
+
+Alicino, L. (2019). El concepto de xochiyaoyotl en el mundo prehispánico según las Relaciones de Chimalpahin Cuauhtlehuanitzin. Ancient Mesoamerica, 30(2), 235-244.
+
 Anzaldúa, Gloria. Borderlands / La Frontera: The New Mestiza. Translated by Carmen Valle, Capitán Swing, 2016. Colección Ensayo.
 
+Brumfiel, E. M. (1998). Huitzilopochtli's conquest: Aztec ideology in the archaeological record. Cambridge Archaeological Journal, 8(1), 3-13.
+
 Castro, Michelle. “La Llorona | Legend, Description, History, & Facts | Britannica.” Www.britannica.com, Britannica, 1 Nov. 2023, www.britannica.com/topic/La-Llorona.
+
+de Lesur, Y. G. (1966). El dios Huitzilopochtli en la peregrinación mexica. De Aztlán a Tula. In Anales del Instituto Nacional de Antropología e Historia (pp. 175-190).
 
 Google. “Google Ngram Viewer.” Google.com, 2012, books.google.com/ngrams/.
 
