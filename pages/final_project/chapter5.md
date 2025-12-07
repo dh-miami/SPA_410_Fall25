@@ -57,7 +57,7 @@ En la siguiente **nube de palabras**, podemos ver como las palabras “español�
 
 En la siguiente **red de enlaces** podemos visualizar qué palabras aparecen juntas en el texto. Obviamente, hay muchas conexiones entre “español” y las otras palabras claves. También hay relaciones interesantes con palabras relacionadas con la noción de dialecto, identidad y sentimiento.
 
-<iframe style='width: 501px; height: 366px;' src='https://voyant-tools.org/tool/CollocatesGraph/?stopList=keywords-04d241f9d9b4b0443ead9ec4e0bf5aa5&query=espa%C3%B1ol&query=lengua&query=ingl%C3%A9s&corpus=f55b86d0b27ac668cc874a2b87d6f075'></iframe>
+<iframe style='width: 501px; height: 366px;' src='https://voyant-tools.org/tool/CollocatesGraph/?stopList=keywords-04d241f9d9b4b0443ead9ec4e0bf5aa5&query=nuestra*&corpus=f55b86d0b27ac668cc874a2b87d6f075'></iframe>
 
 Por otro lado, la nube de palabras más abajo (páginas 107-111) se revela la complejidad lingüística que estructura el mundo de Anzaldúa. Las palabras “español”, “estándar”, “inglés”, “chicano/chicana” y “lengua” aparecen como las más grandes, indicando no sólo su frecuencia, sino su peso conceptual. Este coincide con la lista de las ocho lenguas que Anzaldúa habla y su discusión detallada sobre los espacios en los que utiliza cada una. Por ejemplo, utiliza el español estándar en la escuela, en los medios y en el trabajo, habla en español chicano con su familia; y usa el inglés con chicanas de California. Así, la visualización de estas palabras refuerza la idea de que su identidad mestiza se forma a través de una navegación constante entre idiomas y dialectos. 
 
