@@ -48,22 +48,27 @@ Parte 1 abre el capítulo con un diálogo de una dentista que quiere controlar l
 # Páginas 107-111
 
 ## El mestizaje lingüístico
-Parte 2 enfoca en la complejidad de las lenguas, las asociaciones de gente con dialectos diferentes y el terrorismo lingüístico y el conflicto interno.
+La segunda parte del Capítulo 5 (pp. 107-111) se enfoca en la complejidad de las lenguas, las asociaciones de las peresonas con ciertos dialectos, y el terrorismo lingüístico y el conflicto interno.
 
-## Nube de palabras
-Las palabras “español”, “inglés”, “estándar”, “chicano/a” y “lengua” aparecen con mayor frecuencia, que corresponde con el tema de las lenguas. Los términos “pronuncian”, “norte”, “sur”, “mexicano”, “nativa” y “latina” refiere a las asociaciones de dialectos con gente diferente en la vida de Anzaldúa. Además, “mal” y “miedo” aparecen frecuentemente debido a la discusión de la vergüenza de hablar un idioma “inferior”. 
 
-## Las conexiones
-El mapa de conexiones hace posible visualizar qué palabras aparecen juntas en el texto. Obviamente, hay muchas líneas entre “español” y las otras palabras claves. También hay relaciones interesantes entre palabras significando dialecto, identidad y sentimiento. 
+En la siguiente **nube de palabras**, podemos ver como las palabras “español”, “inglés”, “estándar”, “chicano/a” y “lengua” aparecen con mayor frecuencia y que corresponde al tema de las lenguas. Así mismo, los términos “pronuncian”, “norte”, “sur”, “mexicano”, “nativa” y “latina” se refieren a las asociaciones de los dialectos con gente diferente en la vida de Anzaldúa. En fin, “mal” y “miedo” aparecen frecuentemente debido a la vergüenza de hablar un idioma que es sentido como “inferior”.
+ 
 
-## Explicación del Parte 2
-La nube de palabras de las páginas 107-111 revela la complejidad lingüística que estructura el mundo de Gloria Anzaldúa. Las palabras español, estándar, inglés, chicano/chicana y lengua aparecen como las más grandes, indicando no sólo su frecuencia, sino su peso conceptual. Este coincide con la lista de las ocho lenguas que Anzaldúa habla y su discusión detallada sobre los espacios en los que utiliza cada una. Por ejemplo, utiliza el español estándar en la escuela, en los medios y en el trabajo, habla en español chicano con su familia; y usa el inglés con chicanas de California. Entonces, la visualización de estas palabras de lengua refuerza la idea de que su identidad mestizaje se forma a través de una navegación constante entre idiomas y dialectos. 
-También destaca la palabra pronuncian, que aparece repetidamente porque Anzaldúa compara y contrasta las distintas formas de pronunciación entre dialectos. Este término destaca las fonéticas y palabras que marcan el español chicano. Un ejemplo es su referencia a la pronunciación de la f como j (como en fue → jue), lo cual subraya cómo las variaciones lingüísticas distinguen a las personas que hablan diferentes dialectos. Junto a esto, la nube de palabras resalta asociaciones entre grupos sociales y dialectos específicos. 
-Otros términos como norte, sur, mexicano, nativa y latinas señalan la presencia simultánea de identidades múltiples que se superponen Hay identidades geográficas (norte, sur, en referencia a México y Texas), así como identidades étnicas (mexicano, nativa, latina). La visualización sugiere que las variedades lingüísticas están profundamente entrelazadas con estas identificaciones, reforzando cómo la lengua sirve como marcador de identidad.
-Además, el análisis visual muestra el impacto del “terrorismo lingüístico” que Anzaldúa describe. Palabras como mal y miedo funcionan como evidencia de la idea de que el español chicano es “incorrecto” o “deficiente” en comparación con otros dialectos, lo hace que muchas chicanas se sientan incómodas al hablar su propia lengua. 
-El mapa de conexiones complementa las ideas ya discutidas por visualizando como las palabras claves se relacionan entre sí dentro del texto. Casi todas las líneas salen de español, lo cual confirma que el centro de la discusión es la multiplicidad de dialectos y los espacios donde circulan. Las conexiones entre español, chicano, norte, sur, estándar, dialecto y mexicano permiten visualizar cómo estas variedades se superponen y estructuran la identidad de Anzaldúa.
-Algo muy profundo es cómo el mapa hace visible las conexiones entre español, chicana, lengua y malo, que destacan la asociación entre el idioma de Anzaldúa y su estigma. A la vez, hay líneas entre chicanas, nuestra y lengua, lo cual coincide con el mensaje de que las chicanas deben resolver su conflicto interno y tener orgullo de su identidad lingüística. 
+En la siguiente **red de enlaces** podemos visualizar qué palabras aparecen juntas en el texto. Obviamente, hay muchas conexiones entre “español” y las otras palabras claves. También hay relaciones interesantes con palabras relacionadas con la noción de dialecto, identidad y sentimiento.
+
+
+Por otro lado, la nube de palabras más abajo (páginas 107-111) se revela la complejidad lingüística que estructura el mundo de Anzaldúa. Las palabras “español”, “estándar”, “inglés”, “chicano/chicana” y “lengua” aparecen como las más grandes, indicando no sólo su frecuencia, sino su peso conceptual. Este coincide con la lista de las ocho lenguas que Anzaldúa habla y su discusión detallada sobre los espacios en los que utiliza cada una. Por ejemplo, utiliza el español estándar en la escuela, en los medios y en el trabajo, habla en español chicano con su familia; y usa el inglés con chicanas de California. Así, la visualización de estas palabras refuerza la idea de que su identidad mestiza se forma a través de una navegación constante entre idiomas y dialectos. 
+
+También destaca la palabra “pronuncian”, que aparece repetidamente porque Anzaldúa compara y contrasta las distintas formas de pronunciación entre dialectos. Este término destaca las fonéticas y palabras que marcan el español chicano. Un ejemplo es su referencia a la pronunciación de la f como j (como en fue → jue), lo cual subraya cómo las variaciones lingüísticas distinguen a las personas que hablan diferentes dialectos. La nube de palabras resalta asociaciones posibles entre grupos sociales y dialectos específicos. 
+
+Otros términos como “norte”, “sur”, “mexicano”, “nativa” y “latinas” señalan la presencia simultánea de identidades múltiples que se superponen Hay identidades geográficas (norte, sur, en referencia a México y Texas), así como identidades étnicas (mexicano, nativa, latina). La visualización sugiere que las variedades lingüísticas están profundamente entrelazadas con estas identificaciones, reforzando cómo la lengua sirve como marcador de identidad. 
+
+Además, el análisis visual muestra el impacto del “terrorismo lingüístico” que Anzaldúa describe. Palabras como “mal” y “miedo” funcionan como evidencia de la idea de que el español chicano es “incorrecto” o “deficiente” en comparación con otros dialectos, lo hace que muchas chicanas se sientan incómodas al hablar su propia lengua. 
+
+La red de enlaces complementa las ideas ya discutidas a traves de la visualización de la relación de las palabras claves. Casi todas las líneas salen de “español”, lo cual confirma que el centro de la discusión es la multiplicidad de dialectos y los espacios donde circulan. Las conexiones entre “español”, “chicano”, “norte”, “sur”, “estándar”, “dialecto” y “mexicano” permiten visualizar cómo estas variedades se superponen y estructuran la identidad de Anzaldúa. Algo muy profundo es cómo el mapa hace visible las conexiones entre español, chicana, lengua y malo, que destacan la asociación entre el idioma de Anzaldúa y su estigma. A la vez, hay líneas entre chicanas, nuestra y lengua, lo cual coincide con el mensaje de que las chicanas deben resolver su conflicto interno y tener orgullo de su identidad lingüística. 
+
 En conjunto, las visualizaciones nos permiten observar cómo la lengua modela la vida de alguien que pertenece a dos mundos.
+
 
 
 
@@ -106,8 +111,8 @@ Utilizamos herramientas de Voyant como la nube de palabras, que muestra los tér
 
 
 
-## Conclusión: Respondiendo a las preguntas guiadas
-Nuestra guía de lectura pretende responder a estas preguntas que nuestra clase ha sugerido que serían útiles para un lector nuevo. 
+## Conclusión
+Nuestra guía de lectura pretende responder a las siguientes preguntas que nuestra clase ha sugerido que serían útiles para un lector nuevo:
 
 ### ¿Cómo se observa el conflicto entre el inglés y el español en la vida de la narradora? 
 Anzaldua tiene una identidad compleja, como se ve a traves de la variedad de lenguas que habla. Las relaciones entre los dialectos de español e inglés muestran que ambos idiomas desempeñan un papel fundamental en su vida de múltiples maneras. Esta idea revela que no es posible definirla con una sola comunidad lingüística.
@@ -119,6 +124,8 @@ Anzaldúa distingue a los chicanos de otros grupos latinos porque el español ch
 La autora afirma que no puede aceptarse a sí misma hasta que pueda aceptar su idioma porque su forma de hablar refleja su historia y su cultura; sin embargo, había interiorizado el “terrorismo lingüístico”, una presión social que la llevaba a juzgarse constantemente. Solo al reivindicar su idioma logra desafiar y superar la discriminación dirigida contra los chicanos, lo cual le permite avanzar hacia una aceptación personal más plena.
 
 ## Bibliografía
-Anzaldúa, Gloria. Borderlands/La Frontera: The New Mestiza. 4th ed., Aunt Lute Books, 2012.                                                   Voyant Tools. Sinclair, Stéfan, and Geoffrey Rockwell. Voyant Tools. voyant-tools.org, 2016, https://voyant-tools.org/
+Anzaldúa, Gloria. *Borderlands/La frontera: La nueva mestiza.* 4th ed., Aunt Lute Books, 2012.                                                  
+
+Voyant Tools. Sinclair, Stéfan, and Geoffrey Rockwell. Voyant Tools. voyant-tools.org, 2016, https://voyant-tools.org/
 
 
