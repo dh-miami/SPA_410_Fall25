@@ -52,7 +52,8 @@ La segunda parte del Capítulo 5 (pp. 107-111) se enfoca en la complejidad de la
 
 
 En la siguiente **nube de palabras**, podemos ver como las palabras “español”, “inglés”, “estándar”, “chicano/a” y “lengua” aparecen con mayor frecuencia y que corresponde al tema de las lenguas. Así mismo, los términos “pronuncian”, “norte”, “sur”, “mexicano”, “nativa” y “latina” se refieren a las asociaciones de los dialectos con gente diferente en la vida de Anzaldúa. En fin, “mal” y “miedo” aparecen frecuentemente debido a la vergüenza de hablar un idioma que es sentido como “inferior”.
- 
+
+ <iframe style='width: 501px; height: 366px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-04d241f9d9b4b0443ead9ec4e0bf5aa5&whiteList=&corpus=f55b86d0b27ac668cc874a2b87d6f075'></iframe>
 
 En la siguiente **red de enlaces** podemos visualizar qué palabras aparecen juntas en el texto. Obviamente, hay muchas conexiones entre “español” y las otras palabras claves. También hay relaciones interesantes con palabras relacionadas con la noción de dialecto, identidad y sentimiento.
 
