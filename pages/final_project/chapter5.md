@@ -86,6 +86,12 @@ En conjunto, las visualizaciones nos permiten observar cómo la lengua modela la
 ## La asimilación cultural y algunas implicaciones de ser de dos mujeres
 Parte 3 se centra en la identidad y conflicto son si mismo, la censoria y visibilidad académica y la memoria cultural.
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mexican_American_Flag.PNG" 
+       alt="Mexican American Flag"
+       width="400">
+</p>
+
 ## Nube de palabras
 Las palabras dominantes son "musica," "peliculas," "mexicanas,"madre," y "canciones". Estos temas conectan un pasado familiar con un futuro de cultura ambigua. Anzaldua esta navegano las combinaciones posibles de su propia cultura chicana, los costumbres de su familia mexicana, y las asimilaciones americanas que ve en su vida diaria.
 
