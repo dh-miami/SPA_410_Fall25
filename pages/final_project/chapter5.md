@@ -135,8 +135,14 @@ Anzaldúa distingue a los chicanos de otros grupos latinos porque el español ch
 La autora afirma que no puede aceptarse a sí misma hasta que pueda aceptar su idioma porque su forma de hablar refleja su historia y su cultura; sin embargo, había interiorizado el “terrorismo lingüístico”, una presión social que la llevaba a juzgarse constantemente. Solo al reivindicar su idioma logra desafiar y superar la discriminación dirigida contra los chicanos, lo cual le permite avanzar hacia una aceptación personal más plena.
 
 ## Bibliografía
-Anzaldúa, Gloria. *Borderlands/La frontera: La nueva mestiza.* 4th ed., Aunt Lute Books, 2012.                                                  
+Anzaldúa, Gloria. *Borderlands/La frontera: La nueva mestiza.* 4th ed., Aunt Lute Books, 2012.
 
-Voyant Tools. Sinclair, Stéfan, and Geoffrey Rockwell. Voyant Tools. voyant-tools.org, 2016, https://voyant-tools.org/
+“Borderlands Image.” 1A: NPR, 10 Oct. 2017, https://the1a.org/wp-content/uploads/sites/4/2017/10/Borderlands-Image-600x450.jpg.
+
+“Colorful Overlapping Speech Bubbles.” Freepik, https://img.freepik.com/premium-vector/colorful-overlapping-speech-bubbles-white-background_697880-28736.jpg.
+
+“Mexican American Flag.” Wikimedia Commons, 21 Apr. 2011, https://upload.wikimedia.org/wikipedia/commons/3/32/Mexican_American_Flag.PNG.
+
+Voyant Tools. voyant-tools.org, 2016, https://voyant-tools.org/
 
 
