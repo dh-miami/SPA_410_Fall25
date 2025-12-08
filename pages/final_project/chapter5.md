@@ -48,6 +48,10 @@ Esta primera parte se abre con un diálogo de una dentista que quiere controlar 
 ## El mestizaje lingüístico
 La segunda parte del Capítulo 5 (pp. 107-111) se enfoca en la complejidad de las lenguas, las asociaciones de las peresonas con ciertos dialectos, y el terrorismo lingüístico y el conflicto interno.
 
+<p align="center">
+  <img src="[https://example.com/path/to/image.jpg](https://img.freepik.com/premium-vector/colorful-overlapping-speech-bubbles-white-background_697880-28736.jpg)" alt="La complejidad del lenguaje" width="400">
+</p>
+
 
 En la siguiente nube de palabras, podemos ver como las palabras “español”, “inglés”, “estándar”, “chicano/a” y “lengua” aparecen con mayor frecuencia y que corresponde al tema de las lenguas. Así mismo, los términos “pronuncian”, “norte”, “sur”, “mexicano”, “nativa” y “latina” se refieren a las asociaciones de los dialectos con gente diferente en la vida de Anzaldúa. En fin, “mal” y “miedo” aparecen frecuentemente debido a la vergüenza de hablar un idioma que es sentido como “inferior”.
 
