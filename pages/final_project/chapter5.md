@@ -24,7 +24,10 @@ Capítulo 5 está lleno de metaforás ricas, simbolos poderosos, y experiencias 
 
 Antes de leer Borderlands, es importante tener en mente que Anzaldúa está contando cómo se siente crecer entre dos culturas y cómo esa mezcla la marca profundamente. Estas historias funcionan como una serie de recuerdos que explican su identidad, pero también muestran las presiones que la hicieron dudar de su propia cultura. Para entender nuestro capítulo mejor, podemos usar lo que hemos aprendido en clase: fijarnos en su tono, en cómo usa el lenguaje, en los símbolos culturales y en la manera en que describe las cosas diarias de su vida. Con esa mirada, podemos ver todas las capas del texto y entender cómo Anzaldúa transforma experiencias de vergüenza, distancia y nostalgia en una reflexión poderosa sobre lo que significa vivir en los borderlands.
 
-
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*P2E97oSIjLsMnBIXfrEshQ.jpeg"
+       alt="Borderlands Image">
+</p>
 
 # Páginas 103-106
 
