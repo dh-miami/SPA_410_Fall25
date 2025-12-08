@@ -14,6 +14,10 @@ Dividimos el capítulo en tres partes para enfocar en los temas especificos. Con
 
 Capítulo 5 está lleno de metaforás ricas, simbolos poderosos, y experiencias formativas de Gloria Anzaldúa. Analizamos todo y escribimos unos resuménes de cada sección para enfatizar el matiz entre los temas incluidos en cada sección.
 
+<p align="center">
+  <img src="https://the1a.org/wp-content/uploads/sites/4/2017/10/Borderlands-Image-600x450.jpg" 
+       alt="Borderlands Image">
+</p>
 
 
 ## Introducción
