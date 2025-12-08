@@ -26,22 +26,20 @@ Antes de leer Borderlands, es importante tener en mente que Anzaldúa está cont
 
 ## El control de una lengua salvaje
 
-Parte 1 enfatiza la identidad complicada de una joven en la frontera, el simbolismo asociado con la lengua, y la perspectiva sobre el idioma chicano.
+La primera parte del capítulo (pp. 103-106) enfatiza la compleja identidad de una joven que vive en la frontera de los Estados Unidos y Mexico, el simbolismo asociado a la lengua, y la perspectiva sobre el idioma chicano. Tal y como puede observarse en la siguinete nube de palabras, realizada con Voyant. 
 
-## Nube de palabras
 
 <iframe style='width: 477px; height: 392px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-98903f49710dc0888c8e720f9e834241&whiteList=&corpus=1c2df3f69e61f191a519b3b9bda2f8a2'></iframe>
 
-Las palabras "inglés", "español", "lengua" y "boca" dominan la nube. La palabra "lengua" funciona como un símbolo dominante a lo largo del capítulo 5 y representa la censura, la expresión, la identidad y la experiencia chicana. También hay palabras como "ser" y "era" que representan la lucha interna con el idioma y la identidad. 
+Las términos "inglés", "español", "lengua" y "boca" dominan la nube. La palabra "lengua" funciona como un símbolo fuerte a lo largo del capítulo 5 y representa la censura, la expresión, la identidad y la experiencia chicana. El dentista quiere controlar la lengua, su maestra quiere impedirle hablar español y las escuelas quieren eliminar el acento chicano. Todos estos ejemplos revelan la necesidad de proteger la lengua chicana contra las fuerzas que quieren eliminarla. También hay palabras como "ser" y "era" que representan la lucha interna con el idioma y la identidad. Anzaldúa lucha para encontrar su propia identidad en el medio multitud de opiniones opuestas. 
 
-## Las conexiones
 
 <iframe style='width: 477px; height: 391px;' src='https://voyant-tools.org/tool/CollocatesGraph/?stopList=keywords-98903f49710dc0888c8e720f9e834241&query=lengua&query=espa%C3%B1ol&query=ingl%C3%A9s&corpus=1c2df3f69e61f191a519b3b9bda2f8a2'></iframe>
 
-Estas conexiones muestran la gravedad y la violencia asociadas con la lengua chicana. La palabra "mutilación" representa la confusión, vergüenza y dificultad que las personas en la frontera experimentan cada día. Los americanos ni los mexicanos la aceptan. Más aún, hay un vínculo fuerte entre "lengua" y "salvaje" mostrando el poder del idioma como una manera de identificarse. 
+Estas conexiones muestran la gravedad y la violencia asociadas con la lengua chicana. La palabra "mutilación" representa la confusión, vergüenza y dificultad que las personas en la frontera experimentan cada día, pues es una lengua no aceptada, los americanos ni por los mexicanos. Más aún, hay un vínculo fuerte entre "lengua" y "salvaje" mostrando el poder del idioma como una manera de identificación. 
 
-## Explicación del Parte 1
-Parte 1 abre el capítulo con un diálogo de una dentista que quiere controlar la lengua salvaje de Anzaldúa. Esta metáfora de apertura es una forma poderosa de introducir temas que abarcan todo el capítulo, como el lenguaje, el control, el prejuicio, la censura y la identidad. Como mujer joven, Gloria experimenta prejuicio por parte de maestros, compañeros y su propia familia hacia los chicanos. Ella vive como una persona incompleta con una identidad indefinida. Ella lucha con ser "demasiado americanizada", pero también "demasiado chicana". Esta sección del capítulo 5 subraya las dificultades de ser chicano en un mundo que no acepta a personas con culturas mezcladas. Su acento cuando ella habla inglés es demasiado fuerte, pero su vocabulario cuando ella habla español es una "mutilación" del idioma. Anzaldúa selecciona vocabulario fuerte y simbólico de la lucha interna asociada con el idioma y la identidad. A ella no se le permite identificarse con ninguna de las culturas y lucha por encontrar su lugar. Anzaldúa ilumina las experiencias de su niñez para enfatizar el constante ridículo que enfrenta tanto por parte de los estadounidenses como de los españoles. La nube de palabras representa el choque entre las culturas con dos de las palabras más comunes siendo "español" e "inglés". A lo largo del capítulo ella utiliza la lengua como un símbolo representando el feminismo, el idioma, la cultura y Gloria Anzaldúa misma. Hay muchos ejemplos en su niñez de unas personas tratando de controlar su "lengua" y por eso su identidad. Esta parte es una introducción fuerte a un capítulo lleno de experiencias de primera mano que detallan las dificultades de ser una mujer chicana.
+
+Esta primera parte se abre con un diálogo de una dentista que quiere controlar la lengua salvaje de Anzaldúa. Esta metáfora de apertura es una forma poderosa de introducir temas que abarcan todo el capítulo, como el lenguaje, el control, el prejuicio hacia los chicanos, la censura y la identidad. Como mujer joven, Anzaldúa experimenta los prejuicios por parte de maestros, compañeros y su propia familia. Ella vive como una persona incompleta con una identidad indefinida. Ella se enfrenta a la idea de ser "demasiado americanizada", pero también "demasiado chicana". Esta sección del capítulo 5 subraya las dificultades de ser chicano en un mundo que no acepta a personas con culturas mezcladas. Su acento cuando ella habla inglés es demasiado fuerte, pero su vocabulario cuando ella habla español es una "mutilación" del idioma. Anzaldúa selecciona un vocabulario fuerte y simbólico de la lucha interna asociada con el idioma y la identidad. A ella no se le permite identificarse con ninguna de las culturas y lucha por encontrar su lugar. Anzaldúa ilumina las experiencias de su niñez para enfatizar el constante ridículo al que se enfrenta tanto por parte de los estadounidenses como de los mexicanos. La nube de palabras anterior representa el choque entre las culturas con dos de las palabras más comunes siendo "español" e "inglés". A lo largo del capítulo ella utiliza la lengua como un símbolo representando el feminismo, el idioma, la cultura y la Anzaldúa misma. Hay muchos ejemplos en su niñez de unas personas tratando de controlar su "lengua" y en consecuencia su identidad. Esta parte constituye una introducción a un capítulo lleno de experiencias de primera mano que detallan las dificultades de ser una mujer chicana.
 
 
 
@@ -92,24 +90,20 @@ La imagen final de su madre cocinando a miles de kilómetros funciona como metá
 
 
 
-# El Capítulo Completo (Páginas 103-115)
 
-## ¿Cuáles son los mensajes más importantes de Anzaldúa?
-
-## Las frecuencias y las tendencias
+## Las frecuencias y las tendencias a lo largo del capítulo 5
 
 <iframe style='width: 477px; height: 391px;' src='https://voyant-tools.org/tool/Trends/?stopList=keywords-98903f49710dc0888c8e720f9e834241&query=espa%C3%B1ol&query=lengua&query=o&query=ingl%C3%A9s&query=chicanas&mode=document&corpus=980ec73a39ac50788ad695203c1fa536'></iframe>
 
-Claramente, ocurren muchos cambios en el vocabulario de Anzaldúa a lo largo del capítulo 5. Las palabras "español" e "ingles" son menos útiles en la media sección porque ella introduce los dialectos más específicos como "Tex-mex". Esta tendencia muestra las divisiones y complicaciones de los idiomas. Además, la palabra "chicanas" aumenta con el tiempo durante el capítulo que representa su descubrimiento del femenismo. Gloria empieza entender su sexualidad y el impacto del misoginismo en la sociedad chicana.
+Claramente, ocurren muchos cambios en el vocabulario de Anzaldúa a lo largo del capítulo 5. Las palabras "español" e "ingles" son menos útiles en la media sección porque ella introduce los dialectos más específicos como "Tex-mex". Esta tendencia muestra las divisiones y complicaciones de los idiomas. Además, la palabra "chicanas" aumenta con el tiempo durante el capítulo que representa su descubrimiento del femenismo. Gloria empieza entender su sexualidad y el impacto de la misoginia en la sociedad chicana.
 
-## Nube de palabras completa
 
 <iframe style='width: 477px; height: 391px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-98903f49710dc0888c8e720f9e834241&whiteList=&corpus=980ec73a39ac50788ad695203c1fa536'></iframe>
 
-Esta nube de palabras es importante porque muestra los temas a lo largo del capítulo pero también enfatiza el matiz entre cada parte del capítulo. Este nube es muy similar a la nube en parte 1 pero muy diferente de la nube de la parte 3. La distinción requiere la necesidad de separar el capítulo en tres secciones respectivas para poder comprender y analizar verdaderamente el mensaje de Anzaldúa.
+Esta nube de palabras final es importante porque muestra los temas a lo largo del capítulo pero también enfatiza el matiz entre cada parte del capítulo. Este nube es muy similar a la nube de la primera parte pero es muy diferente de la tercera parte. La distinción requiere la necesidad de separar el capítulo en tres secciones respectivas para poder comprender y analizar verdaderamente el mensaje de Anzaldúa.
 
 ## El Uso de Voyant
-Utilizamos herramientas de Voyant como la nube de palabras, que muestra los términos más comunes y nos permite refinar la lista mediante palabras clave para enfocarnos en temas específicos, y el gráfico de frecuencia y tendencia, que revela cómo cambian esos temas a lo largo del capítulo y pone de manifiesto conexiones amplias dentro del texto. Estas herramientas nos ofrecen nuevas relaciones que observar y ayudan a revelar los temas y opiniones de Anzaldúa de manera más analítica. Elegimos Voyant para este capítulo porque ofrece una variedad de recursos que facilita separar nuestras secciones y comprender el tema general, además de permitir conectar palabras, ideas y temas que aparecen en distintas partes del texto. En conjunto, proporciona un análisis más profundo apoyado por elementos visuales que enriquecen nuestra interpretación.
+Elegimos Voyant para este capítulo porque ofrece una variedad de recursos que facilita separar nuestras secciones y comprender el tema general, además de permitir conectar palabras, ideas y temas que aparecen en distintas partes del texto. La herramienta de Voyant ofrece la función de la nube de palabras, que nos permite mostrar los términos más comunes y refinar la lista mediante palabras clave para enfocarnos en temas específicos. A sí mismo el gráfico de frecuencia y tendencia revela cómo cambian estos temas a lo largo del capítulo y pone de manifiesto conexiones amplias dentro del mismo. Estas herramientas nos ofrecen nuevas relaciones que observar y ayudan a revelar los temas y opiniones de Anzaldúa de manera más analítica. En conjunto, proporciona un análisis más profundo apoyado por elementos visuales que enriquecen nuestra interpretación.
 
 
 
