@@ -144,7 +144,7 @@ Anzaldúa, Gloria. *Borderlands/La frontera: La nueva mestiza.* 4th ed., Aunt Lu
 
 “Colorful Overlapping Speech Bubbles.” Freepik, https://img.freepik.com/premium-vector/colorful-overlapping-speech-bubbles-white-background_697880-28736.jpg.
 
-“Como domar una lengua salvaje.” Medium, miro.medium.com/v2/resize:fit:1200/1*P2E97oSIjLsMnBIXfrEshQ.jpeg. Accessed 8 Dec. 2025.
+“Como domar una lengua salvaje.”Medium,miro.medium.com/v2/resize:fit:1200/1*P2E97oSIjLsMnBIXfrEshQ.jpeg. Accessed 8 Dec. 2025.
 
 “Mexican American Flag.” Wikimedia Commons, 21 Apr. 2011, https://upload.wikimedia.org/wikipedia/commons/3/32/Mexican_American_Flag.PNG.
 
