@@ -10,7 +10,7 @@ permalink: /chapter5.html
 
 Borderlands/ La frontera por Gloria Anzaldúa revela la realidad de los chicanos viviendo en los estados unidos. El capítulo 5 ilumine los desafios de una joven que quiere integrarse en una sociedad estricta y poco acogedor. Su uso de simbolismo fuerte, ejemplos personales y análisis profundo crea un imagen de una imagen de lo que significa ser una mujer chicana y cómo Anzaldua encontró su identidad en medio de la confusión, el ridículo y la vergüenza de ser una mujer queer y culturalmente mixta.
 
-Dividimos el capítulo en tres partes para enfocar en los temas especificos. Con cada parte, analizamos las palabras más comunes y sus conexiones a los temas centrales. Adémas, creamos un gráfico para analizar la tendencia de diferentes palabras a lo largo del capítulo 5. 
+Dividimos el capítulo en tres partes para enfocar en los temas especificos. Para la primera parte (pp. 103-106) Anzaldúa enfoca en sus propias experiencias utilizandolos para enfatizar la lucha interna de una mujer chicana. En la seguna parte (pp. 107-111), ella explica las diferncias entre los dialectos del español e inglés. Finalmente, el tercer parte representa la "consciencia mestiza" y el viaje personal para encontar una identidad con las dos culturas. Con cada parte, analizamos las palabras más comunes y sus conexiones a los temas centrales. Adémas, creamos un gráfico para analizar la tendencia de diferentes palabras a lo largo del capítulo 5. 
 
 Capítulo 5 está lleno de metaforás ricas, simbolos poderosos, y experiencias formativas de Gloria Anzaldúa. Analizamos todo y escribimos unos resuménes de cada sección para enfatizar el matiz entre los temas incluidos en cada sección.
 
