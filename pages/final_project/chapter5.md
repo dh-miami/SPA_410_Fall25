@@ -83,7 +83,7 @@ En conjunto, las visualizaciones nos permiten observar cómo la lengua modela la
 
 # Páginas 112-115
 
-## La asimilación cultural y algunas implicaciones de ser de dos mujeres
+## La asimilación cultural y algunas implicaciones de ser dos mujeres
 Parte 3 se centra en la identidad y conflicto son si mismo, la censoria y visibilidad académica y la memoria cultural.
 
 <p align="center">
