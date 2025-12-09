@@ -95,8 +95,12 @@ Parte 3 se centra en la identidad y conflicto son si mismo, la censoria y visibi
        width="400">
 </p>
 
+<iframe style='width: 477px; height: 359px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-593e6b7b86d06b2c6886d6aa29c0171f&whiteList=&corpus=f466556c2679140319a8a85f55c42150'></iframe>
+
 ## Nube de palabras
 Las palabras dominantes son "musica," "peliculas," "mexicanas,"madre," y "canciones". Estos temas conectan un pasado familiar con un futuro de cultura ambigua. Anzaldua esta navegano las combinaciones posibles de su propia cultura chicana, los costumbres de su familia mexicana, y las asimilaciones americanas que ve en su vida diaria.
+
+<iframe style='width: 477px; height: 359px;' src='https://voyant-tools.org/tool/CollocatesGraph/?stopList=keywords-593e6b7b86d06b2c6886d6aa29c0171f&query=me&query=m%C3%BAsica&query=pel%C3%ADculas&corpus=f466556c2679140319a8a85f55c42150'></iframe>
 
 ## Las conexiones
 Estas conexiones demuenstran la relacion entre una cultura y sus representaciones como peliculas y musica. El arte expresivo es una manera de entender la cultura del artista. En consumir media mexicana, alguien de la herencia de Anzaldua se podria sentir mas mexicana y menos americana. Este conflicto interno se refleja en el texto varias veces.
