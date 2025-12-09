@@ -102,9 +102,9 @@ Las palabras dominantes son "musica," "peliculas," "mexicanas,"madre," y "cancio
 Estas conexiones demuenstran la relacion entre una cultura y sus representaciones como peliculas y musica. El arte expresivo es una manera de entender la cultura del artista. En consumir media mexicana, alguien de la herencia de Anzaldua se podria sentir mas mexicana y menos americana. Este conflicto interno se refleja en el texto varias veces.
 
 ## Explicación del Parte 3
-En las últimas páginas del capítulo 5, Anzaldúa usa recuerdos como sus lecturas, la música, el cine y la vida en casa para mostrar cómo la identidad chicana se forma entre dos mundos. Su primer encuentro con un autor chicano publicado marca un despertar literario y político, y su lucha por enseñar literatura chicana revela la presión de una noción excluyente de lo “americano”.
-También describe la mezcla de orgullo y vergüenza hacia la cultura mexicana que vivió de niña: el cine, los boleros, la música norteña. Palabras culturas como esas aparecen mucho y comunican los sentimientos fuertes que tiene ella. Esa ambivalencia resume la experiencia chicana, donde lo propio es a la vez refugio y conflicto.
-La imagen final de su madre cocinando a miles de kilómetros funciona como metáfora de la memoria migrante: la distancia aclara lo que nos forma. Así, Anzaldúa muestra que los borderlands son un espacio emocional lleno de contradicciones del que surge la “nueva conciencia mestiza”.
+"En las últimas páginas del capítulo 5, Anzaldúa usa recuerdos como sus lecturas, la música, el cine y la vida en casa para mostrar cómo la identidad chicana se forma entre dos mundos. Su primer encuentro con un autor chicano publicado marca un despertar literario y político, y su lucha por enseñar literatura chicana revela la presión de una noción excluyente de lo “americano”.
+También describe la mezcla de orgullo y vergüenza hacia la cultura mexicana que vivió de niña: el cine, los boleros, la música norteña. Aspectos culturales como estos aparecen mucho y comunican los sentimientos fuertes que tiene ella. Esa ambivalencia resume la experiencia chicana, donde lo propio es a la vez refugio y conflicto.
+La imagen final de su madre cocinando a miles de kilómetros funciona como metáfora de la memoria migrante: la distancia aclara lo que nos forma. Así, Anzaldúa muestra que los borderlands son un espacio emocional lleno de contradicciones del que surge la “nueva conciencia mestiza.""
 
 
 
