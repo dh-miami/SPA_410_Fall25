@@ -12,6 +12,8 @@ En una época tan marcada por batallas, peleas entre familias poderosas, y confl
 
 <figure><img alt="New Plot Img" src="[https://raw.githubusercontent.com/dh-miami/SPA_410_Fall25/refs/heads/main/_posts/Proyecto2_Luna/images/007516.jpg](https://image2url.com/images/1765306761973-88f876c3-0040-4f21-bb95-69477d304ade.jpg)" width="50%" height="50%" style="float:right;">
 
+<figure><img alt="New Plot Img" src="https://image2url.com/images/1765306761973-88f876c3-0040-4f21-bb95-69477d304ade.jpg" width="50%" height="50%" style="float:right;">
+  
 ![Judith]((https://image2url.com/images/1765306761973-88f876c3-0040-4f21-bb95-69477d304ade.jpg)
   
 Un ejemplo de una mujer virtuosa bíblica es Judith, una viuda rica y devota de su fe judía. Nabucodonosor quería ser reconocido como dios, y mandó a Holofernes a conquistar las naciones para hacerlo posible. Le cayó a Judith a proteger su ciudad de Betulia, pero no en una batalla, sino con su ingenuidad, prudencia, y inteligencia. En vez de tratar de convencer a Holofernes de que no debería tomar ninguna acción violenta contra su pueblo, Judith lo tienta y hace que se emborrache. Dice en el libro: “Antes del amanecer, Judith y su sirvienta regresaron a Betulia con la cabeza de Holofernes, que mostraron a Ozías y al pueblo, dando gracias a Dios por permitir tal hazaña.” Judith acredita su idea heróica a su Dios, indicando la virtud de la fe. También se muestra la fortaleza y el coraje en la manera que actúa sin temor. Más que nada, demuestra el amor a su patria que es más significativo que su propia vida. Estas virtudes no solo son importantes para las mujeres, sino para todos los ciudadanos de un país.
