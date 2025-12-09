@@ -26,7 +26,8 @@ Antes de leer *Borderlands*, es importante tener en mente que Anzaldúa está co
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1200/1*P2E97oSIjLsMnBIXfrEshQ.jpeg"
-       alt="Borderlands Image">
+       alt="Borderlands Image"
+       width="400">
 </p>
 
 # Páginas 103-106
@@ -87,7 +88,7 @@ En conjunto, las visualizaciones nos permiten observar cómo la lengua modela la
 # Páginas 112-115
 
 ## La asimilación cultural y algunas implicaciones de ser dos mujeres
-Parte 3 se centra en la identidad y conflicto son si mismo, la censoria y visibilidad académica y la memoria cultural.
+La parte tres (pp. 112-115) se centra en la identidad, el conflicto personal, la censura, la visibilidad académica y la memoria cultural.
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mexican_American_Flag.PNG" 
@@ -95,20 +96,19 @@ Parte 3 se centra en la identidad y conflicto son si mismo, la censoria y visibi
        width="400">
 </p>
 
+En la siguiente nube de palabras, vemos cómo las palabras dominantes son “música,” “películas,” “mexicanas,” “madre,” y “canciones”. Estos temas conectan un pasado familiar con un futuro marcado por una identidad cultural ambigua. Anzaldúa navega las combinaciones posibles de su propia cultura chicana, las costumbres de su familia mexicana y las asimilaciones estadounidenses que observa en su vida diaria.
+
 <iframe style='width: 477px; height: 359px;' src='https://voyant-tools.org/tool/Cirrus/?stopList=keywords-593e6b7b86d06b2c6886d6aa29c0171f&whiteList=&corpus=f466556c2679140319a8a85f55c42150'></iframe>
 
-## Nube de palabras
-Las palabras dominantes son "musica," "peliculas," "mexicanas,"madre," y "canciones". Estos temas conectan un pasado familiar con un futuro de cultura ambigua. Anzaldua esta navegano las combinaciones posibles de su propia cultura chicana, los costumbres de su familia mexicana, y las asimilaciones americanas que ve en su vida diaria.
+La siguiente red de conexiones demuestra la relación entre una cultura y sus representaciones como películas y música. El arte expresivo es una manera de entender la cultura del artista. Al consumir películas mexicanas, alguien de la herencia de Anzaldúa se podría sentir más mexicana y menos americana. Este conflicto interno se refleja en el texto varias veces. Por ejemplo, cuando Anzaldúa describe cómo la música ranchera la conecta profundamente con sus raíces mexicanas mientras, al mismo tiempo, siente la presión de hablar inglés y adaptarse a normas estadounidenses. Otra instancia es cuando ella explica que ver cine mexicano o escuchar música tradicional reafirma su identidad chicana, aunque estas mismas prácticas a veces chocan con su educación y vida cotidiana.
 
 <iframe style='width: 477px; height: 359px;' src='https://voyant-tools.org/tool/CollocatesGraph/?stopList=keywords-593e6b7b86d06b2c6886d6aa29c0171f&query=me&query=m%C3%BAsica&query=pel%C3%ADculas&corpus=f466556c2679140319a8a85f55c42150'></iframe>
 
-## Las conexiones
-Estas conexiones demuenstran la relacion entre una cultura y sus representaciones como peliculas y musica. El arte expresivo es una manera de entender la cultura del artista. En consumir media mexicana, alguien de la herencia de Anzaldua se podria sentir mas mexicana y menos americana. Este conflicto interno se refleja en el texto varias veces.
+En las últimas páginas del capítulo 5, Anzaldúa usa recuerdos como sus lecturas, la música, el cine y la vida en casa para mostrar cómo la identidad chicana se forma entre dos mundos. Su primer encuentro con un autor chicano publicado marca un despertar literario y político, y su lucha por enseñar literatura chicana revela la presión de una noción excluyente de lo “americano”. 
 
-## Explicación del Parte 3
-"En las últimas páginas del capítulo 5, Anzaldúa usa recuerdos como sus lecturas, la música, el cine y la vida en casa para mostrar cómo la identidad chicana se forma entre dos mundos. Su primer encuentro con un autor chicano publicado marca un despertar literario y político, y su lucha por enseñar literatura chicana revela la presión de una noción excluyente de lo “americano”.
-También describe la mezcla de orgullo y vergüenza hacia la cultura mexicana que vivió de niña: el cine, los boleros, la música norteña. Aspectos culturales como estos aparecen mucho y comunican los sentimientos fuertes que tiene ella. Esa ambivalencia resume la experiencia chicana, donde lo propio es a la vez refugio y conflicto.
-La imagen final de su madre cocinando a miles de kilómetros funciona como metáfora de la memoria migrante: la distancia aclara lo que nos forma. Así, Anzaldúa muestra que los borderlands son un espacio emocional lleno de contradicciones del que surge la “nueva conciencia mestiza.""
+También describe la mezcla de orgullo y vergüenza hacia la cultura mexicana que vivió de niña: el cine, los boleros, la música norteña. Aspectos culturales como estos aparecen mucho y comunican los sentimientos fuertes que tiene ella. Esa ambivalencia resume la experiencia chicana, donde lo propio es a la vez refugio y conflicto. 
+
+La imagen final de su madre cocinando a miles de kilómetros funciona como metáfora de la memoria migrante: la distancia aclara lo que nos forma. Así, Anzaldúa muestra que los *borderlands* son un espacio emocional lleno de contradicciones del que surge la “nueva conciencia mestiza".
 
 
 
