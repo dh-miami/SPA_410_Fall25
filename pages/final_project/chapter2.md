@@ -13,7 +13,9 @@ permalink: /chapter2.html
     alt="Electric Oaks on the Hillside" 
     width=410px
     style="height:180px; object-fit:cover; object-position:center;" 
-  /> <small>“Electric Oaks on the Hillside.” Wikimedia Commons.</small>
+  /> 
+  
+  <small>“Electric Oaks on the Hillside.” Wikimedia Commons.</small>
 </p>
 
 Emepzamos nuestra guía de lectura con una nube de palabras donde se muestran de manera visual las ideas principales del capítulo 2. Al ver las palabras que más se repiten como _cultura, mujer, rebeldía, cuerpo, obediencia y traición_, se entiende que Anzaldúa critica cómo la cultura controla, forma y limita a las mujeres. Las palabras relacionadas con el control (_obediencia, autoridad, religión_) aparecen junto a palabras de resistencia (_rebeldía, ruptura, voz, cuerpo_), lo que refleja el conflicto central del capítulo: seguir las reglas culturales o luchar por una identidad propia. Al ver estas palabras agrupadas, también se nota cómo Anzaldúa siempre conecta lo personal con lo social. No hay identidad sin cultura, y no hay rebeldía sin algo que desafiar. En este sentido, la nube de palabras hace visible la estructura del texto: muestra los temas a los que Anzaldúa regresa una y otra vez como la violencia simbólica que viven las mujeres pero también la fuerza de su desobediencia. Este mapa explica por qué el capítulo se siente tan intenso e íntimo porque las palabras que se repiten crean un paisaje que refleja exactamente la lucha que ella describe.
@@ -57,7 +59,7 @@ En el capítulo, la palabra *rebeldía* aparece con mayor fuerza al inicio porqu
 
 Anzaldúa reflexiona en cómo su rebeldía emergió durante su niñez, como una fuerza que la impulsaba a desobedecer las expectativas culturales, familiares y de género. La autora explica cómo eso se manifestaba en la figura de La Bestia-Sombra, que la empoderó a salir su casa (el Valle) por la necesidad de encontrar su identidad verdadera, separándose de los roles opresivos que le fueron puestos desde su nacimiento.
 
-Algunas palabras clave de este sección son los siguientes:
+Algunas palabras clave de este sección son las siguientes:
 
 * **Casa**: más que un lugar físico, representa la cultura, la familia, la comunidad y las expectativas impuestas.  
 * **El Valle:**: región del sur de Texas donde creció Anzaldúa, simboliza su origen, su crecimiento y partes de su cultura. 
