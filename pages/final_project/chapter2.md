@@ -42,6 +42,7 @@ En esta nube de palabras se muestran de manera visual las ideas principales del 
   </iframe>
 </div>
 
+Imagen: Originalmente de cultura inquieta, https://culturainquieta.com/pensamiento/los-motivos-de-la-crisis-del-patriarcado-segun-erich-fromm/ 
 
 En esta parte, la narradora describe cómo la rebeldía es una fuerza innata “en la sangre” que surge como respuesta a las múltiples presiones externas: la familia, la Iglesia, el patriarcado y la cultura anglo que intenta disciplinarla. Su vida ha sido una serie de confrontaciones con normas que buscan moldearla en silencio, obediencia y docilidad, lo que responde directamente a la pregunta de *“¿de qué formas se manifiesta la rebelión femenina contra la norma?”*, pues Anzaldúa muestra cómo hablar pa’tras, negarse a obedecer y rechazar el machismo son expresiones concretas de resistencia. Aunque reconoce que parte de esta rebeldía le ha causado dolor, culpa y autocrítica, también afirma que es una parte esencial de su identidad chicana. A lo largo del capítulo, explica que su relación con las costumbres de su cultura es ambigua: algunas la oprimen y la traicionan, mientras que otras son valiosas, dignas de ser recuperadas. Aun con un crecimiento personal, la “guerra de independencia”, la lucha por definirse a sí misma, sigue siendo continua.
 
@@ -63,6 +64,7 @@ En el capítulo, la palabra *rebeldía* aparece con mayor fuerza al inicio porqu
        alt="Relief map of Texas" width="400" />
 </div>
 <small>Mapa físico del estado de Texas. Wikimedia Commons.</small>
+
 
 
 Anzaldúa reflexiona en cómo su rebeldía emergió durante su niñez, como una fuerza que la impulsaba a desobedecer las expectativas culturales, familiares y de género. Ella explicó cómo eso se manifiesta en la figura de La Bestia-Sombra, que empoderó a salir su casa (el Valle) por necesidad de encontrar su identidad verdadero, esperando de los roles opresivos que le fueron puestos desde su nacimiento.
